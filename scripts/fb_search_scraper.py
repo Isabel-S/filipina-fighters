@@ -48,7 +48,7 @@ def login(link):
     return browser
 
 # SCROLL THROUGH SEARCH RESULTS
-def scrollSearch(browser, max_size, save_path):
+def scrollSearch(browser, max_size, save_path, xpath):
     count = 0
     switch = True
     old_numReviews = 0
@@ -66,7 +66,7 @@ def scrollSearch(browser, max_size, save_path):
         
         # process check
         # update path
-        reviewList = browser.find_elements(By.XPATH, "//div[@class='x1yztbdb']")
+        reviewList = browser.find_elements(By.XPATH, xpath)
         #print(reviewList)
         numReviews = len(reviewList)
         if old_numReviews < numReviews:
@@ -116,5 +116,12 @@ def archiveAtEnd(browser, reviewList, save_path):
         print(f'written!')
 
 # RUNNING EVERYTHING
-browser = login('https://www.facebook.com/search/videos/?q=pia%20ranada&epa=FILTERS&filters=e30')
-scrollSearch(browser, 134, 'ranada_vid')
+def ranada_vid():
+    browser = login('https://www.facebook.com/search/videos/?q=pia%20ranada&epa=FILTERS&filters=e30')
+    scrollSearch(browser, 134, 'ranada_vid', "//div[@class='x1yztbdb']")
+
+def ranada_posts():
+    browser = login('https://www.facebook.com/search/posts/?q=pia%20ranada&epa=FILTERS&filters=eyJycF9jcmVhdGlvbl90aW1lIjoie1wibmFtZVwiOlwiY3JlYXRpb25fdGltZVwiLFwiYXJnc1wiOlwie1xcXCJzdGFydF95ZWFyXFxcIjpcXFwiMjAxNVxcXCIsXFxcInN0YXJ0X21vbnRoXFxcIjpcXFwiMjAxNS0xXFxcIixcXFwiZW5kX3llYXJcXFwiOlxcXCIyMDIwXFxcIixcXFwiZW5kX21vbnRoXFxcIjpcXFwiMjAyMC0xXFxcIixcXFwic3RhcnRfZGF5XFxcIjpcXFwiMjAxNS0xLTFcXFwiLFxcXCJlbmRfZGF5XFxcIjpcXFwiMjAyMC0xLTFcXFwifVwifSJ9')
+    scrollSearch(browser, 62, 'ranada_posts', "//div[@class='x1yztbdb x1n2onr6 xh8yej3 x1ja2u2z']")
+
+ranada_posts()
