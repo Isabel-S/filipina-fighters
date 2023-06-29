@@ -29,7 +29,7 @@ start_id = "10156657404764453"
 seen = True
 
 # Read the JSON file
-with open('extracted_data/ranada_vid_extracted.json', 'r') as file:
+with open('extracted_data/ranada_posts_extracted_comments.json', 'r') as file:
     data = json.load(file)
 
 # Modify the data as needed
