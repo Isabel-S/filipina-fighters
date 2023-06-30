@@ -10,22 +10,21 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 import facebook_scraper as fs
+import json
 
 
 # enable_logging()
 set_cookies("www.facebook.com_cookies.txt")
 
-import json
+# def login():
+#     with open('facebook_credentials.txt') as file:
+#         EMAIL = file.readline().split('"')[1]
+#         PASSWORD = file.readline().split('"')[1] #not getting password
+#         return EMAIL, PASSWORD
 
-def login():
-    with open('facebook_credentials.txt') as file:
-        EMAIL = file.readline().split('"')[1]
-        PASSWORD = file.readline().split('"')[1] #not getting password
-        return EMAIL, PASSWORD
+# EMAIL, PASSWORD = login()
 
-EMAIL, PASSWORD = login()
-
-start_id = "10156657404764453"
+start_id = "1627612373960812"
 seen = True
 
 # Read the JSON file
