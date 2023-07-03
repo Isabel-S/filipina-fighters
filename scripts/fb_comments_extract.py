@@ -24,7 +24,7 @@ set_cookies("www.facebook.com_cookies.txt")
 
 # EMAIL, PASSWORD = login()
 
-start_id = "1627612373960812"
+start_id = "589826555049279"
 seen = True
 
 # Read the JSON file
