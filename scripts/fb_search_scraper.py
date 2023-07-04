@@ -124,4 +124,12 @@ def ranada_posts():
     browser = login('https://www.facebook.com/search/posts/?q=pia%20ranada&epa=FILTERS&filters=eyJycF9jcmVhdGlvbl90aW1lIjoie1wibmFtZVwiOlwiY3JlYXRpb25fdGltZVwiLFwiYXJnc1wiOlwie1xcXCJzdGFydF95ZWFyXFxcIjpcXFwiMjAxNVxcXCIsXFxcInN0YXJ0X21vbnRoXFxcIjpcXFwiMjAxNS0xXFxcIixcXFwiZW5kX3llYXJcXFwiOlxcXCIyMDIwXFxcIixcXFwiZW5kX21vbnRoXFxcIjpcXFwiMjAyMC0xXFxcIixcXFwic3RhcnRfZGF5XFxcIjpcXFwiMjAxNS0xLTFcXFwiLFxcXCJlbmRfZGF5XFxcIjpcXFwiMjAyMC0xLTFcXFwifVwifSJ9')
     scrollSearch(browser, 62, 'ranada_posts', "//div[@class='x1yztbdb x1n2onr6 xh8yej3 x1ja2u2z']")
 
-ranada_posts()
+def tordesillas_vid():
+    browser = login('https://www.facebook.com/search/videos/?q=ellen%20tordesillas')
+    scrollSearch(browser, 140, 'tordesillas_vid', "//div[@class='x1yztbdb']")
+
+def tordesillas_posts():
+    browser = login('https://www.facebook.com/search/posts/?q=ellen%20tordesillas&epa=FILTERS&filters=e30')
+    scrollSearch(browser, 83, 'tordesillas_posts', "//div[@class='x1yztbdb x1n2onr6 xh8yej3 x1ja2u2z']")
+
+tordesillas_posts()
