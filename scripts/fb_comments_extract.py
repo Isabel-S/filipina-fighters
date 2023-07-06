@@ -112,7 +112,7 @@ def extract_comments(start_id, filename):
         print(vid['title'], " video comments saved!")
         time.sleep(5)
 
-extract_comments("1202720996824696", 'extracted_data/ranada_posts_extracted_comments.json')
+extract_comments("986264154854021", 'extracted_data/ranada_posts_extracted_comments.json')
 
 #extract_comments("6652700891447614", 'extracted_data/tordesillas_posts_extracted_comments.json')
 
