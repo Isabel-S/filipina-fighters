@@ -34,6 +34,10 @@ def extract_comments(start_id, filename):
     # Modify the data as needed
     for idx, vid in enumerate(data['videos']):
 
+        # STOP CURRENTLY - TACKLE PROBLEM LATER
+        print("/nikko.barayuga/videos/751785995858288/", "is not  valid link with this approach")
+        break
+
         # get the post id (numerical part of link)
         print(vid['link'])
         post_id = re.search(r'v=(\d+)', vid['link']).group(1)
@@ -112,7 +116,7 @@ def extract_comments(start_id, filename):
         print(vid['title'], " video comments saved!")
         time.sleep(5)
 
-extract_comments("986264154854021", 'extracted_data/ranada_posts_extracted_comments.json')
+extract_comments("425659092725153", 'extracted_data/ranada_posts_extracted_comments.json')
 
 #extract_comments("6652700891447614", 'extracted_data/tordesillas_posts_extracted_comments.json')
 
