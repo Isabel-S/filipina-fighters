@@ -35,8 +35,10 @@ def extract_comments(start_id, filename):
     for idx, vid in enumerate(data['videos']):
 
         # STOP CURRENTLY - TACKLE PROBLEM LATER
-        print("/nikko.barayuga/videos/751785995858288/", "is not  valid link with this approach")
-        break
+        # print("/nikko.barayuga/videos/751785995858288/", "is not  valid link with this approach")
+        # break
+
+        # /ellen.tordesillas/videos/10155835760129282/
 
         # get the post id (numerical part of link)
         print(vid['link'])
@@ -116,9 +118,9 @@ def extract_comments(start_id, filename):
         print(vid['title'], " video comments saved!")
         time.sleep(5)
 
-extract_comments("425659092725153", 'extracted_data/ranada_posts_extracted_comments.json')
+#extract_comments("425659092725153", 'extracted_data/ranada_posts_extracted_comments.json')
 
-#extract_comments("6652700891447614", 'extracted_data/tordesillas_posts_extracted_comments.json')
+#extract_comments("224830877086680", 'extracted_data/tordesillas_posts_extracted_comments.json')
 
 # # get the post (this gives a generator)
 # gen = fs.get_posts(
