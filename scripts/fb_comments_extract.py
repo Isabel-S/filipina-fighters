@@ -33,16 +33,13 @@ def extract_comments(start_id, filename):
 
     # Modify the data as needed
     for idx, vid in enumerate(data['videos']):
-
-        # STOP CURRENTLY - TACKLE PROBLEM LATER
-        # print("/nikko.barayuga/videos/751785995858288/", "is not  valid link with this approach")
-        # break
-
-        # /ellen.tordesillas/videos/10155835760129282/
-
         # get the post id (numerical part of link)
         print(vid['link'])
-        post_id = re.search(r'v=(\d+)', vid['link']).group(1)
+        post_id = ""
+        if ('/videos/' in vid['link']):
+            post_id = vid['link']
+        else:
+            post_id = re.search(r'v=(\d+)', vid['link']).group(1)
 
         if seen:
             if post_id == start_id:
@@ -118,9 +115,9 @@ def extract_comments(start_id, filename):
         print(vid['title'], " video comments saved!")
         time.sleep(5)
 
-#extract_comments("425659092725153", 'extracted_data/ranada_posts_extracted_comments.json')
+extract_comments("/nikko.barayuga/videos/751785995858288/", 'extracted_data/ranada_posts_extracted_comments.json')
 
-#extract_comments("224830877086680", 'extracted_data/tordesillas_posts_extracted_comments.json')
+#extract_comments("/carlossiguionreyna/videos/10156913824294107/", 'extracted_data/tordesillas_posts_extracted_comments.json')
 
 # # get the post (this gives a generator)
 # gen = fs.get_posts(
