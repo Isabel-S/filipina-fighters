@@ -74,10 +74,14 @@ def extract_comments(start_id, filename):
             commenter_id = comment['commenter_id']
             comment_text = comment['comment_text']
             commenter_name = comment['commenter_name']
+            comment_time = comment['comment_time']
+            comment_id = comment['comment_id']
             comment = {
                 'commenter_id': commenter_id,
                 'comment_text': comment_text,
-                'commenter_name': commenter_name 
+                'commenter_name': commenter_name,
+                'comment_time': comment_time,
+                'comment_id': comment_id
             }
             comments.append(comment)
 
@@ -115,7 +119,7 @@ def extract_comments(start_id, filename):
         print(vid['title'], " video comments saved!")
         time.sleep(5)
 
-extract_comments("/nikko.barayuga/videos/751785995858288/", 'extracted_data/ranada_posts_extracted_comments.json')
+extract_comments("311821104406447", 'extracted_data/ranada_posts_extracted_comments.json')
 
 #extract_comments("/carlossiguionreyna/videos/10156913824294107/", 'extracted_data/tordesillas_posts_extracted_comments.json')
 
