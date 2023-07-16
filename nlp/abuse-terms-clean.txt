@@ -1,0 +1,558 @@
+coward
+dork
+fu
+gfy
+idiot
+moron
+oaf
+stfu
+wimp
+witch type=sexist
+anus
+your arse
+your ass
+arsehole	
+arse bandit	type=homophobic	
+arsebandit	type=homophobic	
+assbag
+assbandit	type=homophobic	
+assbite
+assclown
+asscock
+asscracker
+asses
+assface
+assfuck
+assfucker	type=homophobic	
+assgoblin	type=homophobic	
+ass-hat
+asshat
+asshead
+asshole
+asshopper
+ass-jabber
+assjacker
+asslick
+asslicker
+assmonkey
+assmunch
+assmuncher
+assnigger	type=racist	
+ass-pirate
+asspirate
+assshit
+assshole
+asssucker
+asswad
+asswipe
+axewound
+ballsack
+bampot
+barmpot
+bastard	
+batty boy	type=homophobic	
+beaner
+bellend	
+berk
+biatch
+bint	type=sexist	
+bitch	type=sexist	
+bitchass    type=sexist	
+bitches	type=sexist	
+bitchtits
+bitchy    type=sexist	
+blighter
+boner
+boob
+brotherfucker
+bumblefuck	type=homophobic	
+bum boy	type=homophobic	
+bum clat	type=homophobic	
+buttfucka	type=homophobic	
+buttfucker	type=homophobic	
+butt-pirate	type=homophobic	
+butt plug
+carpetmuncher	type=homophobic	
+charva
+chav
+chinc
+chink	type=racist	
+chinky	type=racist	
+choad
+chode
+clit
+clitface	type=sexist	
+clitfuck	type=sexist	
+clunge	
+clusterfuck
+cobblers
+a cock	
+u cock	
+you cock	
+cockass	
+cockbite	
+cockburger	
+cockface	
+cockfucker	
+cockhead	
+cockjockey	
+cockknoker	
+cockmaster	
+cockmongler	
+cockmongruel	
+cockmonkey	
+cockmuncher	
+cocknose	
+cocknugget	
+cockshit	
+cocksmith	
+cocksmoke	
+cocksmoker	
+cocksniffer	
+cocksucker	
+cockwaffle	
+codger
+coochie
+coochy
+coon	type=racist	
+cooter
+cretin	
+cripple	
+cumbubble
+cumdumpster
+cumguzzler
+cumjockey
+cumslut
+cumtart
+cunnie
+cunt	
+cuntass	
+cuntface	
+cunthole	
+cuntlicker	
+cuntrag	
+cuntslut	
+dago	type=racist	
+darky	type=racist	
+deggo
+dick	
+dickbag	
+dickbeaters	
+dickface	
+dickfuck	
+dickfucker	
+dickhead	
+dickhole	
+dickmonger	
+dicks	
+dickslap	
+dick-sneeze	
+dicksucker	
+dicktickler	
+dickwad	
+dickweasel	
+dickweed	
+dickwod	
+dike
+dildo
+dipshit
+divvy
+doochbag
+dookie
+douche
+douchebag
+douche-fag
+douchewaffle
+duffer
+dumass
+dumb ass
+dumbass
+dumbfuck
+dumb fuck
+dumbshit
+dumshit
+dyke	type=homophobic	
+eejit
+fag	type=homophobic	
+fagbag	type=homophobic	
+fagfucker	type=homophobic	
+faggit	type=homophobic	
+faggot	type=homophobic	
+faggotcock	type=homophobic	
+fagtard	type=homophobic	
+fanny		
+fatass
+flamer
+f u c k	
+fuck you	
+fuckyou	
+fuckass	
+fuckbag	
+fuckboy	
+fuckbrain	
+fuckbutt	
+fuckbutter	
+fucker	
+fuckersucker	
+fuckface	
+fuckhead	
+fuckhole	
+fucknut	
+fucknutt	
+fuckoff	
+fuck off	
+fuckstick	
+fucktard	
+fucktart	
+fuckup	
+fuckwad	
+fuckwit	
+fuckwitt	
+fudgepacker	type=homophobic	
+gayass	type=homophobic	
+gaybob	type=homophobic	
+gaydo	type=homophobic	
+gayfuck	type=homophobic	
+gayfuckist	type=homophobic	
+gaylord	type=homophobic	
+gaytard	type=homophobic	
+gaywad	type=homophobic	
+gippo	type=racist	
+git	
+golliwog	type=racist	
+gooch
+gook	type=racist	
+gringo
+heeb	type=racist	
+homo	type=homophobic	
+homodumbshit	type=homophobic	
+honky	type=racist	
+honkey	type=racist	
+you idiot
+jackass
+jagoff
+jap	type=racist	
+jerk
+jerkass
+jigaboo
+jizz	
+jungle bunny	type=racist	
+junglebunny	type=racist	
+kike	type=racist	
+kooch
+kootch
+kraut	type=racist	
+kunt
+kyke	type=racist	
+lameass
+lardass
+lesbo	type=homophobic	
+lezza	type=homophobic	
+lezzer	type=homophobic	
+lezzie	type=homophobic	
+loony	
+mcfagget	type=homophobic	
+minger		
+mong	
+mothafucka	
+motherfucker	
+muff
+muffdiver	type=homophobic	
+munter	
+muppet
+nigaboo	type=racist	
+nigga	type=racist	
+nigger	type=racist	
+niggers	type=racist	
+niglet
+nig-nag	type=racist	
+nonce	type=homophobic	
+numpty
+nut sack
+nutsack
+nutter	
+paki	type=racist	
+panooch
+pecker
+peckerhead
+penis
+penisbanger
+penisfucker
+penispuffer
+pikey	type=racist	
+pillock
+pish
+piss artist
+piss-artist
+pissflaps
+plonker
+polack	type=racist	
+polesmoker
+poof	type=homophobic	
+poofter	type=homophobic	
+pollock
+poon
+poonani
+poonany
+poontang
+porch monkey
+porchmonkey
+prat
+prick	
+prickteaser	
+psycho	
+punanny	
+punani	
+punta
+pussies	
+pussy	
+puto
+queef
+queer	type=homophobic	
+queerbait	type=homophobic	
+queerhole	type=homophobic	
+raghead	type=racist	
+rag head	type=racist	
+renob
+retard	
+rimjob
+rugmuncher	type=homophobic	
+ruski
+sand nigger	type=racist	
+sandnigger	type=racist	
+schizo	
+schlong
+scrote
+scrubber
+scum
+scumbag
+shitass
+shitbag
+shitbagger
+shitbrains
+shitbreath
+shitcunt
+shitdick
+shitface
+shitfaced
+shithead
+shithole
+shithouse
+shitspitter
+shitstain
+shitter
+skank	type=sexist	
+skeet
+skullfuck
+slag	type=sexist	
+slapper	type=sexist	
+slut	type=sexist	
+slutbag	type=sexist	
+smeg
+smeghead
+sociopath
+son of a bitch	
+spic	type=racist	
+spick	type=racist	
+splooge
+spook
+suckass
+tart	
+tard
+testicle
+thundercunt
+tit	
+tosser
+tranny	type=homophobic	
+trollop
+turd
+twat	
+twatlips	
+twats	
+twatwaffle	
+tyke
+unclefucker
+wally
+wank	
+wanker	
+wankjob
+wassack
+wassock
+wazzock
+wetback
+whore	type=sexist	
+whorebag	type=sexist	
+whoreface	type=sexist	
+wog	type=racist	
+wop	type=racist	
+shut up
+liar 
+liar liar
+fugly
+fuck u 
+fat liar
+hag
+stupid
+pathetic loser
+dimwit
+stupid bitch	type=sexist	
+stupid idiot
+fuck american
+bastard
+dumb af 
+idiots
+retarted
+imbecile
+you are stupid
+spreading lies
+full of shit
+coward 
+liars
+piece of shit
+liar bitch	type=sexist	
+douchbag
+testicle
+clown 
+buffoon 
+psycho
+b!tch	type=sexist	
+ass licker
+clown
+buffoon
+loser
+dick sucker
+losers
+morons
+twat
+liars go to hell
+fucking liar
+shut the fuck up
+rot in hell
+pants on fire
+telling lies
+your fake news
+lying machine
+get lost
+fucking stupid
+go to hell
+dumb
+fakenewsmaker
+scrotum
+face
+nincompoop
+fake news peddler
+queen of fake news	type=sexist	
+presstittue	type=sexist	
+dilawan
+dilaw
+shut-up
+yellowtard 
+yellowtards
+traitor
+go fuckyourself
+go fuck yourself
+milf    type=sexist	
+get lost 
+fake news queen	type=sexist	
+chinese prosti	type=sexist	
+putang ina mo
+stupid liar 
+douchebag 
+pathetic liar
+ugly
+w!tch	type=sexist	
+jerk 
+full of shit 
+boang
+fucking idiot
+cretin 
+ching chong
+scum 
+gaga
+scumbag 
+you are a criminal 
+stop your nonsense
+bobo
+scrotum fae
+tomboy  	type=homophobic
+puntang ina
+monkey  type=racist	
+ang babae   type=sexist
+puta   type=sexist
+bobong
+gago
+ulol
+babaeng   type=sexist
+trash
+kasilyas
+putang
+putangina
+putang ina
+kabobo
+kapal ng mukha
+salot
+devil
+bayaran
+fake news
+criminal
+walang hiya
+tae 
+punyeta
+botlog
+bulol
+bugok
+puki   type=sexist
+hayop
+lintik
+kiki
+pipi
+kipay
+ukininam
+titi
+bayag
+kantot
+hindut
+tumahimik
+putik
+hudas
+panget
+pek pek
+kantotero
+sira ulo
+demonyo
+kulangot
+pokpok
+magpokpok
+tarantado
+leche
+supot
+yawa
+buang
+pakyu
+siraulo
+mukhang mga lalaki 
+kapal tlaga mukha
+kapal ang mukha
+makapal ang mukha
+amputa
+bilat
+bogo
+boto
+bwesit
+bwisit
+engot
+gagi
+hayup
+hinampak
+taena
+tanga
+iyotin
+kagaguhan
+kagaguhang
+kantut
+kaululan
+kayat
+nimal
+ogag
+pesteng
+putragis

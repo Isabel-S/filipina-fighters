@@ -1,0 +1,526 @@
+coward
+dork
+FU
+GFY
+idiot
+moron
+oaf
+STFU
+wimp
+witch
+anus
+your arse
+your ass
+arsehole	strength=medium
+arse bandit	type=homophobic	strength=strong
+arsebandit	type=homophobic	strength=strong
+assbag
+assbandit	type=homophobic	strength=strong
+assbite
+assclown
+asscock
+asscracker
+asses
+assface
+assfuck
+assfucker	type=homophobic	strength=strong
+assgoblin	type=homophobic	strength=strong
+ass-hat
+asshat
+asshead
+asshole
+asshopper
+ass-jabber
+assjacker
+asslick
+asslicker
+assmonkey
+assmunch
+assmuncher
+assnigger	type=racist	strength=strong
+ass-pirate
+asspirate
+assshit
+assshole
+asssucker
+asswad
+asswipe
+axewound
+ballsack
+bampot
+barmpot
+bastard	strength=strong
+batty boy	type=homophobic	strength=strong
+beaner
+bellend	strength=strong
+berk
+biatch
+bint	type=sexist	strength=medium
+bitch	type=sexist	strength=medium
+bitchass
+bitches	type=sexist	strength=strong
+bitchtits
+bitchy
+blighter
+boner
+boob
+brotherfucker
+bumblefuck	type=homophobic	strength=strong
+bum boy	type=homophobic	strength=strong
+bum clat	type=homophobic	strength=strong
+buttfucka	type=homophobic	strength=strong
+buttfucker	type=homophobic	strength=strong
+butt-pirate	type=homophobic	strength=strong
+butt plug
+carpetmuncher	type=homophobic	strength=strong
+charva
+chav
+chinc
+chink	type=racist	strength=strong
+chinky	type=racist	strength=strong
+choad
+chode
+clit
+clitface
+clitfuck
+clunge	strength=strong
+clusterfuck
+cobblers
+a cock	strength=strong
+u cock	strength=strong
+you cock	strength=strong
+cockass	strength=strong
+cockbite	strength=strong
+cockburger	strength=strong
+cockface	strength=strong
+cockfucker	strength=strong
+cockhead	strength=strong
+cockjockey	strength=strong
+cockknoker	strength=strong
+cockmaster	strength=strong
+cockmongler	strength=strong
+cockmongruel	strength=strong
+cockmonkey	strength=strong
+cockmuncher	strength=strong
+cocknose	strength=strong
+cocknugget	strength=strong
+cockshit	strength=strong
+cocksmith	strength=strong
+cocksmoke	strength=strong
+cocksmoker	strength=strong
+cocksniffer	strength=strong
+cocksucker	strength=strong
+cockwaffle	strength=strong
+codger
+coochie
+coochy
+coon	type=racist	strength=strong
+cooter
+cretin	strength=mild
+cripple	strength=medium
+cumbubble
+cumdumpster
+cumguzzler
+cumjockey
+cumslut
+cumtart
+cunnie
+cunt	strength=strong
+cuntass	strength=strong
+cuntface	strength=strong
+cunthole	strength=strong
+cuntlicker	strength=strong
+cuntrag	strength=strong
+cuntslut	strength=strong
+dago	type=racist	strength=strong
+darky	type=racist	strength=strong
+deggo
+dick	strength=strong
+dickbag	strength=strong
+dickbeaters	strength=strong
+dickface	strength=strong
+dickfuck	strength=strong
+dickfucker	strength=strong
+dickhead	strength=strong
+dickhole	strength=strong
+dickmonger	strength=strong
+dicks	strength=strong
+dickslap	strength=strong
+dick-sneeze	strength=strong
+dicksucker	strength=strong
+dicktickler	strength=strong
+dickwad	strength=strong
+dickweasel	strength=strong
+dickweed	strength=strong
+dickwod	strength=strong
+dike
+dildo
+dipshit
+divvy
+doochbag
+dookie
+douche
+douchebag
+douche-fag
+douchewaffle
+duffer
+dumass
+dumb ass
+dumbass
+dumbfuck
+dumb fuck
+dumbshit
+dumshit
+dyke	type=homophobic	strength=strong
+eejit
+fag	type=homophobic	strength=strong
+fagbag	type=homophobic	strength=strong
+fagfucker	type=homophobic	strength=strong
+faggit	type=homophobic	strength=strong
+faggot	type=homophobic	strength=strong
+faggotcock	type=homophobic	strength=strong
+fagtard	type=homophobic	strength=strong
+fanny	strength=strong	strength=strong
+fatass
+flamer
+f u c k	strength=strong
+fuck you	strength=strong
+fuckyou	strength=strong
+fuckass	strength=strong
+fuckbag	strength=strong
+fuckboy	strength=strong
+fuckbrain	strength=strong
+fuckbutt	strength=strong
+fuckbutter	strength=strong
+fucker	strength=strong
+fuckersucker	strength=strong
+fuckface	strength=strong
+fuckhead	strength=strong
+fuckhole	strength=strong
+fucknut	strength=strong
+fucknutt	strength=strong
+fuckoff	strength=strong
+fuck off	strength=strong
+fuckstick	strength=strong
+fucktard	strength=strong
+fucktart	strength=strong
+fuckup	strength=strong
+fuckwad	strength=strong
+fuckwit	strength=strong
+fuckwitt	strength=strong
+fudgepacker	type=homophobic	strength=strong
+gayass	type=homophobic	strength=strong
+gaybob	type=homophobic	strength=strong
+gaydo	type=homophobic	strength=strong
+gayfuck	type=homophobic	strength=strong
+gayfuckist	type=homophobic	strength=strong
+gaylord	type=homophobic	strength=strong
+gaytard	type=homophobic	strength=strong
+gaywad	type=homophobic	strength=strong
+gippo	type=racist	strength=medium
+git	strength=mild
+golliwog	type=racist	strength=strong
+gooch
+gook	type=racist	strength=strong
+gringo
+heeb	type=racist	strength=strong
+homo	type=homophobic	strength=strong
+homodumbshit	type=homophobic	strength=strong
+honky	type=racist	strength=strong
+honkey	type=racist	strength=strong
+you idiot
+jackass
+jagoff
+jap	type=racist	strength=strong
+jerk
+jerkass
+jigaboo
+jizz	strength=strong
+jungle bunny	type=racist	strength=strong
+junglebunny	type=racist	strength=strong
+kike	type=racist	strength=strong
+kooch
+kootch
+kraut	type=racist	strength=mild
+kunt
+kyke	type=racist	strength=strong
+lameass
+lardass
+lesbo	type=homophobic	strength=strong
+lezza	type=homophobic	strength=strong
+lezzer	type=homophobic	strength=strong
+lezzie	type=homophobic	strength=strong
+loony	strength=mild
+mcfagget	type=homophobic	strength=strong
+minger	strength=mild	strength=strong
+mong	strength=strong
+moron
+mothafucka	strength=strong
+motherfucker	strength=strong
+muff
+muffdiver	type=homophobic	strength=strong
+munter	strength=medium
+muppet
+nigaboo	type=racist	strength=strong
+nigga	type=racist	strength=strong
+nigger	type=racist	strength=strong
+niggers	type=racist	strength=strong
+niglet
+nig-nag	type=racist	strength=strong
+nonce	type=homophobic	strength=strong
+numpty
+nut sack
+nutsack
+nutter	strength=mild
+paki	type=racist	strength=strong
+panooch
+pecker
+peckerhead
+penis
+penisbanger
+penisfucker
+penispuffer
+pikey	type=racist	strength=strong
+pillock
+pish
+piss artist
+piss-artist
+pissflaps
+plonker
+polack	type=racist	strength=strong
+polesmoker
+poof	type=homophobic	strength=strong
+poofter	type=homophobic	strength=strong
+pollock
+poon
+poonani
+poonany
+poontang
+porch monkey
+porchmonkey
+prat
+prick	strength=strong
+prickteaser	strength=strong
+psycho	strength=mild
+punanny	strength=strong
+punani	strength=strong
+punta
+pussies	strength=strong
+pussy	strength=strong
+puto
+queef
+queer	type=homophobic	strength=strong
+queerbait	type=homophobic	strength=strong
+queerhole	type=homophobic	strength=strong
+raghead	type=racist	strength=strong
+rag head	type=racist	strength=strong
+renob
+retard	strength=strong
+rimjob
+rugmuncher	type=homophobic	strength=strong
+ruski
+sand nigger	type=racist	strength=strong
+sandnigger	type=racist	strength=strong
+schizo	strength=medium
+schlong
+scrote
+scrubber
+scum
+scumbag
+shitass
+shitbag
+shitbagger
+shitbrains
+shitbreath
+shitcunt
+shitdick
+shitface
+shitfaced
+shithead
+shithole
+shithouse
+shitspitter
+shitstain
+shitter
+skank	type=sexist	strength=strong
+skeet
+skullfuck
+slag	type=sexist	strength=strong
+slapper	type=sexist	strength=mild
+slut	type=sexist	strength=strong
+slutbag	type=sexist	strength=strong
+smeg
+smeghead
+sociopath
+son of a bitch	strength=medium
+spic	type=racist	strength=strong
+spick	type=racist	strength=strong
+splooge
+spook
+suckass
+tart	strength=mild
+tard
+testicle
+thundercunt
+tit	strength=medium
+tosser
+tranny	type=homophobic	strength=strong
+trollop
+turd
+twat	strength=strong
+twatlips	strength=strong
+twats	strength=strong
+twatwaffle	strength=strong
+tyke
+unclefucker
+wally
+wank	strength=strong
+wanker	strength=strong
+wankjob
+wassack
+wassock
+wazzock
+wetback
+whore	type=sexist	strength=strong
+whorebag	type=sexist	strength=strong
+whoreface	type=sexist	strength=strong
+wog	type=racist	strength=strong
+wop	type=racist	strength=strong
+shut up
+Liar 
+Liar liar
+Fugly
+Pussy
+Fuck u 
+Fat liar
+Hag
+Stupid
+Scum
+pathetic loser
+Dimwit
+Stupid bitch
+Stupid idiot
+Scumbag
+Fuck american
+Biatch
+Bastard
+Dumb af 
+Idiots
+Dumb ass
+Retarted
+Imbecile
+Witch
+Slut
+You are stupid
+Spreading lies
+Full of shit
+Lesbo
+coward 
+Liars
+Piece of shit
+Liar bitch
+Douchbag
+Testicle 
+retard
+Clown 
+Buffoon 
+Psycho
+b!tch
+Ass licker
+Clown
+Buffoon
+Loser
+Dildo
+Tard
+Faggot
+Moron
+gringo
+Dick sucker
+Losers
+Morons
+Twat
+Fuck off
+Asshole
+Fuck you
+Shithole
+Liars go to hell
+Your ass
+Fucking liar
+Shut the fuck up
+Rot in hell
+Pants on fire
+Asslicker
+Telling lies
+Your fake news
+Lying machine
+Get lost
+Fu
+Fucking stupid
+Go to hell
+Bitch
+Dumb
+Fakenewsmaker
+Scrotum
+Face
+Nincompoop
+Fake news peddler
+Stfu
+turd
+Queen of fake news
+Presstittue
+Dilawan
+Dilaw
+Shut-up
+yellowtard 
+Traitor
+Go fuckyourself
+Whore
+Milf
+Your ass
+Get lost 
+Fake news queen
+Slut 
+Chinese prosti
+Morons
+Putang ina mo
+Stupid liar 
+douchebag 
+Pathetic liar
+Ugly
+Faggot
+W!tch
+Jerk 
+Full of shit 
+Boang
+Fucking idiot
+Fuck u 
+Piece of shit
+Cretin 
+ching chong
+Scum 
+You are stupid
+Fucking liar 
+Fucker 
+Gaga
+Scumbag 
+You are a criminal 
+Stop your nonsense
+Bobo
+Scrotum fae
+Tomboy
+Puntang ina
+Monkey 
+Ang babae
+Puta
+Bobong
+Gago
+Ulol
+Babaeng
+Trash
+Kasilyas
+Putang ina
+Kabobo
+kapal ng mukha
+Salot
+devil
+

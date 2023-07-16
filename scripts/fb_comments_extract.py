@@ -84,26 +84,6 @@ def extract_comments(start_id, filename):
                 'comment_id': comment_id
             }
             comments.append(comment)
-
-        ################
-
-        # # search for comments
-        # for post in get_posts(post_urls=[post_id], options={"comments": True}):
-        #     likes = post['likes']
-        #     commentsCount = post['comments']
-        #     shares = post['shares']
-
-        #     # create list of comments to store
-        #     for idx2, comment in enumerate(post['comments_full']):
-        #         commenter_id = comment['commenter_id']
-        #         comment_text = comment['comment_text']
-        #         commenter_name = comment['commenter_name']
-        #         comment = {
-        #             'commenter_id': commenter_id,
-        #             'comment_text': comment_text,
-        #             'commenter_name': commenter_name 
-        #         }
-        #         comments.append(comment)
         
         data['videos'][idx]['likes'] = likes
         data['videos'][idx]['shares'] = shares
@@ -119,29 +99,7 @@ def extract_comments(start_id, filename):
         print(vid['title'], " video comments saved!")
         time.sleep(5)
 
-extract_comments("311821104406447", 'extracted_data/ranada_posts_extracted_comments.json')
+extract_comments("424644765776922", 'extracted_data/ranada_posts_extracted_comments.json')
 
-#extract_comments("/carlossiguionreyna/videos/10156913824294107/", 'extracted_data/tordesillas_posts_extracted_comments.json')
-
-# # get the post (this gives a generator)
-# gen = fs.get_posts(
-#     post_urls=[post_id],
-#     options={"comments": True}
-# )
-
-# # take 1st element of the generator which is the post we requested
-# post = next(gen)
-
-# # extract the comments part
-# comments = post['comments_full']
-
-# # process comments as you want...
-# for comment in comments:
-
-#     # e.g. ...print them
-#     print(comment)
-
-#     # e.g. ...get the replies for them
-#     for reply in comment['replies']:
-#         print(' ', reply)
+#extract_comments("1000117636765738", 'extracted_data/tordesillas_posts_extracted_comments.json')
 
