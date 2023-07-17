@@ -45,10 +45,11 @@ def find_tags(reporter, simple):
 
             for tag in texttags:
                 if simple:
-                    tag = tag.lower().strip(punctuation)
-                if tag not in tags:
-                    tags[tag] = 0
-                tags[tag] += 1
+                    tag = '#'+tag.lower().strip(punctuation)
+                if tag != '#':
+                    if tag not in tags:
+                        tags[tag] = 0
+                    tags[tag] += 1
     print(tags)
 
     # Write data  to the JSON file
@@ -73,7 +74,7 @@ def find_tags(reporter, simple):
     text = open('nlp/'+reporter+'_hashtags.txt').read()
     # Generate a word cloud image
     wc = WordCloud(width = 800, height = 400, collocations=False)
-    wordcloud = wc.generate(text)
+    wordcloud = wc.generate_from_frequencies(tags)
     wordcloud.to_file('nlp/'+reporter+'_hashtags_cloud.png')
     
 
