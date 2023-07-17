@@ -1,178 +1,172 @@
-coward
-dork
-fu
-gfy
-idiot
-moron
-oaf
-stfu
-wimp
-witch type=sexist
-anus
-your arse
-your ass
-arsehole	
-arse bandit	type=homophobic	
-arsebandit	type=homophobic	
-assbag
-assbandit	type=homophobic	
-assbite
-assclown
-asscock
-asscracker
-asses
-assface
-assfuck
+dork    type=sexist	
+fu  type=sexist	
+gfy  type=sexist	 
+idiot  type=credibility	
+moron   type=credibility	
+oaf   type=credibility	
+stfu  type=other	
+wimp    type=other
+witch   type=sexist
+anus    type=sexist
+your arse   type=sexist
+your ass    type=sexist
+arsehole	 type=sexist
+arse bandit type=homophobic	
+arsebandit  type=homophobic	
+assbag   type=sexist
+assbandit   type=homophobic	
+assbite  type=sexist
+assclown     type=sexist
+asscock  type=sexist
+asscracker   type=sexist
+asses    type=sexist
+assface  type=sexist
+assfuck  type=sexist
 assfucker	type=homophobic	
 assgoblin	type=homophobic	
-ass-hat
-asshat
-asshead
-asshole
-asshopper
-ass-jabber
-assjacker
-asslick
-asslicker
-assmonkey
-assmunch
-assmuncher
+ass-hat  type=sexist
+asshat   type=sexist
+asshead  type=sexist
+asshole  type=sexist
+asshopper   type=sexist
+ass-jabber   type=sexist
+assjacker    type=sexist
+asslick  type=sexist
+asslicker    type=sexist
+assmonkey    type=racist
+assmunch        type=sexist
+assmuncher      type=sexist
 assnigger	type=racist	
-ass-pirate
-asspirate
-assshit
-assshole
-asssucker
-asswad
-asswipe
-axewound
-ballsack
-bampot
-barmpot
-bastard	
+ass-pirate      type=sexist
+asspirate       type=sexist
+assshit     type=sexist
+assshole        type=sexist
+asssucker       type=sexist
+asswad      type=sexist
+asswipe     type=sexist
+axewound        type=sexist
+ballsack        type=sexist
+bampot  type=credibility	
+barmpot  type=credibility	
+bastard  type=credibility		
 batty boy	type=homophobic	
-beaner
-bellend	
-berk
-biatch
+beaner  type=racist
+bellend     type=sexist
+berk  type=credibility	
+biatch	type=sexist	
 bint	type=sexist	
 bitch	type=sexist	
 bitchass    type=sexist	
 bitches	type=sexist	
-bitchtits
+bitchtits	type=sexist	
 bitchy    type=sexist	
-blighter
-boner
-boob
-brotherfucker
+blighter   type=other
+boner	type=sexist	
+boob	type=sexist	
+brotherfucker	type=sexist	
 bumblefuck	type=homophobic	
 bum boy	type=homophobic	
 bum clat	type=homophobic	
 buttfucka	type=homophobic	
 buttfucker	type=homophobic	
 butt-pirate	type=homophobic	
-butt plug
+butt plug	type=sexist	
 carpetmuncher	type=homophobic	
-charva
-chav
-chinc
+chinc	type=racist	
 chink	type=racist	
 chinky	type=racist	
-choad
-chode
-clit
+choad	type=sexist	
+chode	type=sexist	
+clit	type=sexist	
 clitface	type=sexist	
 clitfuck	type=sexist	
-clunge	
-clusterfuck
-cobblers
-a cock	
-u cock	
-you cock	
-cockass	
-cockbite	
-cockburger	
-cockface	
-cockfucker	
-cockhead	
-cockjockey	
-cockknoker	
-cockmaster	
-cockmongler	
-cockmongruel	
-cockmonkey	
-cockmuncher	
-cocknose	
-cocknugget	
-cockshit	
-cocksmith	
-cocksmoke	
-cocksmoker	
-cocksniffer	
-cocksucker	
-cockwaffle	
-codger
-coochie
-coochy
+clunge	type=sexist	
+cobblers    type=credibility
+a cock	type=sexist		
+u cock	type=sexist		
+you cock	type=sexist	
+cockass	type=sexist	
+cockbite	type=sexist		
+cockburger	type=sexist		
+cockface	type=sexist		
+cockfucker	type=sexist		
+cockhead	type=sexist		
+cockjockey	type=sexist		
+cockknoker	type=sexist		
+cockmaster	type=sexist		
+cockmongler	type=sexist		
+cockmongruel	type=sexist		
+cockmonkey	type=racist		
+cockmuncher	type=sexist		
+cocknose	type=sexist		
+cocknugget	type=sexist		
+cockshit	type=sexist		
+cocksmith	type=sexist		
+cocksmoke	type=sexist		
+cocksmoker	type=sexist		
+cocksniffer	type=sexist		
+cocksucker	type=sexist		
+cockwaffle	type=sexist		
+coochie	type=sexist	
+coochy	type=sexist	
 coon	type=racist	
-cooter
-cretin	
-cripple	
-cumbubble
-cumdumpster
-cumguzzler
-cumjockey
-cumslut
-cumtart
-cunnie
-cunt	
-cuntass	
-cuntface	
-cunthole	
-cuntlicker	
-cuntrag	
-cuntslut	
+cooter	type=sexist	
+cretin	type=other	
+cripple type=other
+cumbubble   type=sexist	
+cumdumpster type=sexist	
+cumguzzler  type=sexist	
+cumjockey	type=sexist	
+cumslut	type=sexist	
+cumtart	type=sexist	
+cunnie	type=sexist	
+cunt	type=sexist		
+cuntass	type=sexist		
+cuntface	type=sexist			
+cunthole	type=sexist			
+cuntlicker	type=sexist			
+cuntrag	type=sexist			
+cuntslut	type=sexist		
 dago	type=racist	
 darky	type=racist	
-deggo
-dick	
-dickbag	
-dickbeaters	
-dickface	
-dickfuck	
-dickfucker	
-dickhead	
-dickhole	
-dickmonger	
-dicks	
-dickslap	
-dick-sneeze	
-dicksucker	
-dicktickler	
-dickwad	
-dickweasel	
-dickweed	
-dickwod	
-dike
-dildo
-dipshit
-divvy
-doochbag
-dookie
-douche
-douchebag
-douche-fag
-douchewaffle
-duffer
-dumass
-dumb ass
-dumbass
-dumbfuck
-dumb fuck
-dumbshit
-dumshit
+deggo	type=racist	
+dick	type=sexist		
+dickbag	type=sexist		
+dickbeaters	type=sexist		
+dickface	type=sexist		
+dickfuck	type=sexist		
+dickfucker	type=sexist		
+dickhead	type=sexist		
+dickhole	type=sexist		
+dickmonger	type=sexist		
+dicks	type=sexist		
+dickslap	type=sexist		
+dick-sneeze	type=sexist		
+dicksucker	type=sexist		
+dicktickler	type=sexist		
+dickwad		type=sexist	
+dickweasel	type=sexist		
+dickweed	type=sexist		
+dickwod	type=sexist		
+dike	type=homophobic	
+dildo	type=sexist	
+dipshit	type=other
+divvy   type=credibility
+doochbag    type=other
+dookie    type=other
+douche    type=other
+douche-fag    type=other
+douchewaffle    type=other
+duffer   type=credibility
+dumass   type=credibility
+dumb ass   type=credibility
+dumbass   type=credibility
+dumbfuck   type=credibility
+dumb fuck   type=credibility
+dumbshit   type=credibility
+dumshit   type=credibility
 dyke	type=homophobic	
-eejit
+eejit   type=credibility   
 fag	type=homophobic	
 fagbag	type=homophobic	
 fagfucker	type=homophobic	
@@ -180,34 +174,35 @@ faggit	type=homophobic
 faggot	type=homophobic	
 faggotcock	type=homophobic	
 fagtard	type=homophobic	
-fanny		
-fatass
-flamer
-f u c k	
-fuck you	
-fuckyou	
-fuckass	
-fuckbag	
-fuckboy	
-fuckbrain	
-fuckbutt	
-fuckbutter	
-fucker	
-fuckersucker	
-fuckface	
-fuckhead	
-fuckhole	
-fucknut	
-fucknutt	
-fuckoff	
-fuck off	
-fuckstick	
-fucktard	
-fucktart	
-fuckup	
-fuckwad	
-fuckwit	
-fuckwitt	
+fanny   type=sexist			
+fatass  type=sexist	
+flamer	type=homophobic	
+f u c k	type=sexist		
+fuck you	type=sexist		
+fuckyou	type=sexist		
+fuckass	type=sexist		
+fuckbag	type=sexist		
+fuckboy	type=sexist		
+fuckbrain	type=sexist		
+fuckbutt	type=sexist		
+fuckbutter	type=sexist		
+fucker	type=sexist		
+fuckersucker	type=sexist		
+fuckface	type=sexist		
+fuckhead	type=sexist		
+fuckhole	type=sexist		
+fucknut type=sexist		
+fucknutt	type=sexist		
+fuckoff	type=sexist		
+fuck off	type=sexist		
+fuckstick	type=sexist		
+fucktard	type=sexist		
+fucktart	type=sexist		
+fuckup	type=sexist	
+fuckwad	type=sexist		
+fuckwit	type=sexist		
+fuckwitt	type=sexist	
+fuckk u	type=sexist		
 fudgepacker	type=homophobic	
 gayass	type=homophobic	
 gaybob	type=homophobic	
@@ -218,341 +213,303 @@ gaylord	type=homophobic
 gaytard	type=homophobic	
 gaywad	type=homophobic	
 gippo	type=racist	
-git	
 golliwog	type=racist	
-gooch
+gooch   type=sexist
 gook	type=racist	
-gringo
+gringo   type=racist
 heeb	type=racist	
 homo	type=homophobic	
 homodumbshit	type=homophobic	
 honky	type=racist	
 honkey	type=racist	
-you idiot
-jackass
-jagoff
+you idiot   type=credibility
+jackass type=sexist
 jap	type=racist	
-jerk
-jerkass
-jigaboo
-jizz	
+jerk    type=other
+jerkass type=sexist
+jizz type=sexist
 jungle bunny	type=racist	
 junglebunny	type=racist	
 kike	type=racist	
-kooch
-kootch
+kooch   type=sexist
+kootch  type=sexist
 kraut	type=racist	
-kunt
+kunt    type=sexist
 kyke	type=racist	
-lameass
-lardass
+lameass   type=sexist
 lesbo	type=homophobic	
 lezza	type=homophobic	
 lezzer	type=homophobic	
 lezzie	type=homophobic	
-loony	
 mcfagget	type=homophobic	
-minger		
-mong	
-mothafucka	
-motherfucker	
-muff
+minger  type=racist		
+mong       type=credibility	
+mothafucka   type=sexist
+motherfucker   type=sexist	
+muff   type=sexist	
 muffdiver	type=homophobic	
-munter	
-muppet
+munter   type=sexist	
 nigaboo	type=racist	
 nigga	type=racist	
 nigger	type=racist	
 niggers	type=racist	
-niglet
+niglet	type=racist	
 nig-nag	type=racist	
 nonce	type=homophobic	
-numpty
-nut sack
-nutsack
-nutter	
+nut sack   type=sexist
+nutsack   type=sexist
+nutter   type=sexist	
 paki	type=racist	
-panooch
-pecker
-peckerhead
-penis
-penisbanger
-penisfucker
-penispuffer
+panooch   type=sexist
+pecker   type=sexist
+peckerhead   type=sexist
+penis   type=sexist
+penisbanger   type=sexist
+penisfucker   type=sexist
+penispuffer   type=sexist
 pikey	type=racist	
-pillock
-pish
-piss artist
-piss-artist
-pissflaps
-plonker
+pillock      type=credibility
+pish      type=other
+piss artist   type=sexist
+piss-artist   type=sexist
+pissflaps   type=sexist
 polack	type=racist	
-polesmoker
 poof	type=homophobic	
-poofter	type=homophobic	
-pollock
-poon
-poonani
-poonany
-poontang
-porch monkey
-porchmonkey
-prat
-prick	
-prickteaser	
-psycho	
-punanny	
-punani	
-punta
-pussies	
-pussy	
-puto
-queef
+poofter type=homophobic	
+prat    type=credibility
+prick   type=other	
+prickteaser	  type=other
+psycho   type=credibility
+punanny   type=sexist	
+punani   type=sexist
+pussies   type=sexist
+pussy   type=sexist
+puto    type=sexist
+queef   type=sexist
 queer	type=homophobic	
 queerbait	type=homophobic	
 queerhole	type=homophobic	
 raghead	type=racist	
 rag head	type=racist	
-renob
-retard	
-rimjob
+renob   type=sexist
+retard   type=credibility	
 rugmuncher	type=homophobic	
-ruski
 sand nigger	type=racist	
 sandnigger	type=racist	
-schizo	
-schlong
-scrote
-scrubber
-scum
-scumbag
-shitass
-shitbag
-shitbagger
-shitbrains
-shitbreath
-shitcunt
-shitdick
-shitface
-shitfaced
-shithead
-shithole
-shithouse
-shitspitter
-shitstain
-shitter
+schizo	  type=other	
+schlong   type=sexist
+scum   type=other
+scumbag   type=other
+shitass   type=sexist
+shitbag   type=other
+shitbagger   type=other
+shitbrains   type=credibility
+shitbreath   type=other
+shitcunt   type=sexist
+shitdick   type=sexist
+shitface   type=sexist
+shitfaced   type=sexist
+shithead   type=credibility
+shithole   type=other
+shithouse   type=other
+shitspitter   type=credibility
+shitstain   type=other
+shitter   type=other
 skank	type=sexist	
-skeet
-skullfuck
+skeet   type=other
+skullfuck   type=sexist
 slag	type=sexist	
 slapper	type=sexist	
 slut	type=sexist	
 slutbag	type=sexist	
-smeg
-smeghead
-sociopath
-son of a bitch	
+sociopath   type=other
+son of a bitch  type=sexist		
 spic	type=racist	
 spick	type=racist	
-splooge
-spook
-suckass
-tart	
-tard
-testicle
-thundercunt
-tit	
-tosser
+splooge	type=racist	
+spook   type=racist	
+suckass type=sexist	
+tard type=other	
+testicle    type=sexist
+tit type=sexist
 tranny	type=homophobic	
-trollop
-turd
-twat	
-twatlips	
-twats	
-twatwaffle	
-tyke
-unclefucker
-wally
-wank	
-wanker	
-wankjob
-wassack
-wassock
-wazzock
-wetback
+turd    type=other	
+twat    type=sexist	
+twatlips    type=sexist	
+twats    type=sexist	
+twatwaffle    type=sexist	 
+unclefucker	type=sexist	
+wally   type=credibility
+wank    type=sexist	
+wanker    type=sexist	
+wankjob    type=sexist
+wassack    type=credibility
+wassock    type=credibility
+wazzock    type=credibility
 whore	type=sexist	
 whorebag	type=sexist	
 whoreface	type=sexist	
 wog	type=racist	
 wop	type=racist	
-shut up
-liar 
-liar liar
-fugly
-fuck u 
-fat liar
-hag
-stupid
-pathetic loser
-dimwit
+shut up    type=other
+liar    type=credibility
+liar liar       type=credibility
+fugly     type=sexist
+fuck u  type=sexist
+fat liar    type=credibility
+hag type=sexist
+stupid  type=credibility
+pathetic loser  type=other
+dimwit    type=credibility
 stupid bitch	type=sexist	
-stupid idiot
-fuck american
-bastard
-dumb af 
-idiots
-retarted
-imbecile
-you are stupid
-spreading lies
-full of shit
-coward 
-liars
-piece of shit
+stupid idiot    type=credibility
+fuck american    type=credibility
+bastard type=other
+dumb af    type=credibility 
+idiots    type=credibility
+retarted    type=credibility
+imbecile    type=credibility
+you are stupid    type=credibility
+spreading lies    type=credibility
+full of shit    type=credibility
+coward type=other
+liars    type=credibility
+piece of shit  type=other
 liar bitch	type=sexist	
-douchbag
-testicle
-clown 
-buffoon 
-psycho
+douchbag       type=other
+clown   type=other
+buffoon type=other
+psycho  type=other
 b!tch	type=sexist	
-ass licker
-clown
-buffoon
-loser
-dick sucker
-losers
-morons
-twat
-liars go to hell
-fucking liar
-shut the fuck up
-rot in hell
-pants on fire
-telling lies
-your fake news
-lying machine
-get lost
-fucking stupid
-go to hell
-dumb
-fakenewsmaker
-scrotum
-face
-nincompoop
-fake news peddler
+ass licker  type=sexist	
+loser   type=other
+dick sucker	type=sexist	
+losers     type=other
+morons    type=credibility
+liars go to hell    type=credibility
+fucking liar    type=credibility
+shut the fuck up     type=other
+rot in hell type=other
+pants on fire    type=credibility
+telling lies    type=credibility
+your fake news    type=credibility
+lying machine    type=credibility
+fucking stupid  type=credibility
+go to hell    type=other
+dumb    type=credibility
+fakenewsmaker    type=credibility
+scrotum	type=sexist	
+nincompoop  type=credibility
+fake news peddler    type=credibility
 queen of fake news	type=sexist	
 presstittue	type=sexist	
-dilawan
-dilaw
-shut-up
-yellowtard 
-yellowtards
-traitor
-go fuckyourself
-go fuck yourself
+dilawan    type=dilawan
+dilaw    type=dilawan
+shut-up type=other	
+yellowtard    type=dilawan 
+yellowtards    type=dilawan
+traitor    type=dilawan
+go fuckyourself    type=sexist	
+go fuck yourself    type=sexist	
 milf    type=sexist	
-get lost 
+get lost    type=other  
 fake news queen	type=sexist	
-chinese prosti	type=sexist	
-putang ina mo
-stupid liar 
-douchebag 
-pathetic liar
-ugly
+chinese prosti    type=dilawan
+putang ina mo    type=sexist	
+stupid liar    type=credibility 
+douchebag    type=other	
+pathetic liar    type=credibility
+ugly    type=sexist	
 w!tch	type=sexist	
-jerk 
-full of shit 
-boang
-fucking idiot
-cretin 
-ching chong
-scum 
-gaga
-scumbag 
-you are a criminal 
-stop your nonsense
-bobo
-scrotum fae
+jerk     type=other 
+boang     type=sexist
+fucking idiot    type=sexist	 
+ching chong    type=racist	
+gaga    type=credibility
+you are a criminal    type=dilawan  
+stop your nonsense    type=credibility
+bobo    type=credibility
+scrotum face    type=sexist	
 tomboy  	type=homophobic
-puntang ina
+puntang ina type=sexist
 monkey  type=racist	
 ang babae   type=sexist
 puta   type=sexist
-bobong
-gago
-ulol
+bobong  type=credibility
+gago    type=credibility
+ulol   type=other
 babaeng   type=sexist
-trash
-kasilyas
-putang
-putangina
-putang ina
-kabobo
-kapal ng mukha
-salot
-devil
-bayaran
-fake news
-criminal
-walang hiya
-tae 
-punyeta
-botlog
-bulol
-bugok
+trash   type=other
+kasilyas   type=other
+putang   type=sexist
+putangina   type=sexist
+putang ina  type=sexist
+kabobo  type=credibility
+kapal ng mukha  type=sexist
+salot      type=other
+devil      type=other
+bayaran   type=credibility
+fake news   type=credibility
+criminal   type=dilawan
+walang hiya  type=credibility
+tae   type=other
+punyeta   type=other
+botlog   type=credibility
+bullshit type=credibility	
+bulol type=credibility	
+bugok type=credibility	
 puki   type=sexist
-hayop
-lintik
-kiki
-pipi
-kipay
-ukininam
-titi
-bayag
-kantot
-hindut
-tumahimik
-putik
-hudas
-panget
-pek pek
-kantotero
-sira ulo
-demonyo
-kulangot
-pokpok
-magpokpok
-tarantado
-leche
-supot
-yawa
-buang
-pakyu
-siraulo
-mukhang mga lalaki 
-kapal tlaga mukha
-kapal ang mukha
-makapal ang mukha
-amputa
-bilat
-bogo
-boto
-bwesit
-bwisit
-engot
-gagi
-hayup
-hinampak
-taena
-tanga
-iyotin
-kagaguhan
-kagaguhang
-kantut
-kaululan
-kayat
-nimal
-ogag
-pesteng
-putragis
+hayop   type=other
+lintik   type=other
+kiki   type=sexist
+pipi   type=sexist
+kipay   type=sexist
+ukininam   type=sexist
+titi   type=sexist
+bayag   type=sexist
+kantot   type=sexist
+hindut  type=sexist
+tumahimik   type=other
+putik   type=other
+hudas   type=dilawan
+panget  type=sexist
+pek pek  type=sexist
+kantotero  type=sexist
+sira ulo   type=other
+demonyo  type=other
+kulangot  type=other
+pokpok  type=sexist
+magpokpok  type=sexist
+tarantado   type=credibility
+leche   type=other
+supot  type=sexist
+yawa    type=other
+buang   type=other
+pakyu   type=sexist
+siraulo type=credibility
+mukhang mga lalaki   type=sexist
+kapal tlaga mukha   type=sexist
+kapal ang mukha   type=sexist
+makapal ang mukha   type=sexist
+amputa   type=sexist
+bilat   type=sexist
+bogo   type=credibility
+boto   type=sexist
+bwesit   type=other
+bwisit   type=other
+engot   type=credibility
+gagi   type=credibility
+hayup   type=other
+hinampak  type=other
+taena  type=other
+tanga   type=credibility
+iyotin   type=sexist
+kagaguhan  type=credibility
+kagaguhang  type=credibility
+kantut   type=sexist
+kaululan    type=credibility
+kayat   type=sexist
+nimal    type=other
+ogag    type=credibility
+pesteng type=other
+putragis    type=other 
