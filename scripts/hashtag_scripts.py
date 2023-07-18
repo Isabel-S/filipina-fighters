@@ -52,7 +52,7 @@ def find_tags(reporter, simple):
                     tags[tag] += 1
     print(tags)
 
-    # Write data  to the JSON file
+    # Write data to the JSON file
     with open('nlp/'+reporter+'_hashtags.json', 'w') as file:
         json.dump(tags, file, indent=4, sort_keys=True, default=str)
 
