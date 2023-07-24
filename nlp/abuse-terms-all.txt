@@ -512,3 +512,5 @@ nimal    type=other
 ogag    type=credibility
 pesteng type=other
 putragis    type=other 
+bruha   type=sexist
+pahiya type=other
