@@ -31,9 +31,11 @@ def get_all_text(reporter):
             description = post['description']
             text = title + " " + description
             user = post['user']
+            date = post['date']
             all.append({
                 'text': text,
                 'user': user,
+                'date': date
             })
 
             # go through comments
@@ -42,9 +44,13 @@ def get_all_text(reporter):
                 for comment in comments:
                     text = comment['comment_text']
                     user = comment['commenter_id']
+                    date = post['date']
+                    # if 'comment_time' in comment:
+                    #     date = comment['comment_time']
                     all.append({
                         'text': text,
                         'user': user,
+                        'date': date
                     })
             
     # Write findings to files

@@ -1,0 +1,633 @@
+[
+    {
+        "cluster": 1,
+        "examples": "👎👎👎👎👎👎👎\n\t 🙄🙄🙄🙄🙄🙄\n\t 🖕🖕\n\t ...\n\t 😂🤣😂🤣\n\t 😁\n\t ✌️✌️✌️👊👊👊solid2022",
+        "count": 518,
+        "description": "Emojis",
+        "label": "Other Comments",
+        "percentage": 0.11538461538461539
+    },
+    {
+        "cluster": 2,
+        "examples": "Dapat sa pia ranada na yan dina binibigyan ng pansin pa.makidnap ka sana hinayupak ka\n         yan Pia nakakahiya pagkabias mo\n         Bute nga ky pia na yan wala clang ginagawa kundi manira.tama lang yan wag papasukin .\n         ...\n         Napahiya kah PIA RANADA kala moy qng cnu k laging magsalita..gami\ntin s tama ang talino hnd s kahambugan...sa\nrap hmmmm\n         Pia sa ka dal dalan mo baka mawala ka nalang 😂😂😂😂😂\n         Bakit dlng kc patayin yan pia nayan hayop tlga yan magbalita eh Wala nang Tama sakanya tigas ng muka\n",
+        "count": 416,
+        "description": "Attacks on Pia",
+        "label": "Personal Attacks",
+        "sublabelIfAny": "other",
+        "percentage": 0.2692307692307692
+    },
+    {
+        "cluster": 3,
+        "examples": "Bakit hindi makasohan itong si pia ranada marami ng fake news ang ginawa ng rappler..aksyon\nan nyo na Asec.Mocha Para mabawasan at hindi pamarisan ang mga basurang media na ito..\n         Meresi hahahahha..\nyan napala mo.\nelligal na nga ang rappler, mahilig pa sa fake news.\nmagmokmok ka nlng sa bahay mo, wala ka rin nmn naitulong at maitutolong para sa pag unlad ng Pilipinas.\n         Fake news lang naman ilalagak mong balita. Anyways baka mas malaki ang kita pag news againts sa 👊Administration ang ibabalita nya kaya mas interesado sya sa loob pumasok.. papasukin at bigyan ng jacket yan!\n         ...\n         Wla tlagang dala yang Pia Ranadang yan eh,lagi n ngang basag kay PRRD yan eh ang tigas ng mukha,pakawala rin ata yan ng dilawan at iunfollow q n yung page n yan ng Rappler sa FB dahil puro paninira sa gobyerno at sa papasok p lng n President BBM ang tinitira ng mga yan dapat jan ipaban na sa lahat dahil puro fake news.😡😡😡😡\n         so obvious na mga galamay niyo nagpapalaganap nang fake news kasi pinagtatanggol niyo eh, haaay LP nga naman talaga, never again....\n         Dapat tangaling mga ganyan reporter na fake news hindi dapat papayagan ng govyerno mga bais at fake journalist na yan",
+        "count": 385,
+        "description": "Fake news",
+        "label": "Attacks on Pia Credibility",
+        "percentage": 0.15384615384615385
+    },
+    {
+        "cluster": 4,
+        "examples": "saan kaya nanghihiram ng muka etong pia ranada na tu! hnd madala dala 😂\n\t Kapal mukha ng Pia na yan...pahiya kay PPRD cge pa rin...\n\t KAsohan yan kuya wel yang pia ranada\n\t ...\n\t KAGAYA MO PIA RANADA HINDI BA BIAS KA AMININ MO 🤣🤣🤣🤣🤣\n\t kapal ng mukha nyan ni pia rappler ilang beses nyan pinahiya ni PRRD,dyan nlng kasi sila nabubuhay s pgkabias nila\n\t Pia makapal lang talaga mukha mo",
+        "count": 205,
+        "description": "Kapal ng mukha (\"thick face\" \"arrogant\")",
+        "label": "Personal Attacks",
+        "sublabelIfAny": "other",
+        "percentage": 0.2692307692307692
+    },
+    {
+        "cluster": 5,
+        "examples": "Makapal talaga mukha ni pia ilang beses na napapahiya sa paging bias makulit padin\n\t Makulit talaga si PIA pinagalitan na nga rin yan ni Tatay digong nag maang maangan kung anong bias talagang bias sila unfair ang mga reporter ng GMA mga bias\n\t Pia ranada bias ka talaga walang kwenta Tanong mo Gagi😂😂😂\n\t ...\n\t Pia Ranada ng Rappler: Ano ang bias? Kaya kayo tinawag na bias kasi hindi kayo patas period.\n\t pia baranada nabara kana nga patuloy kaparin ang bias katolod mo kahit walana sa lugar yan kayo rapler bayaran\n\t Tama po kayo Rappler mga bias kay langan m pabang itanong pia bias kayo",
+        "count": 182,
+        "description": "Pia and Bias",
+        "label": "‘Dilawan’ and Bias",
+        "percentage": 0.14102564102564102
+    },
+    {
+        "cluster": 6,
+        "examples": "Tama po huwag harapin ang mga basurang media\n         Pia ranada bistado isa kang kritikong media traydor sa pamahamalaan ikaw mismo sumisira sa gobyerno at imah8n ng mga media sa mga maling impormasyon pahiya ka tanong mo sagot wala kayong silbi pwede ba maging totoo ka gamitan po ng utak at palawkin mo naturingan kang media kumain ka ng lugaw para lumawak utak mo .\n         Ang nakakatawa sa mga bias media eh hinding hindi nila kinakanti yung kabila;\n         ...\n         Mga liko yan na mga media, pabor yan cla sa dilawan.\n         Kaya guato nila mgslita si duterte ksi mbigat mgslita sya trending agad pr s knila mas marmi sila maibblita hindi maganda .ganun yun tactica ng mga media bulok yan\n         Sobra na talaga ang mga media freedom of the press kaya pati maling balita gusto nilang ipagdiinan dapat talaga sa maling balita isara ang istasyon walang karapatang magbalita ang abusadong media",
+        "count": 161,
+        "description": "Basurang (\"trash\"), biased, bulok (\"rotten\"), abusadong (\"abusive\") media",
+        "label": "Attacks on News Credibility",
+        "percentage": 0.23076923076923078
+    },
+    {
+        "cluster": 7,
+        "examples": "Huwag papasukin ang matigas ang ulo reporter.mga malisyoso\n         Pinapasira na ang rappler nayan mabuti nga sa kanilang mga reporter na mga bias\n         Dapat diyan tanggalin sa trabaho niya parang hindi nag-aral reporter na bastos Gaga kung nandiyan ako sinabunotan na kita IMPACTA KA\n         ...\n         gaga kng reporter ka hinahanapan ng butas tlaga yang mga tanong utak talangka yan bweset ka.\n         Patawa tawa pa bobong reporter nayan hndi muba alam ang sop na tinatawag ha na bawal nga pumasuk dahil utos ng nasataas Ay nako bka kulang ka sa isang baon cguro kaya ganun hehehe\n         Sagad na sa buto ang pagkawalanghiya\nni Pia pati yong isang reporter na nagduro duro ng mic, buti kayo pinatulan. Minaliit nyo ang sundalo. Mabuti pa nga na I~ban yan mga reporter sa buong Malacanang Complex total din naman puro masasamang article naman ang sinusulat nila",
+        "count": 154,
+        "description": "Stupid reporter",
+        "label": "Attacks on News Credibility",
+        "percentage": 0.23076923076923078
+    },
+    {
+        "cluster": 8,
+        "examples": "Bias talaga ang mga rappler nayan dapat pina pakulong ang mga yan😤\n\t rappler bias puro lang pninira ang ginagawa kaya dapat lang wag ng pag aksayahan ng panahon mga yan.\n\t Ang bias ay ang palabasin ang kung anung gustong palabasin ng isang mamamahayag kahit hindi naman ganun ang tema ng pangyayari..bia\ns kayo kc d naman tlg kayo nagtatanong ng ayOn sa isasagot ni BBM...PAMBUBWIS\nET ANG GINAGAWA NYO...TAPIS MAGTATANING KAYO KUNG ANO BA UNG BIAS?DB PARA KAYONG TANGANG KAUSAP..WALANG KAWENTA WENTA...SAKA D NAMAN KAYO KAAYAYANG PANOORIN.\n\t ...\n\t Dpat kso wag na isama Ang rappler tutal bias cla.at nagrretoke Ng balita\n\t Ipaliwanag mo Ang iyong sarili rappler Malaman mong anong ibig Sabihin Ng BIAS\n\t BIAS = Rappler = Pia. Dapat sa inyu ipasara narin",
+        "count": 147,
+        "description": "Rappler and Bias",
+        "label": "‘Dilawan’ and Bias",
+        "percentage": 0.14102564102564102
+    },
+    {
+        "cluster": 9,
+        "examples": "Mga tanga kayo kahit kasinugalingan.\nGanyn bab kagaya ng ginawa nyu ky marcos. Mamatay dn kayo\n\t Ser raffy ang mga ganyan tao dapat dina bibigyan ng importansiyang ma kausap puro kasiraan lang ang mga sinasabi baka pati kayo ilaglag ng mga yan concern lang po\n\t Rappler mayorya ng mga pilipino walang tiwala sa inyo dahil kung hindi peke twisted ang mga impormasyong pinapalabas ninyo dapat lumayas na kayo sa pilipinas!\n\t ...\n\t nakakapikon na kaya yang rappler na yan,,,baka naman mabigyan ng leksyon yan,,,magagalin\ng silang magsalita pero madalas gusto lang nilang manira\n\t Ano pia Ramada d pinakain Ka nga kajihiyan matalino Yong pangulong duterte Yong utak mo kapiraso lng Yan Kong itatapat mo KY presedente.d mo kayang paikutin c digong.tapos c leny o c trililing ang gusto nyo ipalit KY digong.e pare parehas lng kayo n gamonggo Yong utak.d malogmok n ang bansang pilipinas.kya kayong nsa rapLer at MGA kampon Ng MGA dilawan .d nyo na maloloko ang sambayanan pilipino.mga ungas\n\t MAKITID ANG UTAK NI pia KASI NGA MAKAressa AT MAKADILAWAN YAN KAYA PANININDIGAN NIYA ANG PAGKAKALIWA NIYA.MAOOBVIOUS\nNATIN ANG MGA PAGSASALITA AT KILOS NG MGA MEMBRO NG MGA makakaliwang grupo.MATATALIN\nO ANG MILYON PILIPINO DINA NILA MALILINLANG PA KAHIT PA MAGPANGGAP PA SILA MAGKUNWARI NA MABABAIT MAY MALASAKIT KUNO SILA SA TAUMBAYAN AT SA BAYAN.",
+        "count": 145,
+        "description": "Attacks on Rappler ",
+        "label": "Attacks on News Credibility",
+        "percentage": 0.23076923076923078
+    },
+    {
+        "cluster": 10,
+        "examples": "Oh..naintindiha\nn mo Pia??para sau yan??\n         Ano ngayon pia npahiya ka..\n         Hindi makapalag si Pia\n         ...\n         tanong ko lang, kayo ba ni Pia\n         putang ina ka pia ang kulit MO\n         MAHIRAP KASI SAKYAN SI PIA......MUKHAN\nG MATALINO PERO SIRANG-SIRA ANG ULO PALA!!!....",
+        "count": 128,
+        "description": "Attacks on Pia",
+        "label": "Personal Attacks",
+        "sublabelIfAny": "sexist/misogynistic/explicit",
+        "percentage": 0.2692307692307692
+    },
+    {
+        "cluster": 11,
+        "examples": "Dapat alisin na ang mga nagpapakalat ng fake news\n\t Gusto sumikat kaya nagpapasikat si pia Ranada... kaya nagpapakalat ng fake news at mga mapanirang article...\n\t Tama jan pinapahiya s taong bayan s pagpapalabas nila ng fake news\n\t ...\n\t Buti.nga e ban ninyu yan cya walang respect gusto ko Lang mgreport sa public fake news\n\t Ahahah Ang sakit diba low credibility.\nLagi kna lng lagapak pia ....\n\t Tama yan. Isama na ang inquirer mga pasimuno sa fake news.",
+        "count": 125,
+        "description": "Fake news",
+        "label": "Attacks on Pia Credibility",
+        "percentage": 0.15384615384615385
+    },
+    {
+        "cluster": 12,
+        "examples": " Wala nang naniniwala samga rappler na Yan!\n         Dapat yaan sila pasagasaan na yan ng pison mga bastos na yaan rapler at ABSCBN\n         Rappler tuta yan ng mga dilaw.\n         ...\n         kapal talaga ng.mga rappler na tanga at bastos\n         Tanggalin na mga rappler na yan panira lng sila!\n         Sampal sa mga mukha ng mga rappler.",
+        "count": 108,
+        "description": "Attacks on Rappler",
+        "label": "Attacks on News Credibility",
+        "percentage": 0.23076923076923078
+    },
+    {
+        "cluster": 13,
+        "examples": "punyetang pia ranada yan...nakakaaba\nla siya sa trabaho ni sir...dapat ipatapon na yan sa yon nga sa pasig river\n\t Kapal tlaga ng mukha nitong c pia.. sarap tsinilasin ang mukha!!😡😡😡\n\t grabeha pud ni pia namilit na sya wla na guro silay makaon sa ilang balay.. hehhee.. looy kaau namayat na gani sya..\n\t ...\n\t Cnu kya ang naniniwla sa balita ng rappler ikaw lng cguro pia?🤣\n\t Pia ng rappler, ulitin mo pa yang ginawa mo sa sundalo, cge n please... ng di kna talaga makapasok sa malacañang\n\t Oh my. Nkkahiya tong pia lol.. Papatuloy Ka pa tlga? Lahat ng e rereport mo bashers Ang makkita nito. Galing NA Sa taas Ang maysabi. Yan Kasi pa epal.",
+        "count": 105,
+        "description": "Bodily attacks on Pia",
+        "label": "Personal Attacks",
+        "sublabelIfAny": "sexist/misogynistic/explicit",
+        "percentage": 0.2692307692307692
+    },
+    {
+        "cluster": 14,
+        "examples": "kapareho eto ng Amo kampo mg mga fake news RAPLER\n\t Tama kyo mga media wag Kasi kyo puro paninira Balita nyo din Yung magandang ginawa Kya na sasabihin kyo na bias Kya ayaw na sa inyo mag pa interview\n\t mga putang ina.nyong mga reporter kayo! makinig nmn.kayo sa pakiusap! mga gago!\n\t ...\n\t Di naman kayo nakakatulong sa pag angat ng bansa, puro kasiraan lang ng gobyerno kinukuber nyo, bakit pa kayo papapasukin, buti nga ganyan lang ginawa sa inyo, dun kayo sa ibang bansa magkober, dun kayo maghasik ng kasinungalingan\n, para magkapera kayo... makabayan n reporter, tapos foreigner may ari ng kumpanya nyo... nek nek nyo, mga basura.....\n\t Ang hirap sa mga reporter may paereport lang kayo akala niyo kayo na ang tama. Minsan d masama umamin sa mga pagkakamali niyo.purke reporter kayo Kala nio kng SINO kayo. Tapos pagganyan d kayo Pwede magreport Sabihin nio agad abuse, harassment etc. Haiissst naku!!!! Talaga kaya di umunlad ang bayan natin eeeh. Kng hinaras ka dapat d ganyan ang mukha mo until now. Huwag lang masyadong epal girl.\n\t Makukulit din itong mga reporters na ito ilang beses ba kayong dapat pakiusapan,dapa\nt sa mga yan may oras ng entry pag nalate wag na papasukin😉 naiinggit kayo kay pia ranada ano kase exclusive sya😉 sa paglabas nga lang ng palasyo waaaaaah😂😂😂😂😂😂😂😂",
+        "count": 98,
+        "description": "Attacks on Reporters",
+        "label": "Attacks on News Credibility",
+        "percentage": 0.23076923076923078
+    },
+    {
+        "cluster": 15,
+        "examples": "Tama ka Po idol ♥️♥️♥️\n         Tama k Idol Raffy\n         Kaya idol ko kayo sir raffy\n         ...\n         Tama po kayo Idol Raffy Tulfo\n         Tama ka sir raffy\n         npaheya k ano Pia ky Idol Raffy",
+        "count": 94,
+        "description": "Idol Raffy",
+        "label": "  Raffy Tulfo Spam",
+        "percentage": 0.0641025641025641
+    },
+    {
+        "cluster": 16,
+        "examples": "Inggit yan trabaho sa kanila ang manggawa ug fake news kay mga demonyo bayaran yan\n\t Ipakulong nyo narin yan mga fake news ang mga RAFFLER na yan at wag na kayong mag pa interview sa kanila gagawa na naman ng fakenews yan tulad ni Willy Rivillame mga bobo amg mga raffler.\n\t Isa kang kang bugok na journalist na sumisira sa sarili mong.bayan pera lang mahalaga sainyong mga rapler bayaran fake news lang naman ipinapakalat mo kaya dapat saiyo pia maldita doon ka lang sa mga kasamahan mong bayaran\n\t ...\n\t Wag ka na mgapumilit hahaha .. fake news pa more\n\t Pag ban ka na... wag na magpaawa sa mga tao... ban ka na naguumarte ka pa, hiya hiya din pag may time, ano pagmamayari mo malacaniang tangina mo kang pabebeng reporter ka ng fakenews\n\t Mapangialam pa yan sa mga post na magaganda about MARCOSES,,,nang\nrereport sila ng account,,fake fact news,,mga bwesit na rappler yan,,mga anay kau ng lipunan,,kakarm\nahin din kau balang araw",
+        "count": 89,
+        "description": "Fake news",
+        "label": "Attacks on News Credibility",
+        "percentage": 0.23076923076923078
+    },
+    {
+        "cluster": 17,
+        "examples": "sira ulo ka pia.. 😂 😂\n\t Pia walang kwenta pweeeeee.....\n\t Paghilom pia ...galarlar kag way nahibaw an pistiha ka pabukid na oi ...yawa ka\n\t ...\n\t dapat jan ky pia isakay sa bangka dalhin salaot tpos hubaran at ipakain sa pating para hnd n makapagsinungal\ning.kawaka pia buhay kapa pero ang kaluluwa mo nasurok na sa impierno aguy nalang\n\t PIA BASTOS KA TALAGA .. PUTAN INA KAAAA!!!!!!!!\n\t PAhiya ka pia, supalpal",
+        "count": 89,
+        "description": "Personal attacks on ",
+        "label": "Personal Attacks",
+        "sublabelIfAny": "sexist/misogynistic/explicit",
+        "percentage": 0.2692307692307692
+    },
+    {
+        "cluster": 18,
+        "examples": "hahahhaha\n\t HAHAHHHA\n\t hahahahahahaha\n\t ...\n\t Hahaha!!\n\t Hahahahahahaha\n\t Hahahahahaha",
+        "count": 88,
+        "description": "haha",
+        "label": "Other Comments",
+        "percentage": 0.11538461538461539
+    },
+    {
+        "cluster": 19,
+        "examples": "Kapal ng mukha mo! Tae ka!\n\t Hahhaaha..kapal\nng mukha mo\n\t Ang tibay mukha ng Pia Ranada na ito. Sing tibay ng kalsada, miss pia hindi na po katapangan iyang ipinapakita mo, KAKAPALAN NA YAN NG MUKHA.😂\n\t ...\n\t Kapal mukha mo Pia isara nayang Rappler vias yan\n\t Kapal mukha ng babaeng yan’\n\t Buti nga... tragis ka Pia la kna gawang maigi...",
+        "count": 87,
+        "description": "Kapal ng mukha (\"thick face\" \"arrogant\")",
+        "label": "Personal Attacks",
+        "sublabelIfAny": "other",
+        "percentage": 0.2692307692307692
+    },
+    {
+        "cluster": 20,
+        "examples": "Pia pulit ulit kong pinapanood ang ingot mong tanong.kong ikaw ipagtanggol mo ang buong press bulok..pag na resbakan k kpal tlaga mukha mo..\n\t magaling kasi yan si pia sa tsismis kaya wala ng ibang mahanap na trabaho.\n\t walang kang kwentang kausap kc...c tatay Digong na lng tanungin mo ng tanungin para may pag lalagyan ka 🤣😂🤣😂\n\t ...\n\t Kababae mong tao pia ranada wala kang modo napakabastos mo. Mga mukhang pera, kulang payan sa iyo yan..👍👍👍\n\t dapat talaga dyan kay pia tanggalan ng lisensya...akal\na m qng sinu magsalita\n\t Pia D na natu to kay tatay digong kapal mukha kalA mo cno tsismosa",
+        "count": 82,
+        "description": "Attacks on Pia",
+        "label": "Personal Attacks",
+        "sublabelIfAny": "sexist/misogynistic/explicit",
+        "percentage": 0.2692307692307692
+    },
+    {
+        "cluster": 21,
+        "examples": "Sir Raffy Tulfo you don't need to apologize for the Truth.\n\t Very well said Sen. Raffy tulfo.... God bless po\n\t Well said sir raffy\n\t ...\n\t i salute you sen. Raffy tulfo.\n\t I salute to you Mr. Raffy Tulfo.\n\t Well said sen raffy tulfo ..salute",
+        "count": 78,
+        "description": "Salute, well said Raffy Tulfo",
+        "label": "  Raffy Tulfo Spam",
+        "percentage": 0.0641025641025641
+    },
+    {
+        "cluster": 22,
+        "examples": "Oonga pinapapasok nanga, buti pa mga bata dito sa mga reporter na ito.\n\t Akala ko ba 2ng mga 2 na nag aral?pwde na pala ngayon na maging reporter kahit buang.\n\t mga bastos na reporter talaga parang mga Hindi nag aral\n\t ...\n\t Anu ba naman tong mga reporter na to. Palagay nila Kay pdu30 kagaya ng mga nakaraan pangulo..... What the.....\n\t Mga LP wala nang ginawang tama\" akala mo kumg sinung mga malilinis..\n\t Mga gago talaga Ang mga yan nakiki usap Na nga makulit parin.yan Ang pilipino mga walang kuwenta kausap.mga reporter Na mga polpol\n",
+        "count": 77,
+        "description": "Stupid reporters",
+        "label": "Attacks on News Credibility",
+        "percentage": 0.23076923076923078
+    },
+    {
+        "cluster": 23,
+        "examples": "Rappler\n\t RAPPLER IS THE PROBLEM BOOOOOMMMM HAHAHAHAH\n\t Waste of time with that rappler\n\t ...\n\t Rappler,,,, pweeeeeh.\n\t YAY RAPPLER!!!!!\n\t Hahaha\nIm tired of rappler",
+        "count": 76,
+        "description": "Rappler hate",
+        "label": "Attacks on News Credibility",
+        "percentage": 0.23076923076923078
+    },
+    {
+        "cluster": 24,
+        "examples": "Bastos ang mga puta.. sir.. pagbabarilin nyo po next time.. wag kang mag alala.. handa akong magpakulong para sau.. pero sa ulo nyo po asintahin..\n\t ..ohh Ano pia natuhan kna kay Sen,Raffy kung Ano Ang ibig Sabihin ng Bias...\n\t Ang yabang mo naman,pia...ano\nba sa akala mo?mas sikat ang rappler kaysa SMNI?BIAS naman talaga kayp,nagmamaang\n-maangan ka pa...sana pag-upo ni PBBM at VP SARA ay ma-ban kayo sa malakanyang...😡😡😡😡😡😡....\n\t ...\n\t Nyahaah Ngayon bawal na sa malacañang buti NGA Sayo Pia Ranada😂😂😂\n\t ...korek ka sir raffy...si pia bias...kapal ng mukha...walang sense...amo niya banyaga...binay\naran ang rappler para sirain ang duterte admin pero di sila umubra sa galing ni tatay digong...pahiya\nsila...ha3x...w\nala ng naniniwala sa rappler...sinun\ngaling na bayaran pa...kawawa...m\nulat na ang mga pilipino...\n\t Kagaya mo pia ranada ng rappler kaya dpat sa inyo pasarado na din ng mag tanda banat kayo ng banat. Dilawan ksi kyo natalo manok nyo kya aw aw kyo ng aw awww!! ahahaha!",
+        "count": 75,
+        "description": "Attacks on Pia",
+        "label": "Personal Attacks",
+        "percentage": 0.2692307692307692
+    },
+    {
+        "cluster": 25,
+        "examples": "Ang ibig sabihin ng bias ay EPAL kayong mag interview lalo na pag hindi dilawan\n\t Marami kasing bias n taga media ndi nmn lahat Yung iba nababayaran 😂😂😂 Yun lng narinig ko Kay pdu30😂 at Kay Ka tunying...😁😁😁\n\t Pia Hindi mo alam Ang bias ? Journalist ka alam mo Yan nagtangatangaha\nn lng\n\t ...\n\t sampal sayo Pia bias media ng mga delawan\n\t ANO pia ranada NAINTINDIHAN MO NA NA ANG IBIG SABIHIN NG BIAS???!!!!! OO ANO SUPALPAL KA KAHIT ANO PA ANG GAWIN NYO HINDING HINDI KA MAGTATAGUMPAY SA PAGSIRA KAY BBM\n\t 🌈🌟🇵🇭the Best ka Tatay Dingong 🇵🇭🌟nadali mo ang mga bias media ang kapal ng mukha nila .",
+        "count": 75,
+        "description": "Bias",
+        "label": "‘Dilawan’ and Bias",
+        "percentage": 0.14102564102564102
+    },
+    {
+        "cluster": 26,
+        "examples": " Alam mo pia ndi nmn interview yan eh! Intriga na magpapalaki ng sunog na ginagawa nyo\n\t Ang dal dal mo .wla kang pakiaalam kung kanino cla mag pa interview .AYAW NLA SA IYO .tapos .\n\t Kung sa side ko lang halimbawa hahaha putang inang mga bias kayo doon kayo mag interview kay Pablo don sa hukay Niya 😂\n\t ...\n\t Nag taka ka pa pia, wag kasi BIAS, Tas nagagalit pag Di kayo pinag bigyan NG interview.\n\t Pia Ranada Wala kang paki kung Saan gusto ni BBM para magpa interview! Dahil kayong mga ns mainstream media mas marami ang paninira nio lalo na sa taong ayaw niong mk upo sa Gobyerno,mas gusto nio mga magnanakaw na tulad ninyo!!sa isang banda Sino kb n nanguwesyon?\n\t Idiot ka ...pano magpa interview kung inaalipusta nyo.reverse natin ikaw sa sitwasyon ni BBM .impokreta ka kung di ka magpapakatotoo",
+        "count": 75,
+        "description": "Bad Interviewer",
+        "label": "Attacks on Pia Credibility",
+        "percentage": 0.15384615384615385
+    },
+    {
+        "cluster": 27,
+        "examples": " Pia piya ya\n\t Pia, Stupidity at its finest!\n\t Pia your bunch of idiot\n\t ...\n\t what did pia do?\n\t punyeterang pia\n\t Who is Pia again?",
+        "count": 74,
+        "description": "Pia",
+        "label": "Personal Attacks",
+        "percentage": 0.2692307692307692
+    },
+    {
+        "cluster": 28,
+        "examples": " nagpapasikat dapat lang dyan kay pia wag nang papasukin ng malacaniang dahil pampagulo lang yan\n\t Huwag nyo nalang papasukin yang mga matitigas ang ulo\n\t Dapat lang na hindi na papasukin yang pia na yan lahat nang kakampi sa kanya wag na din papasukin\n\t ...\n\t Kahit ka nga my I D at ayaw kang papasukin Wala kang mga gagawa parang bahay yan kong ang May ari nang bahay si na bi sa kasambahay wag papasukin itong tao na ito kahit pa siya my ID Wala kang magaga ang masusunod simrip ang my ari\n\t Gaga ka kasi😂😂 baka daw mangagat ka sa loob😂😂😂 kawawa naman.. papagamit lang sa mga TANGA PA!! PIA kung ikaw eh totoo lang sana edi cguro mas kapakipakinaban\ng pa yang buhay mo.. masyado ka ngpapasilaw sa pera.. tama lang di papasukin yan makakagat pa yan sa loob😂😂\n\t Yong may kwenta Lang Ang papasukin wag nayang Matigas Ang utak\n",
+        "count": 72,
+        "description": "Don't let Pia in",
+        "label": "Personal Attacks",
+        "percentage": 0.2692307692307692
+    },
+    {
+        "cluster": 29,
+        "examples": " Bobo tlga ng Pia na yan.. cnabi na ngang wla masasabi yung sundalo tanong2x pa din mg tanong...\n\t Pinipikon ang sundalo para kung ano gawin ng sundalo malaking balita na naman sa kanila haha! Buti hindi napikon ang sundalo natin..\n\t Umiiwas lng yong sundalo kaya lumalayo n lng dhil kinukulit.. Bakit kailan nilang pigain ang sundalo.. sinusunod lng utos sa kanya.. at umiiwas n panay pa rin sunod nyo. Di kayo nahiya?\n\t ...\n\t Sundalo nga ay hindi pinapapasok kung wala pahintulot, mag-isip naman po kayo.\n\t Baket kuya lang ang tawag nya sa sundalo? Bastos ka talaga walang galang hinayupak ka.\n\t Sinapak sana ng sundalo yang mga babae na yan.. balian ng buto sa kapayat nakakainis yang hayop na yan..",
+        "count": 68,
+        "description": "Defending the Soldier",
+        "label": "Other Comments",
+        "percentage": 0.11538461538461539
+    },
+    {
+        "cluster": 30,
+        "examples": "Paano ba nakagraduate si Pia na yan, ,kung meaning lang bias di nya alam. Gaya mo Pia, bias ka. 🤣😅😂\n\t Di mo alam ang BIAS pia, IKAW NA IKAW\n\t Ikaw Pia Bias hindi mo ba alam Yan? Naksabot ka? Nakakasuka na Mukha mo alam mo ba yon\n\t ...\n\t Alam mo maam ang definition ko sa bias, ay KAYO....\n\t Bias dimo pa alam pia kc nga bias kaaa ayaw mong aminnnnn\n\t Kaya pala hindi niya alam ang salitang bias.... HAHAHHA\nPaano ba nakagraduate si Pia na yan, ,kung meaning lang bias di nya alam. Gaya mo Pia, bias ka. 🤣😅😂\n\t Di mo alam ang BIAS pia, IKAW NA IKAW\n\t Ikaw Pia Bias hindi mo ba alam Yan? Naksabot ka? Nakakasuka na Mukha mo alam mo ba yon\n\t ...\n\t Alam mo maam ang definition ko sa bias, ay KAYO....\n\t Bias dimo pa alam pia kc nga bias kaaa ayaw mong aminnnnn\n\t Kaya pala hindi niya alam ang salitang bias.... HAHAHHA",
+        "count": 67,
+        "description": "Pia, don't know bias",
+        "label": "‘Dilawan’ and Bias",
+        "percentage": 0.14102564102564102
+    },
+    {
+        "cluster": 31,
+        "examples": " bastos talaga yan si pia..walang respito\n\t Bakit di nalang piliting palabasin ang hayop na yan. Ponyeta ka Pia. Kapangalan mo pa si pia ya pia ya\n\t Yang pia n yan ang mayabang. May nagawa k ba pianono sa kababayan natin.pa pemos yan eh\n\t ...\n\t Bastos talaga. Napakabastos mo PIA wala kang pinag aralan.\n\t Sino ba yang potang pia na yan.. epal\n\t Buhay pa pala yan...😆😆😆",
+        "count": 65,
+        "description": "Pia rude, animal",
+        "label": "Personal Attacks",
+        "percentage": 0.2692307692307692
+    },
+    {
+        "cluster": 32,
+        "examples": "Wala kaming tiwala sa rappler bayaran yan, 😡\n\t NO TO RAPPLER WALA KMI TIWALA PLSSSS\n\t Wala Ng Maniwala sa MGA rapler na tulad nyan\n\t ...\n\t Trust rappler kapal wala na nagtitiwala sa rappler\n\t Wala.naman naniniwala kapag cla naglalabas.ng marites..sirang\nsira na mga yan.\n\t oh di pahiya ka nanaman sa mga nilabas mong balita",
+        "count": 65,
+        "description": "No to rappler",
+        "label": "Attacks on News Credibility",
+        "percentage": 0.23076923076923078
+    },
+    {
+        "cluster": 33,
+        "examples": "Pia Ranada Robles 😂\n\t takot tlga si dutae kay pia ranada.\n\t pia-hiya ka tuloy 😂nasupalpal kana nman😁😁\n\t ...\n\t Tanga ka pala pia rañada 🤣🤣🤣🤣\n\t Buti nga Sau 😅 PIA RANADA,\nSumusobra kana.\n\t Buhay pa pala c pia ranada?",
+        "count": 63,
+        "description": "Pia 😂",
+        "label": "Personal Attacks",
+        "percentage": 0.2692307692307692
+    },
+    {
+        "cluster": 34,
+        "examples": "Epal na reporter, Duterte is the best President 👊👊👊\n\t Thank you President Duterte..❤\n\t Duterte is the best.\n\t ...\n\t Duterte is the best ❤️\n\t Duterte is still the Best! We knew and we saw it.. 🥰❤\n\t DUTERTE IS THE BEST.. SHAME ON YOU...\n",
+        "count": 62,
+        "description": "Duterte is the best",
+        "label": "  Du30 Spam",
+        "percentage": 0.02564102564102564
+    },
+    {
+        "cluster": 35,
+        "examples": "Hahaha buti nga\n\t Buti nga\n\t buti nga bias😂\n\t ...\n\t Buti nga beeeeee\n\t buti nga sayo😂😂😂\n\t Buti nga sa kanya...bwesit siya",
+        "count": 58,
+        "description": "Buti nga (\"you deserve it\")",
+        "label": "Personal Attacks",
+        "percentage": 0.2692307692307692
+    },
+    {
+        "cluster": 36,
+        "examples": "Utak talangka yng mga yn,iwan ko kng may naniniwala pa sa mga yn mga dilawAn .salot sa lipunan\n\t Ayyy korek po kayo tatay...saludo po ako sayo, at natumbok nyo po tlga kc tama ka kakaunti plang mga tao noon kya mura bilihin at sa tagal tagal nilang nanongkulan bilang presidente un lng mga nagawa nila, samantalang c Isko 3 years palang dami ng nagawa may resibo pa..God bless po tatay 🙏🙏🙏 God first Pilipinas 🇨🇿🇨🇿🇨🇿☝️☝️☝️☝️💙💙💙💙💙💙\n\t Wala ka talagang aasahan sa mga ito, hindi ka man lang makarinig ng pabor sa Pilipinas, nakakiling lagi sila sa tsina! mga TRAYDOR !\n\t ...\n\t Hindi ka na nadala kay tatay digong.kailan ka ba titigil sa pangiinsulto sa bansang pilipinas.puwed\ne ba lumayas ka na at huwag ng babalik.\n\t hindi ata alam ni pia na magaling na abogado si tatay.at walang tinatakotan.hah\naha mabuhay ka aming tatay\n\t Alm mo n nga na ayw kng papasukin ng pupumilit kpa dkba nakka intindi ng tagalog bobong mamahayag tanga.........k\na .....\n",
+        "count": 57,
+        "description": "Tatay Digong (\"father digong\", duterte)",
+        "label": "  Du30 Spam",
+        "percentage": 0.02564102564102564
+    },
+    {
+        "cluster": 37,
+        "examples": "Dapat Lang na d na I ban ang mga yan\n\t I ban na nga mga yan nsabi ng hindi pd parang mga walang pinag aralan kaylangan pa bang habol habulin ang sundalo\n\t Tama sir i ban nyo na mga yan nakaka bastos na mga walang respeto..\n\t ...\n\t i ban n yan s buong pilipinas wala nmn nggwang mabuti yan, nkakagulo lng😂😂😂\n\t Sir, dapat ma ban na yang si Pia Andrada na yan. Nasisira ang bansa natin dahil sa kanila\n\t abusado kasi. akala nila kaya nila lahat. dapat ban na yan sa malakanyang. halos maiyak iyak a c Pia dahil di maka pasok. buti nga\n",
+        "count": 57,
+        "description": "Ban",
+        "label": "Other Comments",
+        "percentage": 0.11538461538461539
+    },
+    {
+        "cluster": 38,
+        "examples": "National fake news naman ang rappler eh kaso nakisawsaw ang news 5 kaya parang fake news din to\n\t olol wla nman hinaharast ah kc yang kkampi new puro fake news kc malapit na ang feb 25 kc ggawa nnman kayo ng drama para maantig sa inyo wla ng maniniwala sa inyo boykot ang edsa\n\t Ikaw payatot wala kana talagang ginawang matino. Ban na yan mahilig mag pakalat ng fake news dinamay na pati sec. sir Bong Go. Mag kaka kulay politika nga naman Kau nila sundalong Kanin at desinteng tao kono. wala ng ginawang matino sa inyo ang Presidente para lang mabawi ang kapangyarihan ng bansa.\n\t ...\n\t Ahaha!bkit ung ibang mamamahayag nkapasok wlang pagsikil sa malayang pamamahayag kung tama ang ibinabalita nila.ang rappler kc binsbsyaran ng dilawan yan kya khit n puro fake news ang ibalita ok lng sa kanila.hindi nga bat sila ang nagbigay ng lisensya dyan khit slam nilang bawal sa mga media ang pag aari ng isang foreigner.\n\t Kaya bawal sia papasuking. Sa malacanian kc biyas yan fake news dala. Gaga\n\t Grabe pala itong Morit naito subrang mga sinongaling dapat kalang songalngalan ka Pres, Duterte\nMahilig ja ng fake news close the Rappler\nSinisira nyo yong pilipinas kasuhan yong Morit na yan mara tugil Sa mga kasinongalingan\n",
+        "count": 56,
+        "description": "Rappler Fake News",
+        "label": "Attacks on News Credibility",
+        "percentage": 0.23076923076923078
+    },
+    {
+        "cluster": 39,
+        "examples": "Bias kayo yan ang totoo\n\t BIAS means manhid ka na ms. pia rappler di ka pa rin nadadala kay tatay digs sapol na sapol ka na nga sa kanya di ka pa rin tumitigil\n\t Asus si pia ranada sasabihin pa what do you mean by bias ka simple nga word pahirapan pa dmo lng matanggap na bias talaga kayo mg tanong Kay BBM.bat pa mg pa interview Kong nkakasakit lng nang damdamin.\n\t ...\n\t Bias means puro lng negative Ang nkikita nyo ung magandang ginawa d nyo narerecognize..\n\t Bias means walng na syang ginawa kundi bumatikos\n\t Bias Yan talaga yan Mga yan",
+        "count": 56,
+        "description": "Bias",
+        "label": "‘Dilawan’ and Bias",
+        "percentage": 0.14102564102564102
+    },
+    {
+        "cluster": 40,
+        "examples": " Bastos talaga yang taong yan... Kaka hiya media pa naman...\n\t Bastos yan PIA R. Wala pinGaralan\n\t bastos at walang modo yang babaeng iyan PIA akala u kung sino n e mukhang pera naman\n\t ...\n\t bastos si pia?tama lang iyon.bastos din nmn ang kausap.niya....\nunfair\n\t Yang pia n Yan kahit kelan puro paninra Ang Alam\n\t Bastos talaga yan bigwasan pa yun kahit isa lang para malaman ni pia na subra na sya.",
+        "count": 55,
+        "description": "Bastos (\"rude\")",
+        "label": "Personal Attacks",
+        "percentage": 0.2692307692307692
+    },
+    {
+        "cluster": 41,
+        "examples": "tama yan sir senator raffy tulfo\n\t Yes idol Raffy tulfo saludo ako sayo sir,godbless po!\n\t Tama ka Jan sir idol senator Raffy tulfo\n\t ...\n\t Tama ka senator raffy tulpo .\n\t tama sen. tulfo\n\t Tama ka Sen Raffy Tulfo",
+        "count": 54,
+        "description": "Tama Raffy Tulfo (\"you are right\")",
+        "label": "Other Comments",
+        "percentage": 0.11538461538461539
+    },
+    {
+        "cluster": 42,
+        "examples": "What now Pia Rañada?\n\t Pia Ranada Queen of fake news 👏👏👏\n\t Pia Ranada is a bitter\n\t ...\n\t Pia marites ranada kinginaka\n\t Letche tlga yan pia ranada.\n\t PIA RANADA LAGING BINABARA🤣🥸🤣",
+        "count": 53,
+        "description": "Attacks on Pia",
+        "label": "Personal Attacks",
+        "percentage": 0.2692307692307692
+    },
+    {
+        "cluster": 43,
+        "examples": "BUTI PO IDOL NASA TAMA KA PARIN NGAYON SANA WAGKA MAGPADALA SA FOREIGN MONY IDOL RAFFY..\n\t Tama c idol raffy tulfo ,bakit ko pa gugustuhin painterview sa mga taong gusto lang akong hamakin at pahiya in ?\n\t tama ka talaga idol raffy dapat lang supalpalin mo si Pia kasi halata cya na bayas kc ikaw ang ininterview bakit napunta kay bbm. hayy nako nman pia buti sayo supalpalin ka ng isang taong may totoong prinsipyo at si idol raffy pa goodluck nlang sayo p.. i.. a....\n\t ...\n\t Good answer ser raffy Hindi ako nagkamali sayo sa pagboto ko idol\n\t PIA RANADA naintindihan mo ba ang ibig sabihin ni idol Raffy. O sadyang bobo ka lang talaga at lutang\n\t Wow babalik Ang tiwala ku sayu idol raffy",
+        "count": 53,
+        "description": "Support Raffy, Hate Pia",
+        "label": "  Raffy Tulfo Spam",
+        "percentage": 0.0641025641025641
+    },
+    {
+        "cluster": 44,
+        "examples": "Mga bobong reporter hnde naka intinde na pasok\n\t Binaril na sana si pia ranada tsaka yung isang reporter para matapos na yan!!!!! Nakakagigil na yung babaeng yan\n\t MAGKANO ba SWELDO NYANG reporter na Yan at SOBRANG SIRAAN ANG BANSA, ANG MGA ADMINISTRASYON !!?\nNAKUKUHA NILANG MAGING TRAYDOR AT MAKAPILI LABAN SA MGA PILIPINO..\nGANITONG SYA AY ISA DIN PILIPINO!!?.\nDAHIL SA PERA. NAGIGING MAPANIRA SYA SA BAYAN\n\t ...\n\t Tama c hon.digong maraming reporter na hindi tama kasi dapat kayo mga reporter ang inyong report talaga yon tao gusto niu tutolungan mga mahihirap hindi lang yung reports niu paninira lang sa administration PRRD\n\t Bakit ang pangit magisip ng mga reporter\n\t Mga ugok ang reporter kaya ang nangharass...Bu\nti nga hndi binatokan c pia nong psg na hinaras nya kanina.....\n",
+        "count": 51,
+        "description": "Attacks on Reporters",
+        "label": "Attacks on Pia Credibility",
+        "percentage": 0.15384615384615385
+    },
+    {
+        "cluster": 45,
+        "examples": "Hahaha pia anu iyak kana ikw kasi koo wala ako masavi saiyo kalahya ka\n\t Pia ranada 🤣matagal ka na plang cra , cra Ang utak 🤣\n\t Pahiya ka din Pia Ranada kay idol raffy😂😂😂shame on you\n\t ...\n\t Pia Ranada mukhang timang na kulangot !!!\n\t Pia Ranada masyado ka nang Napaghahalataan\n... YellowTards! Butata ka na naman.\n\t Ayaw ka nya Pia hahahahahs",
+        "count": 50,
+        "description": "Attacks on Pia",
+        "label": "Personal Attacks",
+        "percentage": 0.2692307692307692
+    },
+    {
+        "cluster": 46,
+        "examples": "Kaloka tinatanong pa nya ang Bias isang halimbawa na damo na gomagapang kahit saan\n\t ay naku pia, wag ka ng makulit.... banned ka na... so respeto nlng... paulit ulit ka nlng sa tanong mo... kaya ayaw na sau ng malacañang kasi mga walang kwenta ung mga tinatanong mo.. bias ka kasi...\n\t Napaka BIAS talaga bkt hnd pa kunin ni lord hahaha, wla na talagang nabalita na tama\n\t ...\n\t That's why talo kau pia un ang starts niya sa nga bias n katulad mo\n\t Buti nga sau!!bias ka kxe pia ranada🤣🤣🤣🤣🤣kawawa\n\t Hindi mo pa na gets, akala ko intelligently person ka pia...bias kasi kayong rappler...sinup\nalpal nga kayo ni prrd...hindi pa kayo nadala...",
+        "count": 50,
+        "description": "Pia is biased",
+        "label": "‘Dilawan’ and Bias",
+        "percentage": 0.14102564102564102
+    },
+    {
+        "cluster": 47,
+        "examples": " ipasara nlng lahat ng mga media makinjg nlng tayy ng music puro mapanlait at bias pero yun buhay nila yaw nnn nila kwento puro kay pangulo bbm lage hay naku mga rappler\n\t Itong P. Ranada na ito wala ng ginawang tama at puro nalang katangahan at kasinungalingan\nang ginagawa sa media dapat dito sa bias na ito eh tinatalupan ng balat at itali sa langaman ng matigil ang pagsisinungalin\ng at katangahan\n\t Tama ka dun idol raffy dapat nga di na inientertain mga bias media nang uurat ng mga yan.\n\t ...\n\t dapat nga n pinapansin o pinapnood ung mga bias n media lalo n ung rappler hindi n media ang tawag sa mga yan dahil wala rin yatang prangkisa mga yan ibig sabihin blogger n lng rin lng cla\n\t Totoo naman...isa ang rappler sa mga monitored na bias na media\n\t Labaw ka pa nga nagdalag gubot sa pilipinas wa kay laing nakita ang mali sa gobyerno bias nga media...",
+        "count": 50,
+        "description": "Media is biased",
+        "label": "‘Dilawan’ and Bias",
+        "percentage": 0.14102564102564102
+    },
+    {
+        "cluster": 48,
+        "examples": "Epal talaga itong Pia na ito nang rappler. Sinabi nang hindi sya pwede pumasok, pipilitin pa ang guard. Ginagawa lang naman niya ang trabaho niya.\n         Gagang pia yan ang dami nakikita ng buguk na yan.\n         Tang ina nakakapang gigil.baatusan na!!!pag ayaw wag na ipilit!!!pota parang pgibig lng yan maam.tama n kasi masakit ang katotohanan!!!\n         ...\n         May gana pa magtanong si Pia ha! eh trabajo ba ng Rappler Makialam sa mga nangyayari sa Pinas?\n         Bigyan si pia ng dengvaxia, turokan na yan para mgka.alaman na...lol\n         Kc nga walng tiwala sa inio taong bayan pag cnabing rappler wala na puro kasinungalingan\nTapos!!!!!!! di mo naiintindihan pia!!!!!!! SINUNGALING ANG RAPPLER!!!!!!",
+        "count": 49,
+        "description": "Pia's credibility",
+        "label": "Attacks on Pia Credibility",
+        "percentage": 0.15384615384615385
+    },
+    {
+        "cluster": 49,
+        "examples": " Buti nga sayo gaga ka kasi Pia!\n\t Parang walang pinag aralan ang ugali nyang si Pia Gaga\n\t Hahaha gaga ka kasi Pia..haha\n\t ...\n\t GAGA TALAGA ANG BABAENG YAN PARANG PALENGKERA🤮👹🐷😡👿\n\t Gawin mo sir....kita sa lahat bastos YUNG dalawa pti yung isa ang mic..mga gaga..\n\t Sana may mag sampal yan sa kanya.hoy pia. Gaga ulol ka",
+        "count": 49,
+        "description": "Gaga Pia (\"crazy\")",
+        "label": "Attacks on Pia Credibility",
+        "percentage": 0.15384615384615385
+    },
+    {
+        "cluster": 50,
+        "examples": "luka luka naman yang reporter na yan....akala mo matalino...di ba lagi yang supalpal kay pres. duterte....\n\t Daig pa ng grade one yan tanung na yan.. matalino ba yang reporter ma yan bias lng tinanung pa.. hahahaha..\n\t Yang reporter n yan sir ang na hijack ang utak,,, UTAK TALANGKA!!!!\n\t ...\n\t Dapat lang sa ranada na yan dahil bastos siya ng reporter. I van na yan jan\n\t itumba nadin yang reporter nyan hindi yan nakakatulong sa bansa\n\t Bastos talaga tong reporter...na yn walang respect sa sundalo...",
+        "count": 47,
+        "description": "Bastos (\"rude\") Pia",
+        "label": "Attacks on Pia Credibility",
+        "percentage": 0.15384615384615385
+    },
+    {
+        "cluster": 51,
+        "examples": "Rappler is a big fake news..\n\t Rappler is low credibility\n\t Rappler, The Fake News Provider!!!\n\t ...\n\t Fake news Rappler.....\n\t Rappler fake news ,😅😅😅\n\t Rappler FAKE NEWS!!!!\n",
+        "count": 46,
+        "description": "Rappler Fake News",
+        "label": "Attacks on News Credibility",
+        "percentage": 0.23076923076923078
+    },
+    {
+        "cluster": 52,
+        "examples": " Correct sir iwasan talaga ang mga ganiyan na klasseng media reporter lalong lalo na ang rappler the least trusted media fake news maker\n\t Tama Lang Yan wala pagbawalan Yan mga gnyang klaseng reporter..\n\t Iban nlng lhat ng reporter sila nmn mbbwasan ang raket eh akla mo mga vip na tao😏\n\t ...\n\t DAPAT lahat ng journalist hwag ng papasukin sa malacañang mga ulol mga presstitute...b\nastos\n\t Ang kolit ng reporter na ito tinatanong pa kong sino ang nagsabi na bawal papasokin . Walang galang naman hwag nyong ipilit ang sarili nyo.kasi bias kayo..\n\t Tama nga naman kaysa mabastos pa ang isang reporter. kaya maspipiliin nalang umiwas kasi hindi rin naman din pakikinggan ang side nya....😇\n",
+        "count": 45,
+        "description": "Attacks on Reporters",
+        "label": "Attacks on News Credibility",
+        "percentage": 0.23076923076923078
+    },
+    {
+        "cluster": 53,
+        "examples": "ajyos lng na hindi papasukin ang mga bias hahaha..\n\t Hahahaah, nagtanong pa kung ano ibig sabihin ng BIAS. 🙄😅🤣🤣🤣\n\t Bias ka ksi lol..Tama lng Sayo Yan..\n\t ...\n\t Hahahahahaha!! tinanung mu pa talaga kung ano ang BIAS! akala ku matalino ka???😂😂😂\n\t Pati pala sarili nya hindi alam ang salitang Bias, pag ang iniinterview nyo dilawan maganda ang tanong nyo pag si BbM pa atake ang tanong at kasiraan pa...\n\t Sa mga mediang bias iwasan nyo na po sila lahat ng Uniteam\n",
+        "count": 45,
+        "description": "Bias",
+        "label": "‘Dilawan’ and Bias",
+        "percentage": 0.14102564102564102
+    },
+    {
+        "cluster": 54,
+        "examples": " Hahahah hindi ko lang alam sa inyo ha. Bakit ang lakas mambastos ng iba tong mga media na to???? Kasama ba yan sa freedom of the press na sinasabi nyo???? Diba sabi na nga nung tao na ayaw nya magsalita tas pipilitin mo magbigay ng sagot kasi media ka???? Ganto ba ka garapal mga taga media??? Nasobrahan kau sa freedom mga tol alamin nyo naman sana lugar nyo...hindi porket media kau pwede nyo nang ipagpilitan na interviewhin ung mga tao kung ayaw nila wag..parepareho\nlng taung may karapatan pero karamihan sa media abusado na...tapos pag may ayaw kau na sagot idadaan sa rally....wala kau pinag kaiba sa mga salot sa bayan.\n\t OMG. Eto ba ung mga klase ng reporter sa pinas. Simpling violation ng consti di nila maintindihan.\n\nAng main point neto maging reponsable kau sa mga reporting nyo. Wag lng puro tsismis inaatupag nyo. D tuloy kayo nagmumukhang ligitimate news. Prang pang tabloid lng kau. Naturingan pa nmn kaung presidential press corps...\n\nDapat sa shobiz na lng kau... pd dun kahit tsismis.. kahit alang proof..\n\t Puro fake new yan c pia rañada.. Ung amo nyan unahin mo imbistigahan.. ska yang ate mo ng ng sabing 11 million ung empleyado ng ABS CBN.hahahhaha ugok. Buti my nag babasa at nakkinig pa sa sinusulat mo.mga kasipi moring pahirap sa bayang pilipino. ng haanap ng pang bubutas sa presidente.. sinabon kasi cya dati. Ng mukang batang wlang alam o bulag lang talaga.. matagal na kayong ng pasasa ng amo mo sa pang fefeke news.. binulang at ginawanyong bobo ang mga pilipino.. yang balita nyo ang siniset nyo sa mga taong bayan. At sa labas ng bansa.. kayo at ng mga kasma mo ang sumisira ng imahe ng presidente at ng omahi ng mg pilipino..\n\t ...\n\t Ano Pia lagi ka nlang barado ky Pangulo Din lumonok kadin Ng laway Kya baguhin nyo Ang stelo ng hnd ka lagi napapalunok Ng laway Ikaw ksi yng journalist na iba Ang tinitingnan sa tintitigan...ka\nwawa ka nman lagi kng Ganyan sabagay pinapasuhuran klang Kya natural kontrolado ka Ng boss mo gustuhin mo Mang maging patas hnd magagawa Kya kng Ako sau mag vlogger ka nlang atleast masasabi mo Ang gusto mong sabihin.....\n\t Bastos na reporter, dapat talagang iban SA prescore Ng malacaniang, sample c Pia Ranada. Uulit pa yan dahil mayrong tagasulsol dyan. Yong mga taong gustong siraan Ang pang. Duterte, maliwanag p sa sikat Ng araw yan, mga kagrupo yan na gustong magkudeta.. Alam mo pia buti nakapagpigil paYong sundalo, Kaya lumalayong pilit baka nga Naman masapak ka, kaw Naman dahil sa kabastusan mo sunod ka Ng sunod, bwect ka!!!\n\t isa lang ibig sabihin noon.. Pia.. Hindi pinahihintulota\nn na bastusin mo ang pamahalaan sa mga fake news mo..... At isa lang ang pina parating sau baguhin mo ang antas ng iyong pag babalita.. Yon ay ang tama... Ngaun kong hindi ka nakakaintind.. ay di subra kapal ng mukha mo.. At ibig sabihin sinasahuran ka or nag kaka pera para siraan ang Administration na ito....",
+        "count": 44,
+        "description": "Attacks on Reporters",
+        "label": "Attacks on Pia Credibility",
+        "percentage": 0.15384615384615385
+    },
+    {
+        "cluster": 55,
+        "examples": "Tanggalin na yan rapp-lier wala naman naitulong sa bansa tinuring ngang matatalino bobo naman ang mga pinaggagagawa dapat jan kinakasuhan na para tumigil grabe sila walang patawad 😡😠😒\n\t Wala n talaga Ang rappler\n\t Tanggalan na yan rappler\n\t ...\n\t ano ba yang rappler n yan dapat yan Alisin na\n\t tama po yan usec badoy mabuti yang binabara nyo mga Rappler na yan wla na talgang puwang dapt sa Pinas yang mga Rappler na yan\n\t Buking na Kasi sa kabiasan Ng mga Pinoy Ang rappler",
+        "count": 44,
+        "description": "Get rid of rappler",
+        "label": "Attacks on News Credibility",
+        "percentage": 0.23076923076923078
+    },
+    {
+        "cluster": 56,
+        "examples": "Wala tlga sa pinag-aralan. Sa paguugali tlga ng tao nakikita! Ang bastos ampots!\n\t Nagniwang nas Pia Ranada murag gi tipus ratatat ghapon baba lami paskan ug bunot!!!\n\t Pia R. Ikaw ang babaeng Pinakawalang modo !!!😂\n\t ...\n\t Bastos yan putang inang Pia na yan pag nakita kita patay ka animal ka!\n\t Taray naman ng Piat na yan kaka inita ang boses namimilit walang respeto!\n\t Parang walang pinagaralan ang Bastos po Talaga grabi nakaka hiya 👿",
+        "count": 44,
+        "description": "Bastos (\"rude\") Pia",
+        "label": "Attacks on Pia Credibility",
+        "percentage": 0.15384615384615385
+    },
+    {
+        "cluster": 57,
+        "examples": "hoy impakta Pia Ranada BIAS KAU PRODUKTO NG FAKE NEWS RAPPLER.. DAPAT ISARADI KQU NG HABANG BUHAY.. RIP 4EVER RAPPLER.\n\t BASTA RAPPLER FAKE NEWS YAN....\n\t Reyna po sila ng Fake news grrrr\n\t ...\n\t HOY BAM AQUINO! SINO BA NAGPAPAKALAT NG FAKE NEWS, KUNDI SI PIA RANADA AT RAPPER!\n\t Wag na mam patulan ang RAPPLER MGA IPAL ANG NEWS NILA. FAKE!!\n\t Tagam puro ka fake news ,,gaga ayon ayaw na sayo ,\n",
+        "count": 43,
+        "description": "Fake news",
+        "label": "Attacks on News Credibility",
+        "percentage": 0.23076923076923078
+    },
+    {
+        "cluster": 58,
+        "examples": "Ang tindi ng kspal ng mukha\n\t sinungaling ka kc kapal ng mukha mo.\n\t Kapal mo talaga.\n\t ...\n\t Makapal nga mukha Nyan.\n\t Ateng kapal Ng mukha tawag jan. Hello\n\t Kapal Ng Mukha di parun ma gets bwahah",
+        "count": 43,
+        "description": "Kapal ng mukha (\"thick face\" \"arrogant\")",
+        "label": "Personal Attacks",
+        "percentage": 0.2692307692307692
+    },
+    {
+        "cluster": 59,
+        "examples": " sanay na ako sa RAPPLER,, nuknukan sila ng SALBAHE!!!\n\t Kawawa naman rappler.. :(\n\t Nag aral k nga pero nakakahiya ka s inungaling. ..\n\t ...\n\t Hahaha buti nga sa inyo rappler ngaun namamalimos kau mabigyan kau pagkakataon ma interview BBM karma😂😂\n\t ..namimilit pa bawal ka nga pumasok , kahit may ID ka pa ng rappler parehas kau ng amo u😁😄😅\n\t Bawal ka rappler kasi bopols yang kompanya nyo ,kingina nyo mmagsilayas kayo sa pinas!!!",
+        "count": 43,
+        "description": "Rappler",
+        "label": "Attacks on News Credibility",
+        "percentage": 0.23076923076923078
+    },
+    {
+        "cluster": 60,
+        "examples": " Bugo kaayo ning Pia Ranada. Balik skwela unsay meaning anang Bias\n\t Define BIAS?\nAnswer:\nPia Ranada\n\t Definition of BIAS is PIA RANADA.. FAKE NEWS 😂\nNABUBUHAY SA PANINIRA.. 😂\n\t ...\n\t bias means rappler specially pia ranada!\n\t BIAS MEANS : SUNGA SUNGA PIA\n\t Definition of bias means pia ranada",
+        "count": 43,
+        "description": "Bias means Pia ",
+        "label": "‘Dilawan’ and Bias",
+        "percentage": 0.14102564102564102
+    },
+    {
+        "cluster": 61,
+        "examples": "Dpat yang rappler n yan binaban n yan hindi maganadang magbalita..\n\t bastos yang babae na yan dapat dyan pinoposasan para madala...\n\t Dapat talaga na binabara yang babaeng yan kala mo sino 😡😡😡\n\t ...\n\t dapat pinosasan agad ang nguso ng babae na yan\n\t Kaya nga dapat d na pinag papansin yang rapler na yan lalo yang mga reporter na yan, bagsak kay pres duterte yan sya at kay BBM d sila pinapaporma kasi sinungaling\n\t May pinagaralan yan haaa at dilang basta basta pero kitang kitang ang ka mangmangan ng hayup na medyang ranada nayan napakabastos walang galang hayup dapat iban na talaga yan dapat pati sa trabaho nia tanggalin nayan eh\n",
+        "count": 43,
+        "description": "?",
+        "label": "Other Comments",
+        "percentage": 0.11538461538461539
+    },
+    {
+        "cluster": 62,
+        "examples": " hanap ng kakampi ang bruha!! sama sama kau mga buang!!\n\t Ang kulit mi talaga ikaw mukhang insik...pag sinabing bawal ...BAWAL!\n\t Nipis NG balat pero Ang kaoal naman NG MUKHA!!!!\n\t ...\n\t Bawal ka pumasok kupal ka e🤣\n\t Ang kulit mo bawal nga e..\n\t Pag bawal ka pumasok bawal\n",
+        "count": 43,
+        "description": "kulit (\"skin\") and bawal (\"not allowed\") to enter",
+        "label": "Personal Attacks",
+        "percentage": 0.2692307692307692
+    },
+    {
+        "cluster": 63,
+        "examples": "pahiya ka tuloy\n\t Gago ka pia\n\t Hahaha ano na pia pahiya ka ano ahaha\n\t ...\n\t PI ka pia ranada\n\t Supalpal ka pia\n\t Pahiya k no pia 😁😁",
+        "count": 42,
+        "description": "Pahiya ka (\"shame on\") Pia",
+        "label": "Personal Attacks",
+        "percentage": 0.2692307692307692
+    },
+    {
+        "cluster": 64,
+        "examples": "dapat wala ng rappler\n\t Potang inang rappler wala kwenta\n\t Walang kwenta kay rappler! Dapat wala na kayo rappler..\n\t ...\n\t Walang kuinta talaga yang rapler.sa bayan.\n\t buwagin ang rappler\ntuta yan ng ibang bansa\n\t Rappler walang kredibilidad yan. Panggulo lang yan. 👊👊👊✌️✌️✌️\n",
+        "count": 42,
+        "description": "Walang (\"no\") __ Rappler",
+        "label": "Attacks on News Credibility",
+        "percentage": 0.23076923076923078
+    },
+    {
+        "cluster": 65,
+        "examples": "Bias simply means' PIA\n\t The definition of Bias is simply RAPPLER!✌️\n\t Pia it's you the definition of bias.🤣🤣😂😂\n\t ...\n\t Ikaw pia what is BIAS for you???? Because many people think it is the definition of Rappler ..\n\t you don't know Pia what BIAS means? In our true definition -\\-\\ \"RAPPLER\" 🤣\n\t bias means pia",
+        "count": 42,
+        "description": "Bias means Pia",
+        "label": "‘Dilawan’ and Bias",
+        "percentage": 0.14102564102564102
+    },
+    {
+        "cluster": 66,
+        "examples": "BURN!!!!!!!\n\t BURN! !!....\n\t BURN!!!\n\t ...\n\t Burn!\n\t Burn!!! 😭😭😭\n\t BURN. . . . 😂😂😂😂,.",
+        "count": 42,
+        "description": "Burn",
+        "label": "Personal Attacks",
+        "percentage": 0.2692307692307692
+    },
+    {
+        "cluster": 67,
+        "examples": "Wla k tlagang magagawa jan s hayup n c pia Ranada khit anong gawin mo kabutihan masama p din jan kc kaguluhan ang gawain nyan dapat jan ikulong yan o kea patapon n yan s ibang bansa dun s naggigiera para masabugan n yan dun gagong yan kababaing tao gago\n\t angkapal taga ng mga p i nayan tigbasa na tay\n\t ikaw pia ang kapalmo magkano kayabayad aa iyo bigNo sa Yellow pakulo nyo nkakasawa na mukha mo para kang baliw\n\t ...\n\t Kung wala kang magawa pia k punta ka sa isis para sumikat k doon ka nababagay\n\t Hnde nagustohan yong ginawa pia masyadong bastos akala nila cno cla buti nga mabait yong sundalo nakkhiya ka pia\n\t Itong c lanesca na paka purol nang utak kailangan ipahinga mo muna yan para maka isip ka nang tama",
+        "count": 41,
+        "description": "?",
+        "label": "Other Comments",
+        "percentage": 0.11538461538461539
+    },
+    {
+        "cluster": 68,
+        "examples": " Kinakaya Kaya nyo lng ang gusto nyong kayan kayanin,, Kung ako lng Yan bweltahan ko kayo dhil kayo bilang tagapamalita wala kayong ginawa kundi guluhin ang mga Tao at magsabog NG mga maling balita Para nga nman ano? Maging sikat kayo khit puro hakahaka nyo lng at tulad NG sinabi ni tatay Digong pansariling interest lng ang gusto nyo,, at hnd an kayo nakakatulong,, manahimik kna nga lng wala Kang kwentang tao pia ranada bagay ang pangalan MO sa yo dhil Isa Kang ranada NG ranada sa bansaNG pilipinas pero bulok naman ang pasabog na ginagawa MO hayyyy naku kakairita ka noh😠😠😠✌️👊\n\t Aquino mga LP kayo ang nag uuyok upang maging matapang si Duterte. hindi kayo nakakatulong sa KAUNLARAN\n\t Sinadya talaga siguro niya inisin ang sundalo para kapag hindi ito nakapagpigil may hindi maganda itong magawa sa sabay report kaagad na binastos sila ng sundalo, abusado etc. patungo naman sa martial law issues. la talaga sa lugar si pia nag-tatapang tapangan palagi palpak palagi ang agaw eksena niya laging nasusupalpal. trabaho niya pang-inis lang walang sense.\n\t ...\n\t Pia bkt cno nagsabi na Hari c PRRD.hnde naman niya cnabi na Hari cya..baka nakalimutan mo na cya ang president ng pilipinas..... Dapat lng talaga na nanay ari sa inyo yan dahil kaung taga media ay umaabuso sa freedom... Pag ang taong hnde ninyo mapa sunod at hnde natatakot sa inyo tinitira ninyo below the belt.. Pero kng ang mga taong sa ngayon sa inyong at may tinatagong kabaladstugan sa government pero kakampi niyo wlang Marini ng na masama sa inyong balita......\n\t Lahat tau nagkakamali wag natin husgahan ang bawat ISA stin wala ako kinakampihan ndi ako pulahan at ndi ako dilawan NASA gitna LNG ako! Para masyado bias ang nangyayari s bansa ntin. Kng ako masusunod pakiusapan kng ang panginoon n mamagitan n cxa para matapos sigalot Ng bayan Ng pilipinas\n\t Press freedom pinagsasabi mo?! Kung ano ano na nga sinabi mong masama wala namang nangyayari sayo ang sabihin mo bastos ka talaga Pres kausap mo kung magtanong ka para kang nagtatanong sa tambay na kaya mong daragin\n",
+        "count": 41,
+        "description": "?",
+        "label": "Other Comments",
+        "percentage": 0.11538461538461539
+    },
+    {
+        "cluster": 69,
+        "examples": "Tama yan\n         anay mga yan\n         Tama lang yan\n         ...\n         TAMA yan sir\n         Tama lng Yan\n         Tama lng sau yan\n",
+        "count": 41,
+        "description": "Tama (\"right\")",
+        "label": "Other Comments",
+        "percentage": 0.11538461538461539
+    },
+    {
+        "cluster": 70,
+        "examples": "Gnyan nmn angmga reporters eh sasabhin pag pinagbwalan tinatanggalan n sila ng karapatan.... bkit ang pangulo ba walang karapatan na pigilan at pag bawalan ang taong ayaw nya.... pareho lang mga pilipino kung ano angbkarapatan ng mga mamayan karapatan din ng pangulo...mag kwento kayo ng 22o hindi yung 1 side lang lagi nmn ganyan.... bakit d nio tanungin ang mamayan pilipino... for sure edited na uli yan.....haizt..\n.\n\t Matalino tlga ang Pangulo, ewan ko na lng sa media na boplaks at bulok ang sistema ng pagbabalita. Kayang kaya nilang sirain o pabanguhin ang isang tao. Kawawang pilipino!\n\t Sa ibang bansa kapag Wala na sa oras na tinakda at di pa nakapasok tlagang isasara na ang pinto wala ng paki paki usap. Maluwag pa nga mga bantay ng palasyo. Eh. Umaabuso nman ang nga media. Para ngang wlang mga pinag aralan tama nman ang ibang commentator.. gusto yata I cover ng media si pia walang modo. Mga autistic mga medja na eto. Parang mga nag aral sa kamotehan Hindi marunong ng hindi makaintindi. Eh. PSG at sec andanar mag lagay ka po NG rules and regulations sa labas para sa mga media.. Ang yayabang parang sila na Ang gusto masunod..😖\n\t ...\n\t Mabuti nga bastos talaga ang mga gutom na media lalo na yang c pia !!! Balasubas , kapal mukha . Gingawa nyang pangugulit sa sundalo para makapasok sya sa loob ,, magaspang na pag iisip .. Tomata Kibo na nga ang sundalo buntot an nya at sigawan pilit pasalita-in . Bastos talaga ,, dapat i ban na ang babaeng yan ,\n\t Iba ang mga Tulfo huwag nyong tatanungin ng mali itatama kayo mapapahiya lang kayo. Hindi papasa sa senado yan si RTIA kung kagaya nyong bias lagi.😄\n\t Wag kayo bastbasta maniniwala sa mga nagsusulat, at nagrereport na mga media, lalo na yong mga walang kinikilingan kuno, serbisyong totoo lang Kuno🤣🤣 sa sampung sinabi ng mga yan isa lang tama dyan, baka yong isang tama sumablay pa, ang iba kasi dyan pinapaganda nila lalo na head line kahit walang katutuhanan para lang makaakit ng manonood at magbabasa, ksai dyan sila kikita.",
+        "count": 40,
+        "description": "Attacks on Media and Reporters",
+        "label": "Attacks on News Credibility",
+        "percentage": 0.23076923076923078
+    },
+    {
+        "cluster": 71,
+        "examples": "Yan ang presidente ko.\nSabog ang mga reporter na bias.\n\t Anung aasahan mo sa US funded media organization, ehh mata yan ng US dto saatin.. tuta ng US yan ehh.. sama sama sila ng Abs cbn, gma, tv5\n\t Yan Ang presidente ko .... ❤️❤️❤️Bias n mga media 😡😡😡\n\t ...\n\t Tanga ng reporter na ito magtanong walang galang din bwesit!\n\t Mga gagong reporter, pinapapasok ayaw pumasok tapos mag rereklamo puyang ina nyung media kayo\n\t Sana sinama ang inquirer bagay lang yan sa mga bayarang reporter/media.\n",
+        "count": 40,
+        "description": "Attacks on Media and Reporters",
+        "label": "Attacks on News Credibility",
+        "percentage": 0.23076923076923078
+    },
+    {
+        "cluster": 72,
+        "examples": "Pasikat ka pia bilat ..buti nga d ka kinaldkad palabas ng gate.. Bastos! Dapat my action ang press secretary and I banned ang gaga yan na ubod ng yabang... si gilgil mo ako eh ..\n\t Freedom of press sa mukha nyo.. hinaras na nga ang sundalo..ganyan\npkayo.. buti nga ban kau.. klaro nmn sa video..\n\t Nakaka BUWISIIIIIT ka Pia ranada sobrang bastos mo!!! Akala mo napaka galing mong reporter inabuso mo ang press freedom, kung ako ang pag sabog ang ngala ngala mo!!! Super bastos ks?!!!!\n\t ...\n\t Mga PRESSTITUTE halang ang bitoka sa Fake News, merese now you're officially banned! hahahahaha bleeee nimo Pia Ranada, iapil ng ABS CBN\n\t ang masasabi q sayo pia ranada napaka bastos mong presstitute ngayon magsigawan kayo ng press freedom sobrang luwag na ang press freedom ninyo na kayo mismo mga biasmedia ang abusado mga hayup kayo😈😈😈👹👹👹\n\t rappler... you abused the PRESS FREEDOM in many forms... thats very obvious.. kundi FAKE NEWS ang report niyo specially regarding sa frigate deal na binago niyo after a few hours.. ano ang tawag duon? lagi nlang suppressing the press freedom,... eh bakit ang ibang media outlet napapayagan naman.. sorry tpo say, sawa na ang tao sa ganyan . kabisado na ang mga gawain niyo",
+        "count": 40,
+        "description": "Presstitute, Bastos (\"Rude\")",
+        "label": "Attacks on Pia Credibility",
+        "percentage": 0.15384615384615385
+    },
+    {
+        "cluster": 73,
+        "examples": "si pia yata gusto nila i cover eh, mga pasaway din n reporter mga ito. simpleng tagalog hindi pa maintindihan. wag ng papasukin kung ayaw sumunod\n         Wla nmn tlagang magandang ibalita Yan si pia ranada. Bkit naging journalist Yan puro nmn panira or Ng papansin LNG Yan para sumikat\n         Ya ya pahiya nanaman nahiyabako sayo porke reporter ka marami ng pupuri sayo hussss ka gigil ang manga taong ganito hindi marunong makagets agad..ang hinah ng ahmm mo madam, 😤😤\n         ...\n         Ang galing mo sir Raffy! Boom Panis ka PIA!!! BIAS YANG NETWORK NYO PATI KAYONG MGA JOURNALISTS DYAN SA RAPPLER LALO KA NA!!!!\n         PIA RANADA, kung sa Turkey ka mag pumunta as Journalist hindi ka oobra, siguradong arestado ka!\n         Ako grabe ang tawa ko...hiyang hiya ako sayo Pia Ranada! Bastos na journalist at walang galang sa Pangulo😠 ngayon napahiya kan🤣 ano ang i report mo Pia Ranada? Dapat isalaysay mo kung paano ka pinahiya at pinagalitan ng aming mahal na Pangulo...bleee\nhhh! Namutla ka tuloy🤣🤣🤣\n",
+        "count": 40,
+        "description": "Attacks on Pia",
+        "label": "Attacks on Pia Credibility",
+        "percentage": 0.15384615384615385
+    },
+    {
+        "cluster": 74,
+        "examples": "Definition ng bias ikaw yon pia\n\t ikaw pia,bias ka,\n\t Samok lagi ni si Pia Ranada ui...ask yourself daw bi what is bias kay bryt baya ka ai\n\t ...\n\t Ang bias Ms.Pia ay ikaw mismo!\n\t Bias d mo alam Ang bias parang Ikaw pia. One sided\n\t Butata' ka bias pia\n",
+        "count": 40,
+        "description": "Bias means Pia",
+        "label": "‘Dilawan’ and Bias",
+        "percentage": 0.14102564102564102
+    },
+    {
+        "cluster": 75,
+        "examples": " hahahahaha...an\no ka ngayon pai.....\n\t Hahaha kahit kylan tanga ka at bobo pia\n\t Hahaha durog ka Ngayon PIA 😜😜😜\n\t ...\n\t Wuahahaha... masakit pa sa sampal yon pia...ano ka ngayon!!! Nyahahaha...\n\t HAHAHAHA. Parehas tayo bottom Pia wag ka mag-alala 😂😂\n\t buti nga sayo pia sakit noh 😄😄\n",
+        "count": 40,
+        "description": "haha Pia",
+        "label": "Personal Attacks",
+        "percentage": 0.2692307692307692
+    },
+    {
+        "cluster": 76,
+        "examples": " IKAW PIA Ranada granada iyang bunga nga mo dahan 2 kang magcomment bastos ka ang pangit ng ugali mo tulad ng mukha mo walang preno boba kaba rappler kapero wala kang modo siguro gusto mo lang sumikat kaya gumagawa ka ng hindi magandang komento na nakakasakit sa tao banat ka ng banat na wala sa katuwiran ag ginaawa ba ni kuya magagawa mo na magkawang gawa saibang tao ang ginagawa molang ay manira na di mo alam na maraming tao ang natulungan ikaw chismis atmanira ka boba karmahin ka sana ng mga ginagawa mo na wala sakatuwiran keep your mouth shot amoy imburnal na or nnagpapansin kalang para ka sumikat at mapag usapan ka lang\n\t Tan da an niyu .Hinde lahat forked walang pinag aaralan ay walang ka alaman Ang bawat ta o may kanya kanyang teknik sa sarili Kong pa ano mabuhay sa hirap at kanya kanyang teknidad at deskaste may kanya kanyang prensepyu at karangalan sa bat ta o dapat Deng igalang kahit sino Mang kaharap mo dapat mo ring iisepin Ang payo nang ka ninoni an noong onang panahon nang ma nga matanda bago ka pa isilang nang iyung Ina at dapat morning itama Ang Mali na ginagawa nang karamihang bayan Kong nakikita mong Hinde ito Ang tama dapat mo Deng itowed deba\n\t Pangi noon allah ibigay mo sa akin c isko nalang pangolo ng bansa parapo sa kalinisan san ng bayan ci iskopo ung tao na nakaram dam sa poso ng mga tao na mahirap at isapa nakkalong kot po nabakab ung drag at maolit pa noon nakara an mga taon ay nakakalat ang mga adik sa boong bansa kaya isko nalang tau mga kabbayan para po sa mga anak natin isko isko isko tau bohay natin to pag isipan niu mga taom bayan isko moreno domagoso nm ber 3 sa balota🙏🙏🙏☝️☝️☝️god first\n\t ...\n\t Ahahhah, magkano ba binayad sayo Pia ranada???!!! Para mag inbento ng balita? Educated ka bang tao graduate k p nman ng Ateneo ganyan ka? Ewwww!!!!! Mas ok pa yung mga taong di nka pag aral kesa sayo may respeto e ikaw! Alam mo\nMas masarap mabuhay sa mundo ng walang magagalit n ibang tao. Yung lalakad ka sa street n taas noo kc proud ka sa work mo e kung ganyan nman ang trabaho mo e gumawa ng fake news e mas mabuting mag stay k n lang house nyo at mag basa ng bible para nman natanggal yung attitude mong walang hiya!!!!! ✌🏻✌🏻✌🏻\n\t Nakakadorog ng puso cno PA hndi opisial ng governo sia payong tomotolong SA mga mahihirap hndi tolad pink dilawan Jan pag nanakaw LNG an lamgawen SA bayan wala cila mga consensia SA nag hihirap basta cila yomaman tapos sisiraan u Yong Tao nag mamaganda loob SA mga nag hihirap kau mga bayas Na Media ano ba an nagawa u SA mga nag hihirap imbis kau tomolong mga pabigat kau SA bayan dapat sain u I tagalan lesinsia o alisen SA erey para wala Na maloko Na tao mga dimonyo kau pink dilawan mga salot kau ng liponan\n\t Yan ang trabaho kasi ng mga dilawan sampo ng kanilang mga alipores na mga media na mga yan batikan sa kasinungalingan\nat ganid sa kapangyarihan.a\nng trabaho nila ay upang sirain at wasakin tayong mga mamamayan yung masaya sila na naghihirap tayo at nag hihikaos sa gutom don yan sila masaya na malaman ng boong mundo na kumakain na halos ng basura ang mga mahihirap na pilipino ..yung tipong pag may naawa at nag bigay ng limos na galing sa mayayamang bansa tuwang tuwa sila kasi sila ang nakikinabang.eh\nang perang tulong mo kasi mr.willi ay di na dadaan sa kamay ng mga yan kaya ganyan ang baling nila sayo ..anyway godbless you more po at isa ka sa may malaking puso at tunay na mamamayang pilipino na may boong pag tulong sa aming mahihirap naway bigyan ka pa ni lord nag mahaba haba pang buhay dito sa mundo upang makatulong ✊👊💖💖💖\n",
+        "count": 40,
+        "description": "Attacks on Pia",
+        "label": "Attacks on Pia Credibility",
+        "percentage": 0.15384615384615385
+    },
+    {
+        "cluster": 77,
+        "examples": " Tama ka sir Raffy Tulfo mabuhay ka\n\t tama ka sir\n\t Tama Sir Raffy\n\t ...\n\t tama naman si sir Raffy.\n\t Tama po Sir Raffy.\n\t Tama sa lahat ng sagot nyo Sir Raffy.",
+        "count": 40,
+        "description": "Tama (\"right\") Raffy",
+        "label": "  Raffy Tulfo Spam",
+        "percentage": 0.0641025641025641
+    },
+    {
+        "cluster": 78,
+        "examples": "Idol raffy 💪\n\t Yes true idol raffy\n\t Good job idol raffy..🫰\n\t ...\n\t God bless you idol Raffy 🙏❤️❤️\n\t idol rafy thank you❤️❤️❤️💚💚💚\n\t well said idol raffy!",
+        "count": 40,
+        "description": "Idol Raffy",
+        "label": "  Raffy Tulfo Spam",
+        "percentage": 0.0641025641025641
+    }
+]

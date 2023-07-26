@@ -514,3 +514,4 @@ pesteng type=other
 putragis    type=other 
 bruha   type=sexist
 pahiya type=other
+b*tch   type=sexist	

@@ -163,6 +163,10 @@
         "count": 1,
         "type": "sexist"
     },
+    "b*tch": {
+        "count": 2,
+        "type": "sexist"
+    },
     "babaeng": {
         "count": 22,
         "type": "sexist"
@@ -277,6 +281,10 @@
     },
     "brotherfucker": {
         "count": 0,
+        "type": "sexist"
+    },
+    "bruha": {
+        "count": 10,
         "type": "sexist"
     },
     "buang": {
@@ -1406,6 +1414,10 @@
     "ogag": {
         "count": 1,
         "type": "credibility"
+    },
+    "pahiya": {
+        "count": 6,
+        "type": "other"
     },
     "pakyu": {
         "count": 3,

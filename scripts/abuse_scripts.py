@@ -31,7 +31,7 @@ def create_dictionary():
             abuse_terms[term] = {'type': type, 'count': 0}
     return abuse_terms
 
-def count_abuse(abuse_terms, counts, users, abuse_texts, newtext, ogtext, user):
+def count_abuse(abuse_terms, counts, users, abuse_texts, newtext, ogtext, user, date):
     abuse = False
     for term in abuse_terms:
         if re.search(r"\b" + re.escape(term) + r"\b", newtext):
@@ -43,9 +43,8 @@ def count_abuse(abuse_terms, counts, users, abuse_texts, newtext, ogtext, user):
     
     if abuse:
         counts['abuse'] += 1
-        # save user and comment
+        # save user and comment and date
         # count
-
     counts['total'] += 1
     return abuse_terms, counts, users, abuse_texts
 
@@ -70,9 +69,10 @@ def find_abuse(reporter):
         posts = data['posts']
         for post in posts:
             ogtext = post['text'] 
+            date = ""
             newtext=" ".join([i.strip(punctuation) for i in ogtext.split()])
 
-            abuse_terms, counts, users, abuse_texts = count_abuse(abuse_terms, counts, users, abuse_texts, newtext, ogtext, post['user'])
+            abuse_terms, counts, users, abuse_texts = count_abuse(abuse_terms, counts, users, abuse_texts, newtext, ogtext, post['user'], date)
             
     # go through description of videos and comments
     # extracted_data/__posts_extracted_comments.html
@@ -84,10 +84,11 @@ def find_abuse(reporter):
             # title and description
             title = post['title']
             description = post['description']
+            date = post['date']
             newtext = " ".join([i.strip(punctuation) for i in title.split()])
             newtext += " ".join([i.strip(punctuation) for i in description.split()])
 
-            abuse_terms, counts, users, abuse_texts = count_abuse(abuse_terms, counts, users, abuse_texts, newtext, title + " " + description, post['user'])
+            abuse_terms, counts, users, abuse_texts = count_abuse(abuse_terms, counts, users, abuse_texts, newtext, title + " " + description, post['user'], date)
             
             # go through comments
             if 'comments' in post:
@@ -96,7 +97,7 @@ def find_abuse(reporter):
                     ogtext = comment['comment_text']
                     newtext=" ".join([i.strip(punctuation) for i in ogtext.split()])
                     
-                    abuse_terms, counts, users, abuse_texts = count_abuse(abuse_terms, counts, users, abuse_texts, newtext, ogtext, comment['commenter_id'])
+                    abuse_terms, counts, users, abuse_texts = count_abuse(abuse_terms, counts, users, abuse_texts, newtext, ogtext, comment['commenter_id'], date)
     
     # Write findings to files
     with open('nlp/'+reporter+'_abuse_terms.json', 'w') as file:

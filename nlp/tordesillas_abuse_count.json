@@ -1,11 +1,14 @@
 {
-    "abuse": 1884,
+    "abuse": 1895,
     "credibility": 1533,
     "dilawan": 269,
     "homophobic": 0,
-    "other": 309,
-    "personal": 455,
+    "other": 315,
+    "personal": 473,
     "racist": 2,
-    "sexist": 144,
+    "sexist": 156,
     "total": 11268
 }
+
+// count whichever has the most - if its personal then count whicever has the most for the sub parts
+// use sunburst chart
