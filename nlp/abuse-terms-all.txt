@@ -243,7 +243,6 @@ lezzer	type=homophobic
 lezzie	type=homophobic	
 mcfagget	type=homophobic	
 minger  type=racist		
-mong       type=credibility	
 mothafucka   type=sexist
 motherfucker   type=sexist	
 muff   type=sexist	
