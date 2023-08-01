@@ -1,0 +1,138 @@
+[
+    {
+        "cluster": 1,
+        "examples": "Hindi fake news yun kasi tama yung ni report nyo. Inamin din ni Digong na imbento nya Lang yun at ni report nyo din na imbento Lang ni Digong so yung news report accurate na sinabi ni Digong imbento Lang. Ang fake news yung nag balita kayo na nag resign na Si Trillanes tapos Hindi naman pala, then that's a fake news. Omg journalist Ka Di mo alam ang fake news ...\n\t Naku karen kayo ang nagbbalita ng fake news hndi c mocha ... takot kayo mabuking.\n\t tordesillas inutil din.ito mag sulat saan bang dyaryo ito oarang sa barako news paper ata hahaha fake news daw si mocha wala naman ata fake news na sinabi si mocha\n\t ...\n\t Tama kayabangan talga ng mga blogger na yan puro fake news lang naman ang alam ipakalat.\n\t FAKE NEWS BA KAMO?! LALAYO KA PA BA? NANDITO ANG BASURANG RAPPLER aka FAKE NEWS.\n\t None sense ang about fake news ... history Na yan sa mga news",
+        "count": 263,
+        "description": "Fake News",
+        "label": "Attacks on News Credibility",
+        "percentage": 0.29411764705882354
+    },
+    {
+        "cluster": 2,
+        "examples": " Nyahahahaha😂😭😂\n\t Amen☝☝☝🙇🙇🙇\n\t 🤣🤣🤣🤣\n\t ...\n\t 😄😄😄😄😄😄\n\t 😂😂😂😂😂😂😂😂\n\t 👣\n",
+        "count": 93,
+        "description": "Emoji",
+        "label": "Other Comments",
+        "percentage": 0.29411764705882354
+    },
+    {
+        "cluster": 3,
+        "examples": "Hahhha mas nkkbabahala ang mga bobong journalist ano supalpal b s mukha ang katotohanan n kayo journalist mga mukhang pera.\n\t Fact check mo mukha mo Ellen TURDisellas!!! Kanda utal utal ka na nga kaka explain about fake news!!!\n\t Ibagsak si KAREN..DAHIL NAKAKATAWA SIYA GALIT KAY MS MOCHA...HINDI MAKASAGOT SA EJK HAHAHAAHHA...NG\nANGA...WOW SUPER TALINO NIYA KASI NGANGA EH....MAGSALITA\nKA KAREN SA EJK IYONG TOTOO..HINDI IYON BINTANG KA NG BINTANG FAKE NEWS YAN..AYUSIN MO MUNA ANG BUHAY MO NOW NA KASI KAPAG MERON MAHALUNGKAT ANG TAONG BAYAN SAIYO...NGANGA KA. SA EJK..TUWAD KA NA SA LIFE....\n\t ...\n\t Kung di ka lang babae karen, sasampalin talga kita gang sa matauhan ka. Nakakainis eh the way she talks akala mo sobrang talino ampucha. Di naman madefine kung ano ang fake news\n\t Binabaligtad nla ksi inggit cla mas madami naniniwala kay asec uson palibhasa ksi cla ang fake news\n\t Next interview si Cocoy Dayaw na imbitahan mo siya ang makakasagot anong ibig sabihin ng fake news...👊👊👊😃😃😃😃",
+        "count": 85,
+        "description": "Attack on Ellen and Karen",
+        "label": "Personal Attacks",
+        "sublabelIfAny": "other",
+        "percentage": 0.17647058823529413
+    },
+    {
+        "cluster": 4,
+        "examples": " Karen bat gigil ka nasapawan ka no? Magbalita kc kayo ng mayos wag yong puro gusto nyo lng. Madami kyo binabalita na ouro againt duterte pero ni minsan di akyo nag balita sa mga nagawa nya sa bayan bagkos sisniraan pa. Ngayon di na kasalanan ni mocha kung sa aknya kmi maytiwala ksi po subok na kayo simula dati pa binibilog nyo uli ng mga tao dahil alam nyo kayo lang ang naghahatid ng balita pwes iba na ngaun di lahat ng ato ay tanga nakakasawa kna girl pwd ba timihil kna sa ginagawa mo wala nang maniniwala sa inyo.\n\t 😅😅😅😅😅 naging mga bobo ton dalawang to......sampal yan sa inyo kasi wala ng naniniwala sa inyo.....weeeee\nw..\n\t Bkt pa po kau nag iinterview Ms. Karen kung meron na po kau sariling pinaniniwalaan?\nPatapusin nyo po sa pagsasalita ang iniinterview nyo 😂. Wag po kau nagtatanong tapos kau din po sasagot 😂 LOL po ako sa inyo.\n\t ...\n\t Nagpahalata ka masyado KAREN!... Isa ka rin pala sa KULTONG DILAWAN!!!...😡😡😡\nNaglalabasan ang mga sungay nyo ngayon.. Tagal na panahong ginawa nyong tanga ang mga PILIPINO...\n#BIASEDMEDIA👊👊👊\n\t Miss Karen Davilla,..magka\nno ba yung inggit mo????Mahal Cguro niya noh???...Binta muna yan para matauhan ka....\n\t OI!!!! PUTANG INA MO #KARENDAVILA HINAYUPAK KA BAYAAN MO MAG SALITA UN GUESS MO HINDI UN HUSGAHAN MO AGAD KUPAL KA!! DILAW NA DILAW ANG TAE MO, AT MANANG MANA KA SA MGA LP NA PANGINOON MO KUPAL KANG BABAE KA E.",
+        "count": 79,
+        "description": "Attack on Karen",
+        "label": "Attacks on Specific Jouranlist Credibility",
+        "percentage": 0.058823529411764705
+    },
+    {
+        "cluster": 5,
+        "examples": "Basta ang Alam ni Mocha blogger lng talaga sya... Pero Ito ang Asec na nsa Facebook nag tratrabaho wahahahahaha\n\t Simple lang!!! Mas gusto naming paniwalaan ang blogger kasi unedited, direct at walang halong pamumulitika mga punto nila!! Mainstream media.. nakakaumay na kasi kayo.... laging one sided ang inilalabas nyo, lagi na.lang mAsama ang gobyerno.... samantalang mas maraming nangyayaring mabuti Sa ngayun kesa Sa nakaraan di ba? May ibinalita na ba kayong mabuti Sa ginawa ng gobyerno ngayun? Nagkukumahog na kayo.Sa pag atake Sa mga bloggers kasi di nyo matanggap na sila ang magiging dahilan ng downfall Ninyo dba?\nSorry guys!!! But we have a fair battle ground now!! A neutral ground called SOCIAL MEDIA....\n\t \"We need to now to put the bloggers to the same level as journalist?\"\nXmpre naman po. Kasi kahit hindi xa journalist eh kung basta2 xa mag post ng opinyon nia na nakaksira ng iba eh mali pa rin yun. Lalo na s panahon natin ngayon n uso na ang idolismo maraming maniniwala s kanya.\n\t ...\n\t Inggit ka lang matandang tordesillad.. Sapaw ka kase tanggapin mo na mas marami nagtitiwala sa mga blogger kesa sa inyong mga bayarang media.. Wether you like it or not bias kayo dahil bayad na kayo ng yellow\n\t Nasapawan kasi sila ng blogger hahahahaah kaya sila nababahala.\n\t Bottom line galit mga journalists kay Mocha especially Karen davila dahil na ngusuan sila, wala na kasing naniniwala sa kanila nasisira na reputasyon ng mga journalists dahil mas kinikilala ang mga bloggers. 😛",
+        "count": 72,
+        "description": "Support for Bloggers",
+        "label": "Bloggers Support",
+        "percentage": 0.058823529411764705
+    },
+    {
+        "cluster": 6,
+        "examples": " Bakit kaya parang gigil na gigil si Karen?Nagnganga\nlit ang mga bagang nya sa pagsasalita eh.\n\t magkano kya ang binayad dito. nagkakandautal s pagsasalita. kc puro kasinungalingan\nang sinasabi. wala sa puso ang sinasabi nasaisip nya lng! di ganyan ang laglalahat ng katotohanan.\n\t hala nagtipon tipon ang mga epal .....at mga walang kwentang hmmmm...\n\t ...\n\t kawawa ka naman MS Karen grabe ang ingit mo ky ms mocha mas maraming naniwala ky MOcha ky sa n u kasi nga patay gurom kayo at nababayaran kayo at walang panindigan pa social social pero tumatangap ng sohol sa mga politico wala ka ng cridibilidad KAREN AVILA\n\t tordesillas, yabang mo... kala mo sino magaling...Muka\nng bayad ka din ah...magkano??\n\t Mga INGGIT kay Mocha kya ganyan sila.... di lang kayo napantayan ni Mocha, nalampasan pa kayo... 😂😂",
+        "count": 71,
+        "description": "Attack on Ellen and Karen",
+        "label": "Personal Attacks",
+        "sublabelIfAny": "other",
+        "percentage": 0.17647058823529413
+    },
+    {
+        "cluster": 7,
+        "examples": " Aangat pa ba ang pilipinas...nga\nyong may seryoso tayong pangulo...kinak\nalaban ng kinakalaban para lng bumagsak..sabag\nay ganun talaga pag nalalaman ang mga kabulastugan..t\nalagang nakakaasar...hu\nli na eh..kayong mga magnanakaw maawa nman kayo sa mga kapwa nyo pilipino....na naghihirap dahil sa inyong politikong sakim sa posisyon at pera..hai nakaka init ng ulo..abs cbn nako grabe napaka one sided...dapat yan unang sampulan epaclose para mabawasan ang walang kwentang media..\n\t Dapat hindi u na lng ininvite c Atty. Trixie sa interview na yan kaz sa napanuod ko is gusto mo lng ipahiya xa at kitang-kita na pinagtutulungan\nnyo dikdikin ni aleng taga kanto c atty..\nPero thumbs up ako kay Atty trixie kaz pilit nyang pkalmahin sarili nya at nasagot nya ng maayos yung paratang ni karen kay Mam Mocha regarding sa fake news, na humingi ng tulong kay aleng tsismosa nung wala siya maisagot... alagad talaga ng dilawan!!\n\t Boba pala talaga ni karen.... Ulit ulit shinare lang ni mocha..... Iba yung gumawa ng fakenews... Bakit dmo sisihin ang gumawa..... Ipilit tlaga... Bakit lahat ng mga kretiko ng administration duterte iisa ang style........ Yung side lang nila ang ipilit.... Tumanda kana sa pag ka journalist tangahin kapa rin.. Labas. Na litid mo..... Kayong media ang gumagawa at kumakalat ng fake news..... Na hindi naman pinapaniwalaan ng mga tao.... Yung mga tangahin at wlang mukha lang namn ang humahanga at naniniwala sa inyo.....\n\t ...\n\t kalokohan....bi\nas na rappler magihing fact checker ng fb about fake news ni ala sila kredibilidad...\nlalo nat bias na nga may kinikilingan pang partido...magka\nno lagay madam...magkaam\ninan na...\n\t SHUT UP TORDESILLAS....\nisa kang bayaran.... ikaw ang number one nag bibigay ng fake news... matanda ka na, di ka pa rin nagbabago...\n\t Susme kalma pa nga si TP eh truth hurts supalpal lang kayo... buti p si TP nag research ng mabuti ... mga journalist na totoo chismis ang alam ahahaha",
+        "count": 61,
+        "label": "Other Comments",
+        "percentage": 0.29411764705882354
+    },
+    {
+        "cluster": 8,
+        "examples": "Alam mo President si Apolinario lang ang tunay na nakakatilong saming mga mahirap.Unta supirtahan nalang nimo president.Ayaw ug Kawangi ang mga tao nga naahon sa hirap tungod sa tabang ni Apolinario.C Quiboloy ang dapat nimo badlungon kai ang mga tao gihimo nya Makililimos alang sa iyang kadatu an.De ka malooy sa mga taong Naahon sa hirap tungod sa KAPA.naunsa Nman Ka.Nakadaog imong mga Senador tungod namong mga KAPA MEMBERS,Mao ayaw JUD Hilabti ang KAPA.kai UG Daghan MAGPAKAMATAY tungod GIPASIRADO nimo ang KAPA,IKAW Hinungdan sa ilang kamatayun,wa bya mo nanghatag ug Igong supply alang sa mga KABOS.unta SUPORTAHSN NIMO president ayaw Intawn ipasirado kai daghan tao magrally atubangan sa imong balay maghangyo nga ayaw tawn HILabti ang KAPA.\n\t Sarap sampalin ni Karen at nung matanda babae eh!!!😡 natatawa nlang sa inyo si Atty. Trixie eh..😁 ipalit nyo talaga ung gusto nyo.. you never win sa mga taong sarado na ang utak!! Para ka nakikipagusap sa hangin na kahit ano sabihin si nila pakikinggan!\n\t ito na ang pinaka bobong reporter na nakilala ko hahahha hello! bakit sinabi ba ng pangulo na isulat mo o ibalita mo lahat ng sinasabi nya? tangga! hahahaha ang trabaho mo eh ang mag balita ngaun kung nag sinungaling man sya sa sinabi nya abay problima na nya un at wala ka ng paki alam doon tanda ang mahalaga nagampanan mo ung trabaho mong maihatid ang minsahi na dapat mung maihatid sa taong bayan... ganun un! ai katangahan, parang sina sabi mo tanda kayo ai malilinis? hoy sinu niluko mo? mag pasalamat nga kayo sa panahon ng pamumuno ng du30 wala na masyadong pinapatay na mga kasamahan nyo sa trabaho o yung mga media na sinasabi... dahil sa war on drugs ng pangulo... nung panahon ni gloria at ni pinoy ang daming pinag papatay sa mga katulad ninyo media di po ba? bakit hnd nyo subukang ibalita yan!\n\t ...\n\t what a question....\nAng Panginoon ang makapangyarihan\nsa lahat....tangin\ng sya lng ang nakababatid at nakakaalam ng buong katotohanan,Sa paningin ng Diyos,walang sinuman ang pwedeng magkubli...\nwe are all sinners...in our prayers,we always ask God's mercy and favor na mapagtagumpayan\nnatin ang lahat ng ng mga pagsubok at hayaang ang banal ng espiritu ang magliwanag sa daan na tatahakin ng bawat isa...\nAng malaking hamon sa kaisipan ng bawat isa,kung ikaw o ako ang nasa katayuan o disposisyon ng presidente,bila\nng ama ng bansang Pilipinas,ano ang gagawin ko o ikaw sa suliraning bumabalot sa bansa,maraming problema...isa na nga ang Droga,\n-magkikibit balikat na lng ako, para hindi masira ang imahe ko,sa paningin ng iba\n- magaganda lng ang ipakikita ko,kahit ang katotohan sa likod nito ay lubhang tumataas ang krimen at parami ng parami ang nalulong sa paggamit ng droga.\n-o bilang ama,kailngan ko kumilos, upang masagip pa ang kasalukuyan at ang susunod na henerasyon....\nGalit ang Diyos sa Hipokrito....\nMy opinion is not pro or anti....\nPersonally,hind\ni ko siya kilala,as a president of our country hanggang doon lng....\nnang hindi pa sya Presidente...ka\ntulad ng mg nakaraang Presidente,bila\nng isa pangkaraniwang mamamayan,Magti\ntiwala ka,aasa na sa pagupo ng bagong lider,may pagbabago,may mababago,at higit sa lahat magmamalasakit sa tunay na kalagayan ng bansa...\nang tanong,sa lahat ng nakaraan...itan\nong natin sa ating sarili,\numahon ba...tumaas ba ang moral at dignidad...ligt\nas ba ang kapaligiran,sob\nrang daming katanungan...\nhindi na natin kailangang hanapin sa iba ang kasagutan,dahil\ntayo sa ating sarili,ang makakasagot....\nMay God bless our country Philippines🙏\n\t sa katotohanan lang po, Ang Diyos na Makapangyarihan\nang nagpapasya kung sino ang karapatdapat sa pamumuno sa bawat bansa, hindi basehan po ang image ng isang Tao kundi nasa puso nito ang taos pusong paglikingkod at pagsilbi ng tapat para sa kanyang bayan. ano man ang pag uugali nito at alam niya sa bandang huli mananaig ang pagiging pusong pinuno nito ng kanyang bansa. kaya naiiba si Pangulong Duterte, mula sa posisyong Mayor ay naibigay sa kanya ang pinaka mataas na Posisyon ng bansa, Diyos at tao ang Nagpasya para dito.\n\t Halatang bobo yung matanda... ano ba yan.. isa yata ito sa mga bayarang ralyista e.. ayoko nang manood.. sana maturuan ng leksyon ang network na ito. They're just puppets of the yellows/LPs. Kalahiya layo..\nDo not destroy our country or karma will hit you with malupit!!!",
+        "count": 61,
+        "description": "Support for our country and duterte",
+        "label": "  Du30 Spam",
+        "percentage": 0.058823529411764705
+    },
+    {
+        "cluster": 9,
+        "examples": " Anak ng pitumputpitung puting pating ang Kakapal talaga wala namang naniwala sa inyo o tigil nyo na yan wala naman kayong viewer\n\t Sus ang nagsasabi ng tutuo mayabang.ayaw u lang mapuna ang mga ginaawa ng mga ibang nagbbalita ng mgaFake news.kayo ang mayabang dahil ayw u ang mga bloggers na nassaabi ng katutuhan.wg kayong magpahalata na kampi kyo sa mga delawan.\n#gogogothingking\npinoy masmarami kami naniniwala sayo\n\t ang hirap nilang tanggapin na may mas mayabang na sa kanila ngayon at wala ng naniniwala sa kayabangan nila... at masakit malamn ang katotohanan na lugmok ka na pala!\n\t ...\n\t hindi na uubra ang mga ganyan mga dilawan kayo\n\t Saan daw sikat c mocha?napag usapan lang dahil sa pagsayaw nya at post na mali sikat na?karamihan ng ng followers nya mga nagtatago eh napakadali po gumawa ng account sa fb\n\t Bastos ka talaga k davila nagtanong ka sa bisita mo ng sumasagot na sya bigla ka namang sisingit ng salita hindi pa nya halos nasasabi ang sasabihin nya binabara mo na nag tanong ka pa kung ayaw mo namang pakinggan ang sinasabi nya bastos ka talaga hindi ka karapatdapat na magtanong kung ayaw mo namang pakinggan ang isasagot nya",
+        "count": 60,
+        "label": "Other Comments",
+        "percentage": 0.29411764705882354
+    },
+    {
+        "cluster": 10,
+        "examples": "\" hoy DABILA wag ka pahalata na dilawan ka!\n\t So kailan nga po Hindi naging truthful...haha\nhaha pinasa pota ...sa tsismosa pa sa tambay ng tindahan ni aleng Bebang...\n\t Ang nakakabahala ay ang kabobohan mo nanay hahahahaha.....\n.\n\t ...\n\t Hindi ang tao ang ma aadjust sa kabubuhan ni mocha!!!pera ng taong bayan ang pinspasahud sa kanya,\n\t medyo pahiyang pahiya si karen dito! my puhunan! hahahah\n\t Napaka sinungaling nitong Karen Davila na ito! Dilaw ka kasi talaga!\n",
+        "count": 55,
+        "label": "‘Dilawan’ and Bias",
+        "percentage": 0.058823529411764705
+    },
+    {
+        "cluster": 11,
+        "examples": " Putang ina pag si gagong trillianes putak ng putak walang kaso ...ginagago lng tayo ng mga bias na medya at mga gagong senador na to kaya mas lalong nawawalan n ng tiwala mga tao ... pasalamat sila at nasa pinas sila pag dito lng yan pulutin agad ng police\n\t laglag panga ang mga senador kapag nakakadinig ng nagsasabi ng totoo. hindi sila sanay.\n\t Marami pa ring tanga kahit may pinag aralan di maintindihan ang inyong paliwanag, kahit ang mga alagad ng Diyos di nila maunawaan .. Mga paimbabaw ..\n\t ...\n\t Cguro kung bawat pagsisinungalin\ng ng mga opisyal ay napaparalisa ang parti ng katawan naku halos lahat sila tahimik.\n\t Kayabangan daw? Baluktot ang mga utak nyo.\n\t Ang babaho ng mga bunganga niyo mga DDS KAYO",
+        "count": 52,
+        "description": "Explicit language on body parts",
+        "label": "Personal Attacks",
+        "sublabelIfAny": "other",
+        "percentage": 0.17647058823529413
+    },
+    {
+        "cluster": 12,
+        "examples": " Pansinin nyomga bias na media sa mga nag comment mas ayaw na ayaw maniwala sa inyo ang mga tao\n\t Ahahah kakatawa huli sa bitag... bais media parin ang source ng fake new.... wag sila ...\n\t Pero ang Media gang up nila Kay Duterte? Wala lang?\n\t ...\n\t Hindi bastos si thingking pinoy inaayon nyalang sa kausap nya! Bastos din kase kausap nya! Mas nakakabahala ang mga media sa pinas. Mga mediang bayaran at walang kwenta!\n\t MALI KC DSKARTE DIGONG DAPAT HWAG NA MURAHIN MGA MEDIA,DIPLOMASY\nA GAMITIN NYA ,MAY KANTA DYAN WAG MO PATULAN LALO KALANG AASARIN,NGUN PAG D NAKUHA SA SANTONG DASALAN ,ANONG SILBI NG PAGKA PRESDNT MO,???PAG NATOKHANG MGA YAN ,SINO PAGBBINTNAGAN NLA ??SASAYAW CLA WALANG MUSIC?\n\t dapat neutral ka...di ba ganon ang media..nagsasab\ni ng totoo, walang kinokobiran",
+        "count": 43,
+        "description": "Attack on the Media",
+        "label": "Attacks on News Credibility",
+        "percentage": 0.29411764705882354
+    },
+    {
+        "cluster": 13,
+        "examples": " bilang isang reporter, it is your own responsibility to seek for the truth, hindi yung , quote and quote ka lang...di wala ka ng pinag -iba sa isang tsismosa, kung ano ang narinig ay accurate na sa kanya...hay buhay, paano ka naging reporter madame...hindi ka dapat basta basta naniniwala sa iisang tao, dapat may katibayan ka, suporta sa isang bagay na iyong narinig lang...mali ang Sistema mo sa pagbabalita...g\naya gaya ka lang pala...walang kredibilidad lahat ng sinsabi mo....waaaaaaaa\naaaaahhhhh!!!!!\n!!! kawawang Pilipinas sa mga taong katulad niyo...\n\t Wow Kayabangan ba ung nagsasabi nang totoo. Shut up tanda mas may magagawa si TP kaysa sa inyong walang kabulohang media\n\t Tong mga mainstream media na to putak ng putak about mocha eh....IAYOS NYO KASI UNG MGA IBINABALITA NYO UNG KATOTOHANAN SKA UNG HINDI HALATANG MAY PINAPANIGAN KAYO HAHAHA........\nTULOY UNG MGA BLOG NI MOCHA ANG LUMALABAS NA MAS KAPANIPANIWALA KESA SA INYO...HAHAHAHA\nBIGTI NA MGA NSA MAINSTREAM MEDIA hahaha BANG🔫 SAYANG LNG PANAHON SA PANUNUOD SA MGA BALITA NYO UMAY NA MGA TAO KAYA SA SOCIAL MEDIA KMI NAHANAP NG BAGONG BALITA NA MAS MAKATOTOHANAN PA KESA SA MGA IPINAPALABAS NYO...HAHAHAHA😂😂😂😂😂\n\t ...\n\t Shut up Karen Davila halata kang may kinikilingan. Huli na sa bibig mo nag maang maangan ka pa. Wow ang galing ni attrny Trexie! Ang laking tulong ni Mocha sa aming mga OFW, lahat Ng mga hinanaing namin nakaka rating sa presidente,,sa pamamagitan ng kanyang blogers madaming pilipino natulongan maka owe, kaya I salute sa mga taong tulad ki mocha, attrny Trexie, ki Thinking Pinoy👍👍👍 God Bless all of you🙏🙏🙏\n\t 🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭Ang mga taga SEC na gustong ipasara ang RAPPLER ang dapat tanggalan ng trabaho bulag at bingi sila sa mga totoong pang yayari sa bansa natin siguro pati sila biktima rin at taga subaybay ng mga FAKE NEWS!!!palitan na sila ng may mga malinaw na mata at malakas na pandinig🤣🤣🤣\n\t pag presidente ang nag kamali p nag bero aabot sa senado ang diskasan pero kung c trillanes at kasamahan nia ang magsinungaling magsasabi ng hndi totoo ok lang sa inyo at mga media? kelan ba tayo matototo sa katotohanan??ke\nlan ba kaya mag babago o mabago ang bulok na sestama ng naka raan governo??hndi aasinso ang bansa natin kung hndi magkakaisa",
+        "count": 42,
+        "description": "Attack on Journalists",
+        "label": "Attacks on News Credibility",
+        "percentage": 0.29411764705882354
+    },
+    {
+        "cluster": 14,
+        "examples": " Ang mga media magaling mag twist ng storya kung saan nila makukuha ang simpatya ng mga tao..kaya nag aaway away\n\t Define nio muna kung ano un fake news at pd ba un nlng mga kaalyado mo ang imbitahan mo sa programa mo kung sa bawat ngsasalita na di umaayon sa pananaw mo ay parati mo nlng di pinatatapos un gusto nilang sabihin.\n\t Mga wasak ang pagmumukha agad prescon dahil utak palang ni tordecasilyas este banyo pla wasak ang mundo nila at take note mga biased na media sunog mga kaluluwa kay mr thinking pinoy. Wag kyu ksi gawa ng gawa ng fake news karen davila bka mging banyo din ka katulad ni tordecasilyas.n\nyahaha\n\t ...\n\t Jonel Baluncio Lita, bobo hindi si bikoy ang nahuli. Magbasa na hindi fake news para may malaman ka.\n\t The fact na hindi siya makapagsalita ng diretso kasi alam niya sa conscience niya na siya mismo at ang Rappler ang mga source ng Fake News at isa sa mga destabilizers ng bansa.\n\t Hindi kasalanan ng media na di nyo nabasa o napanood ang gusto nyong malaman na kaayayaya sa BIAS n'yong utak, mga dds",
+        "count": 38,
+        "description": "Fake news",
+        "label": "Attacks on News Credibility",
+        "percentage": 0.29411764705882354
+    },
+    {
+        "cluster": 15,
+        "examples": " Eh bakit si trillanes panay pa interview sa media Laban sa administration ok Lang ! Pero pag cla Ang titirahin masasaktan ? At nag pa senate hearing kaagad ! Saan Ang justice Nito mga Kabayan?\n\t itong c tortilla nagdadada na,eh kahapon sa senate hearing tahimik lng paano supalpal kau ky rj nieto,ngaun nakahanap ka ng kakampi,dati taas ng tingin ko ky karen ngaun napaka disgusting niya,dapat NEUTRAL ka lng dahil nasa media ka,asan ang ipinagmamalaki mong in d service of the filipino?\n\t Hoy tanda bagay kayo ni karen para kayong mga tsismosang sa lansangan.ganun\nka rin karen ikaw parang kang tsismosang sa lansangan ingittera ganyan ang journalism mo atcheng.\n\t ...\n\t Hay naku... Dapat ang MAINSTREAM media ang mag ingat sa ibabalita nila sa publiko kasi sila yung pinapanood ng taumbayan hindi yung kasapi ng gobyerno na ginagampanan lang ang tungkulin para sa bayan.. Kasi kung tutuusin iniiba yung binabalita sa mga MAINSTREAM MEDIA kasysa dun sa mga actual na binabalita. Alam naman siguro ang protocol as journalist.\n\t Bastos sa journalist nagsasalita pa yung isa Panay singit? Halatang walang alam sa batas? Halatang bias ka?\n\t nasasapawan kalang elen kilala ka na namain na isa kàring kupal na LP diba me column ka sa abante lagi akong binabasa ang mga BIAS mong commento sa duterte goverment wala kang kwentang media pweeee!! maige pa sayo si TP me utak..",
+        "count": 37,
+        "description": "Attack on Media",
+        "label": "Attacks on News Credibility",
+        "percentage": 0.29411764705882354
+    },
+    {
+        "cluster": 16,
+        "examples": "Amen !\n\t Amen!🙏\n\t AMEN...\n\t ...\n\t Amen !!!\n\t Amen 🙏\n\t AMEN\n\n",
+        "count": 37,
+        "description": "Amen",
+        "label": "Other Comments",
+        "percentage": 0.29411764705882354
+    },
+    {
+        "cluster": 17,
+        "examples": " kau ang mayabang dzmm mga peke kau\n\t Mayabang??? Hahaha natapatan lng kayo...blee.😋\n\t Mayabang kasi alam nya na tama sya.\n\nWalang masama sa pagiging mayabang kung ang sinasabi ay totoo.\n\nSign yun na hindi sya papasindak sa mga taong dilaw ang dugo!\n\t ...\n\t mayabang pala ha eh don kayo kay trillanis kc hindi mayabang\n\t Sino ang mayabang, si Trillanes o si TP Nieto???\n\t Anung mayabang don nasupal pal lng mga yellowtards mayabang na\nEh panu pa si trililing anu tawag don?",
+        "count": 35,
+        "description": "Mayabang (\"arrogant\")",
+        "label": "Other Comments",
+        "percentage": 0.29411764705882354
+    }
+]
