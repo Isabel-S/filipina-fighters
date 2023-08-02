@@ -2,6 +2,16 @@ from string import punctuation
 import json
 import re
 
+from facebook_scraper import *
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
+from facebook_scraper import get_profile
+import facebook_scraper as fs
+
 # Of certain users, did they have high activity (menitoed other users, posts heavily), low follower count, 
 # and recent creation date -> these are indicators of accounts created to amplify pro-Duterte messaging
 
@@ -38,7 +48,7 @@ def count_users(reporter, abuse):
             user = post['user'] 
             ogtext = post['text']
             newtext=" ".join([i.strip(punctuation) for i in ogtext.split()])
-            if user in user_count:
+            if not abuse and user in user_count:
                 user_count[user] += 1
                 user_to_texts[user].append(ogtext)
             elif not abuse or (abuse and is_abuse(newtext)):
@@ -61,7 +71,7 @@ def count_users(reporter, abuse):
             newtext = " ".join([i.strip(punctuation) for i in title.split()])
             newtext += " ".join([i.strip(punctuation) for i in description.split()])
             
-            if user in user_count:
+            if not abuse and user in user_count:
                 user_count[user] += 1
                 user_to_texts[user].append(ogtext)
             elif not abuse or (abuse and is_abuse(newtext)):
@@ -118,11 +128,24 @@ def count_users(reporter, abuse):
         json.dump(top_25, file, indent=4, sort_keys=True, default=str)
 
 # get profiles of these people
-def get_profiles():
-    pass
+def get_profiles(reporter, sublabel):
+    # open old file 
+    with open('social_media/'+reporter+'_users_'+sublabel+'.json', 'r') as file:
+        users = json.load(file)
+        for idx, user in enumerate(users):
+            try:
+                users[idx]["profile"] = get_profile(user["user"])
+            except:
+                print("can't find user:", user["user"])
+    
+    # Write the modified data back to the JSON file
+    with open('social_media/'+reporter+'_users_'+sublabel+'.json', 'w') as file:
+        json.dump(users, file, indent=4, sort_keys=True, default=str)
 
-count_users('ranada', True)
+# count_users('ranada', True)
+# print("..........")
+# count_users('tordesillas', True)
+
+get_profiles('ranada', 'abuse')
 print("..........")
-count_users('tordesillas', True)
-# do a get_profile of top 10
-# do a manual deep dive on the top 10 
+get_profiles('tordesillas', 'abuse')

@@ -4,7 +4,35 @@
         "follower_count": "",
         "name": "",
         "notes": ",",
-        "profile": "",
+        "profile": {
+            "About": "???\n\nambot\n\nJust ask my friends...",
+            "Education": {
+                "BS in Computer Science": "AMA Computer College Davao",
+                "Class of 1996": "High school",
+                "San Lorenzo Ruiz Academy of Polomolok": "Class of 2001"
+            },
+            "Favorite quotes": "Rise and rise until the lamb becomes lion.\n\nWala lang wala maisip",
+            "Follower_count": null,
+            "Following_count": null,
+            "Friend_count": null,
+            "Name": "Leandro Natayada",
+            "Places lived": [
+                {
+                    "link": "/profile.php?id=111877712161941&refid=17",
+                    "text": "Polomolok, South Cotabato",
+                    "type": "Current city"
+                },
+                {
+                    "link": "/profile.php?id=111877712161941&refid=17",
+                    "text": "Polomolok, South Cotabato",
+                    "type": "Hometown"
+                }
+            ],
+            "Work": "Tambay SA BAHAY Corporation\nManager",
+            "cover_photo": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/311506024_5645478098831009_1918512692777884284_n.jpg?stp=cp1_dst-jpg_e15_fr_q65&_nc_cat=104&ccb=1-7&_nc_sid=ed5ff1&_nc_ohc=_DmX7BbgmbEAX--EkrV&_nc_ht=scontent-sjc3-1.xx&oh=00_AfCkFy8n7ZOSoNs5bE06rLSTonFFmN2mX8e_xgpj2_Ix9A&oe=64CFEE90",
+            "id": "100001066240720",
+            "profile_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/324570752_6108680329184912_4005042570490525425_n.jpg?stp=c13.0.120.120a_cp0_dst-jpg_e15_p120x120_q65&_nc_cat=104&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=cBFTNC3QJUYAX_cljF1&_nc_ht=scontent-sjc3-1.xx&oh=00_AfAHe2ysslmrnMvv8s1vsfw5vtJbd5ggvb2fmCvwxTJz-A&oe=64CFDEBC"
+        },
         "texts": [
             "kasi daming galit sa kanya...kung pwede magtapon ng tae mapunta sa kanya...ngayon.\n.nangangamoy na yan",
             "di nga iligal pero yong perang tinatanggap nyo galing sa galit kay duterte",
@@ -268,7 +296,15 @@
         "follower_count": "",
         "name": "",
         "notes": ",",
-        "profile": "",
+        "profile": {
+            "Follower_count": null,
+            "Following_count": null,
+            "Friend_count": null,
+            "Name": "Yolanda Velasco Yoshida",
+            "cover_photo": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/358068628_6775009469199110_7011695546368680051_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=105&ccb=1-7&_nc_sid=ed5ff1&_nc_ohc=Dt5lhbtg9D0AX8_aJD-&_nc_ht=scontent-sjc3-1.xx&oh=00_AfDklwxRcRrD4IV9R8LDSKkpqGJKTVrnfc_WUy3nuZuXZw&oe=64CF5396",
+            "id": "100000703734220",
+            "profile_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/280724146_5450247725008631_2665336919307516458_n.jpg?stp=cp0_dst-jpg_e15_p120x120_q65&_nc_cat=109&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=-2idIekuy60AX-KE_yy&_nc_ht=scontent-sjc3-1.xx&oh=00_AfBR_YkG95ZpU0AvWINfHLltMi-26iAqILPQjTX_cPPe0w&oe=64CF39D8"
+        },
         "texts": [
             "Who will ask you guys, you are all liars! Can you blame us?!!!",
             "Hoy pangit na baboy, pangit din utak mo!",
@@ -353,7 +389,15 @@
         "follower_count": "",
         "name": "",
         "notes": ",",
-        "profile": "",
+        "profile": {
+            "Follower_count": null,
+            "Following_count": null,
+            "Friend_count": null,
+            "Name": "Grace R. Lee",
+            "cover_photo": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/329737778_1326567368193655_6681969827129392502_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=108&ccb=1-7&_nc_sid=ed5ff1&_nc_ohc=bNqU66WjUaAAX8ooW7b&_nc_ht=scontent-sjc3-1.xx&oh=00_AfBXARSaLe6jE4REl7MHz-FjbGNDO5VUINeDHNGvfdq8xQ&oe=64CFD496",
+            "id": "1487282860",
+            "profile_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/330651601_3041216242852559_4247120930589638411_n.jpg?stp=cp1_dst-jpg_e15_p120x120_q65&_nc_cat=104&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=GM-rnhvc6KwAX8z5144&_nc_ht=scontent-sjc3-1.xx&oh=00_AfBXAjCALcwzELk3JpYtxJ5fHbyElnn0XJZHTCf_fbQP0A&oe=64D0555C"
+        },
         "texts": [
             "@roman hmmmm sino ako? mag ta-tanga? bukas sa beach...",
             "hmmm kala ko gusto mo ako mag- tanga -\\-\\-sa beach bukas lols",
@@ -399,7 +443,26 @@
         "follower_count": "",
         "name": "",
         "notes": ",",
-        "profile": "",
+        "profile": {
+            "Education": {
+                "College": "Southern Capital Colleges"
+            },
+            "Follower_count": null,
+            "Following_count": null,
+            "Friend_count": null,
+            "Name": "Milan Valdez",
+            "Places lived": [
+                {
+                    "link": "/profile.php?id=105565836144069&refid=17",
+                    "text": "Singapore",
+                    "type": "Current city"
+                }
+            ],
+            "Work": "Farrer Road MRT Station\nJuly 5, 2023 - Present",
+            "cover_photo": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/344747411_118864081200191_297015003760945070_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=101&ccb=1-7&_nc_sid=ed5ff1&_nc_ohc=NE3o723mF5IAX_uzR-m&_nc_ht=scontent-sjc3-1.xx&oh=00_AfDeMc5Glg4lXYAUUEiwtcENlDZesbnVzZsPkMMrufl4-Q&oe=64D09895",
+            "id": "100024220699865",
+            "profile_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/358402987_1470180327132643_1878202844586313546_n.jpg?stp=c0.0.120.120a_cp0_dst-jpg_e15_p120x120_q65&_nc_cat=105&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=3UyVNYC1mfwAX9ETCmk&_nc_ht=scontent-sjc3-1.xx&oh=00_AfD9d2hd36544DIs49yNZrZP_pNq10Mi_VcOxZRMJaMAyw&oe=64CEF344"
+        },
         "texts": [
             "Taas nyo mga professional nyo wag tanga",
             "Mga media Kung sa Singapore kyo batikosin nyo Ang pangulo NASA kulongan na kayo",
@@ -421,7 +484,27 @@
         "follower_count": "",
         "name": "",
         "notes": ",",
-        "profile": "",
+        "profile": {
+            "Follower_count": null,
+            "Following_count": null,
+            "Friend_count": null,
+            "Name": "Mark Jomari Castillo",
+            "Places lived": [
+                {
+                    "link": "/profile.php?id=113317605345751&refid=17",
+                    "text": "Hong Kong",
+                    "type": "Current city"
+                },
+                {
+                    "link": "/profile.php?id=106050279435951&refid=17",
+                    "text": "Quezon City, Philippines",
+                    "type": "Hometown"
+                }
+            ],
+            "cover_photo": "https://scontent-sjc3-1.xx.fbcdn.net/v/t1.6435-9/60921356_1294542047379229_2950549091043508224_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=103&ccb=1-7&_nc_sid=ed5ff1&_nc_ohc=c29_Rt3-mI4AX93S387&_nc_ht=scontent-sjc3-1.xx&oh=00_AfCNQ-NLBdPpbX3eG4HmrH6KxFdlEihv2jdr1coe2czxZw&oe=64F231B2",
+            "id": "100004703380212",
+            "profile_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t1.6435-1/45684857_1157159107784191_8241549986232270848_n.jpg?stp=cp0_dst-jpg_e15_p120x120_q65&_nc_cat=100&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=QTlchtJU3NYAX92cDBg&_nc_ht=scontent-sjc3-1.xx&oh=00_AfAwe7LQ5P-fEPazAKVkBDjyqWGq7O-huvwyxrFbAPercQ&oe=64F21EA2"
+        },
         "texts": [
             "Kahit anong gawin nitong mga dilawan ala na mangyari, Botha na kayo mga dilawan \ud83d\udc4d",
             "Manang na pag halatang kang pro dilawan ka Kasi maraming pera mga oligarchs,mukha\nng kang pera ka po\ud83d\udc4d",
@@ -442,7 +525,22 @@
         "follower_count": "",
         "name": "",
         "notes": ",",
-        "profile": "",
+        "profile": {
+            "Follower_count": null,
+            "Following_count": null,
+            "Friend_count": null,
+            "Name": "Rosalinda Navarro",
+            "Places lived": [
+                {
+                    "link": "/profile.php?id=111175118906315&refid=17",
+                    "text": "Berlin, Germany",
+                    "type": "Current city"
+                }
+            ],
+            "cover_photo": "https://scontent-sjc3-1.xx.fbcdn.net/v/t1.18169-9/10300157_668162756639347_1647008149047419548_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=100&ccb=1-7&_nc_sid=ed5ff1&_nc_ohc=ajzcQF6jwLUAX9TTrMJ&_nc_ht=scontent-sjc3-1.xx&oh=00_AfDhVZwhbNMrEjXAJF-_gLz1mIJdz2FHRzOhEx6JnwvZPg&oe=64F23CFF",
+            "id": "100003368872902",
+            "profile_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t1.6435-1/137324647_3377530555702540_4655783583899499642_n.jpg?stp=cp0_dst-jpg_e15_p120x120_q65&_nc_cat=107&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=cT15h5n5BFwAX8LwRBM&_nc_ht=scontent-sjc3-1.xx&oh=00_AfCfT7oq6tS8VmBd9X8h0VEsF9yasnH6dSJKPbDtjwaWCQ&oe=64F23254"
+        },
         "texts": [
             "PHILLIPINE MEDIA \ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21is the greates PROBLEM IN KUR COUNTRY... puro bayaran ... tapos putak putak... coffee coffee \ud83d\ude00\ud83d\ude00\ud83d\ude00\ud83d\ude00\ud83d\ude00\ud83d\ude00",
             "\ud83d\ude00\ud83d\ude00My GOD \ud83d\ude07bakit ANTI DUTERTE GRABE MAKA PANIRA???? DESPERADONG. TAMAD AT GUTOM SA PIRA.",
@@ -462,26 +560,28 @@
         "follower_count": "",
         "name": "",
         "notes": ",",
-        "profile": "",
-        "texts": [
-            "'SOURCE OF FALSEHOOD' | Tinabla ni PCOO Sec. Andanar ang sinabi ni veteran journalist Ellen Tordesillas na si Pres. Duterte ang no. 1 source ng fake news. FULL STORY: ",
-            "Ayon sa journalist na si Ellen Tordesillas, isa sa mga nakikita niyang problema sa isyu ng fake news ay mismong mga opisyal pa raw ng gobyerno ang nagpapakalat ng kasinungalingan. ",
-            "'HINDI AKO HUMINGI' | Nilinaw ng beteranong journalist na si Ellen Tordesillas na wala na siyang cancer simula pa noong 2003 taliwas sa pahayag ni Pangulong Duterte. Itinanggi rin ni Tordesillas na nanghihingi siya ng pera para ipagamot ang kanyang karamdaman. Tinulungan daw siya ng dalawang senador at ng kanyang dating publisher. ",
-            "'BIASED JOURNALIST' | Tinawag ni Sec. Panelo na black propaganda ang isinulat ng kolumnistang si Ellen Tordesillas tungkol sa posibleng pagtakbo sa pagkapangulo ni Mayor Sara Duterte, para maisalba ang ama niya mula sa mga kaso ng human rights abuses sa International Criminal Court. ",
-            "READ | Karamihan ng mga maling impormasyon na nagmumula sa gobyerno ay galing umano sa Pangulo. Ito ay ayon kay VERA Files founder and president Ellen Tordesillas. ",
-            "MANUOD kayo ng special SOCIAL STREAMCAST ng News5Everywhere kasama sina Martin Andanar, Lourd de Veyra at Ellen Tordesillas NUOD NA: ",
-            "Another crazy Woman!",
-            "Sobrang trapik araw araw nalang\u2757 #SignTheWaiver"
-        ],
-        "texts_count": 8,
-        "user": "News5Everywhere"
-    },
-    {
-        "account_created": "",
-        "follower_count": "",
-        "name": "",
-        "notes": ",",
-        "profile": "",
+        "profile": {
+            "Follower_count": null,
+            "Following_count": null,
+            "Friend_count": null,
+            "Name": "Acekinol Morillo",
+            "Places lived": [
+                {
+                    "link": "/profile.php?id=106581799377606&refid=17",
+                    "text": "Dammam, Saudi Arabia",
+                    "type": "Current city"
+                },
+                {
+                    "link": "/profile.php?id=113943981953168&refid=17",
+                    "text": "Pag-Asa, Davao, Philippines",
+                    "type": "Hometown"
+                }
+            ],
+            "Work": "PAL(palamunin)\nSelf-Employed\nDecember 26, 2018 - Present",
+            "cover_photo": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/359255367_1479265009488134_1757634603604894941_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=102&ccb=1-7&_nc_sid=ed5ff1&_nc_ohc=5pZD7Q1C8TwAX9m_Hq5&_nc_ht=scontent-sjc3-1.xx&oh=00_AfCeinHKlsMPS4TwIcZ6e5AIjJfMAsBYSg5yIgo_vFkaOQ&oe=64CF1CA0",
+            "id": "100022139476928",
+            "profile_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/346474003_1394615334702375_2049025496664459318_n.jpg?stp=cp0_dst-jpg_e15_q65_s120x120&_nc_cat=101&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=FiM7DlnuqBYAX8z9d-k&_nc_ht=scontent-sjc3-1.xx&oh=00_AfDa-rRd6FHVdGi2pBwtBWZpV-jCDzG_i5l2WAmuaGfcvw&oe=64CFD2D9"
+        },
         "texts": [
             "Ellen taesilas kayo ang nag poprovide ng fake news kay Leni Lugaw right?",
             "Peace lang po mga taga Journo",
@@ -500,7 +600,19 @@
         "follower_count": "",
         "name": "",
         "notes": ",",
-        "profile": "",
+        "profile": {
+            "Education": {
+                "College": "FEATI University",
+                "High school": "La Salette Of San Mateo"
+            },
+            "Follower_count": null,
+            "Following_count": null,
+            "Friend_count": null,
+            "Name": "Revilo Zuproc",
+            "cover_photo": "https://scontent-sjc3-1.xx.fbcdn.net/v/t31.18172-8/11080887_902788606430580_2950878245097259773_o.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=103&ccb=1-7&_nc_sid=ed5ff1&_nc_ohc=3oRkfMCEyu4AX_9ydu0&_nc_ht=scontent-sjc3-1.xx&oh=00_AfAflgIihMY0KQ30zoedkTOYqlYkQ_KlSuemUZBu8Mxv1Q&oe=64F2198B",
+            "id": "100000983477968",
+            "profile_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/295488811_5430108260365236_8451358498778223117_n.jpg?stp=cp0_dst-jpg_e15_q65_s120x120&_nc_cat=109&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=QxpNKfMw4E4AX_ZUxqs&_nc_ht=scontent-sjc3-1.xx&oh=00_AfD0OhXlZ6TiTLb0Syyzzk8Ja0BtqV8iOA1JMWwGWO5cJA&oe=64CF8923"
+        },
         "texts": [
             "matrix ni panelo walng titi ang pahayag joke jole joke nanaman yan hahahahahaha",
             "hehe follow pa.mga dds wala kasi kayo mapanood na dds kaya watch kayo kay wag po hahahahaha",
@@ -537,7 +649,29 @@
         "follower_count": "",
         "name": "",
         "notes": ",",
-        "profile": "",
+        "profile": {
+            "Education": "Harvard University\nCollege\nClass of 2020",
+            "Follower_count": null,
+            "Following_count": null,
+            "Friend_count": null,
+            "Name": "Jacob Janayah Matthew",
+            "Places lived": [
+                {
+                    "link": "/profile.php?id=101886229852746&refid=17",
+                    "text": "Bayawan, Negros Oriental",
+                    "type": "Current city"
+                },
+                {
+                    "link": "/profile.php?id=108048365895326&refid=17",
+                    "text": "Linamon",
+                    "type": "Hometown"
+                }
+            ],
+            "Work": "Plumber at US Naval Base Guantanamo Bay Cuba\nFebruary 11, 2022 - Present\nPLUMBER\nTutuban Center\nPlumber Maintenence\nMay 18, 2021 - January 31, 2022\nTondo, Manila\nEl Seif Engineering Contracting Company - PR\nPlumber\nFebruary 10, 2015 - March 12, 2020\nKingdom of Saudi Arabia,ksa\nNgosiok Marketing (Super Q Golden Bihon)\nProduction/Operator/Maintenance\nNovember 17, 2005 - February 7, 2015",
+            "cover_photo": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/273510250_5137495489629059_7983083794164275102_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=106&ccb=1-7&_nc_sid=ed5ff1&_nc_ohc=toHY7H9VF5kAX-xlzuU&_nc_ht=scontent-sjc3-1.xx&oh=00_AfCwENKqDumvcA6kX5djfxHZfrrMgKjgimgt9m7a5hngvg&oe=64D07785",
+            "id": "100001059772973",
+            "profile_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/273403308_5133130246732250_5512071409432486299_n.jpg?stp=cp0_dst-jpg_e15_p120x120_q65&_nc_cat=109&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=BJtGiXHcT5sAX951GEM&_nc_ht=scontent-sjc3-1.xx&oh=00_AfBBAfp_E2xF_B59Uyi2Xio-Q5MveKH8GqEI4HQ45Y4bHw&oe=64CEE95E"
+        },
         "texts": [
             "90% na mga mainstream media Ay anti du30 kc na buking na sila na bayaran...Galit\nsila at napahiya...kaya",
             "Papansin lang kayo para bigyan kayo ng pundo sa mga yellow LP",
@@ -555,24 +689,26 @@
         "follower_count": "",
         "name": "",
         "notes": ",",
-        "profile": "",
-        "texts": [
-            "Fact checker ba bayaran!",
-            "Cass",
-            "Sarap magbakasyon dyan Ellen. Merry Christmas and have a great new year!",
-            "Sobrang trapik araw araw nalang\u2757 #SignTheWaiver",
-            "Ungguy naimik ang ungguy hayup ka",
-            "Amen"
-        ],
-        "texts_count": 6,
-        "user": "rapplerdotcom"
-    },
-    {
-        "account_created": "",
-        "follower_count": "",
-        "name": "",
-        "notes": ",",
-        "profile": "",
+        "profile": {
+            "Education": {
+                "College": "Saint Theresa's College of Cebu City",
+                "High school": "Saint Theresa's College of Cebu City"
+            },
+            "Follower_count": null,
+            "Following_count": null,
+            "Friend_count": null,
+            "Name": "Mercedes Solon",
+            "Places lived": [
+                {
+                    "link": "/profile.php?id=109155499103263&refid=17",
+                    "text": "Cebu City",
+                    "type": "Hometown"
+                }
+            ],
+            "cover_photo": "https://scontent-sjc3-1.xx.fbcdn.net/v/t1.6435-9/55604897_2130515493670890_8308951397634670592_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=109&ccb=1-7&_nc_sid=ed5ff1&_nc_ohc=EkjekKd-hEYAX9Y9n8G&_nc_ht=scontent-sjc3-1.xx&oh=00_AfCeNbnZxpZ9fNvj1yoFtmjU5vJb2ZMF3DhMqqCR0PRC5Q&oe=64F21B01",
+            "id": "100001373816120",
+            "profile_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/316673226_5615376128518125_3980352976263757272_n.jpg?stp=cp0_dst-jpg_e15_p120x120_q65&_nc_cat=100&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=hBhEPahgmkgAX83dWUg&_nc_ht=scontent-sjc3-1.xx&oh=00_AfBOhlZX2blYSDWovtb0kjBV2xsja-Bi7VlolSw-HMICDw&oe=64CFFD01"
+        },
         "texts": [
             "Napakaidiotic replies by the fact Checker, fact checked by anchor and other interviewee during the interview? Cannot make heads or tails re definition of fake news. Totally out of her intellectual grasp. Ridiculous. Off with these inept interlopers.",
             "Nervous Tornillodekasil\nlas?",
@@ -589,7 +725,27 @@
         "follower_count": "",
         "name": "",
         "notes": ",",
-        "profile": "",
+        "profile": {
+            "Follower_count": null,
+            "Following_count": null,
+            "Friend_count": null,
+            "Name": "Dokie Imam",
+            "Places lived": [
+                {
+                    "link": "/profile.php?id=103401199699809&refid=17",
+                    "text": "Sharjah",
+                    "type": "Current city"
+                },
+                {
+                    "link": "/profile.php?id=111685082193818&refid=17",
+                    "text": "Kabacan, North Cotabato, Philippines",
+                    "type": "Hometown"
+                }
+            ],
+            "cover_photo": "https://scontent-sjc3-1.xx.fbcdn.net/v/t1.6435-9/103985055_3630786360269971_7844074632519973164_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=102&ccb=1-7&_nc_sid=ed5ff1&_nc_ohc=WqIEi9syF3MAX9X0NcS&_nc_oc=AQlcG-14iM9jvBrJO3wAcfla3I-fMTlt0_ntgZTScJ981X2a-R5gWPMpWLNeKC3L8G0&_nc_ht=scontent-sjc3-1.xx&oh=00_AfC9cwK2i8uGzkgAPWlHi73Z32wkrr03_g54Oi1RNQQWaw&oe=64F23E6D",
+            "id": "100000159277741",
+            "profile_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/284871956_5846852688663316_6169125530432717186_n.jpg?stp=cp0_dst-jpg_e15_q65_s120x120&_nc_cat=102&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=Fgsr4KV-G34AX-wHgtF&_nc_ht=scontent-sjc3-1.xx&oh=00_AfBye-kPNOBuITAv9HcyD5QT61ps3WzYRENxdZlcYY2Rkg&oe=64D021CD"
+        },
         "texts": [
             "ito na ang pinaka bobong reporter na nakilala ko hahahha hello! bakit sinabi ba ng pangulo na isulat mo o ibalita mo lahat ng sinasabi nya? tangga! hahahaha ang trabaho mo eh ang mag balita ngaun kung nag sinungaling man sya sa sinabi nya abay problima na nya un at wala ka ng paki alam doon tanda ang mahalaga nagampanan mo ung trabaho mong maihatid ang minsahi na dapat mung maihatid sa taong bayan... ganun un! ai katangahan, parang sina sabi mo tanda kayo ai malilinis? hoy sinu niluko mo? mag pasalamat nga kayo sa panahon ng pamumuno ng du30 wala na masyadong pinapatay na mga kasamahan nyo sa trabaho o yung mga media na sinasabi... dahil sa war on drugs ng pangulo... nung panahon ni gloria at ni pinoy ang daming pinag papatay sa mga katulad ninyo media di po ba? bakit hnd nyo subukang ibalita yan!",
             "hnd po mayabang un madam tordesillas nag sasabi lang po sya ng totoo para ipamukha sa isang katulad mo na hnd sila ganib sa pera.... palibhasa tordesillas ikaw kasi basta may maisulat ka lang sa ibabalita mo... tangga",
@@ -623,7 +779,39 @@
         "follower_count": "",
         "name": "",
         "notes": ",",
-        "profile": "",
+        "profile": {
+            "Education": "Technological University of the Philiipines - Visayas\nCollege\nClass of 1990",
+            "Follower_count": null,
+            "Following_count": null,
+            "Friend_count": null,
+            "Name": "Leopoldo Jr Joven",
+            "Places lived": [
+                {
+                    "link": "/profile.php?id=112172772141867&refid=17",
+                    "text": "Chongqing, China",
+                    "type": "Current city"
+                },
+                {
+                    "link": "/839672732/posts/10153487080772733/?refid=17",
+                    "text": "Chongqing",
+                    "type": "Moved in 2015"
+                },
+                {
+                    "link": "/839672732/posts/10153487079982733/?refid=17",
+                    "text": "Chongqing",
+                    "type": "Moved in 2015"
+                },
+                {
+                    "link": "/profile.php?id=106061992757459&refid=17",
+                    "text": "Bacolod City",
+                    "type": "Hometown"
+                }
+            ],
+            "Work": "Midea Group\nAssembly Process Expert\nJune 24, 2015 - Present\nChongqing, China\nUnited Test and Assembly Center Ltd.\nPrincipal Engineer Process Technology\n2012 - 2014\nNew Package Introduction\nAmkor Technology\nIonics Circuit Inc.",
+            "cover_photo": "https://scontent-sjc3-1.xx.fbcdn.net/v/t1.6435-9/53722955_10157077263852733_668936272974184448_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=110&ccb=1-7&_nc_sid=ed5ff1&_nc_ohc=l6zeKleroOMAX_DeX0C&_nc_ht=scontent-sjc3-1.xx&oh=00_AfCGvzsSuRnLBxyGVH4KY6pqHGTc4dhH6nW-yQom_l8GEw&oe=64F21C90",
+            "id": "839672732",
+            "profile_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t1.18169-1/26734155_10156061786302733_7003704602318914856_n.jpg?stp=cp0_dst-jpg_e15_p120x120_q65&_nc_cat=100&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=1DaAdpal6jwAX9ibkl1&_nc_ht=scontent-sjc3-1.xx&oh=00_AfCBWF1dPA-zjnzlLwDQEiDulBvpMPEBHajguWXcc3YXyw&oe=64F2194C"
+        },
         "texts": [
             "Vera files... fact checker pero di ma explain kong ano ang maging fake news na dapat ma fact check. So maging depende na lang sa kanila kong ano... walang kang definition.. so papano mo magagawa ang working procedure. Hayzzz kasama pa ang rappler na kahit sariling news di ma fact check.",
             "Balat sibuyas naman talaga kayo, kasi pagtinira kayo suppression of press freedom kaagad banat nyo. Mga ipokrito",
@@ -655,7 +843,27 @@
         "follower_count": "",
         "name": "",
         "notes": ",",
-        "profile": "",
+        "profile": {
+            "Follower_count": null,
+            "Following_count": null,
+            "Friend_count": null,
+            "Name": "Wilfredo Mendoza",
+            "Places lived": [
+                {
+                    "link": "/profile.php?id=114952118516947&refid=17",
+                    "text": "San Francisco, California",
+                    "type": "Current city"
+                },
+                {
+                    "link": "/profile.php?id=114952118516947&refid=17",
+                    "text": "San Francisco, California",
+                    "type": "Hometown"
+                }
+            ],
+            "cover_photo": "https://scontent-sjc3-1.xx.fbcdn.net/v/t1.18169-9/399280_446051368782154_1124554460_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=105&ccb=1-7&_nc_sid=ed5ff1&_nc_ohc=9RV-5GaYmz8AX-_xDKp&_nc_ht=scontent-sjc3-1.xx&oh=00_AfBr2DVKXfvA5wW-jKNwE0eLOjy19yX_24y0NKhS1vTImQ&oe=64F22906",
+            "id": "100001318850364",
+            "profile_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t1.6435-1/202677034_4033207203399868_3622765938627914594_n.jpg?stp=cp0_dst-jpg_e15_p120x120_q65&_nc_cat=104&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=Dpm1-DebImgAX9qfRe_&_nc_ht=scontent-sjc3-1.xx&oh=00_AfBk9cDF7HHDq10ZVbTadcx4zI7Jf3DxVWFwi7oTcMu-yQ&oe=64F21378"
+        },
         "texts": [
             "Si trilliani ay salot sa bayan at dilima Pati na ang mga Yelp guston agawin ang administration ni PRRD ang GOD ay nasa PRRD side dahil tama ang ginagawa niya OK siya mahal niya bayan",
             "President PRRD mahal niya ang Bayani natin di Gaya yellow L B trilliani mga pumapatay sa ating kabataan dahil sa droga diba isa na si Dilima susunod na Bastos na trilliani ngayon natatago sa Senate hall stupid ka at isa sa mga may sungay duwag ka Bastos ka sa bayan",
@@ -671,7 +879,26 @@
         "follower_count": "",
         "name": "",
         "notes": ",",
-        "profile": "",
+        "profile": {
+            "Education": {
+                "College": "Far Eastern University",
+                "High school": "Don Mariano Marcos High School Q.C."
+            },
+            "Follower_count": null,
+            "Following_count": null,
+            "Friend_count": null,
+            "Name": "Amalia Copo Burke",
+            "Places lived": [
+                {
+                    "link": "/profile.php?id=106297619405550&refid=17",
+                    "text": "Christchurch, New Zealand",
+                    "type": "Current city"
+                }
+            ],
+            "cover_photo": "https://scontent-sjc3-1.xx.fbcdn.net/v/t1.6435-9/31907204_10211215569053584_5899542188450119680_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=104&ccb=1-7&_nc_sid=ed5ff1&_nc_ohc=hQChji9AIW8AX9Q9RS1&_nc_ht=scontent-sjc3-1.xx&oh=00_AfAFPzYZIDwb26jmEeQHKfAHJaS9ZgD6GYuFTH6pVisucA&oe=64F249BF",
+            "id": "1489232712",
+            "profile_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/271054278_10220182863670345_5552254765736631625_n.jpg?stp=cp0_dst-jpg_e15_p120x120_q65&_nc_cat=106&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=NluwplHlgfAAX9K0qJV&_nc_ht=scontent-sjc3-1.xx&oh=00_AfA4t4VNsslnbY1sGeG2CUdGZc1H-uFM1RsK7hXWlezDNg&oe=64CFADF0"
+        },
         "texts": [
             "Milagro lumabas na mga salot and liars kasi malapit na kumanta c bikoy",
             "Naku ang galing mong mag sinungaling, ok kung hindi paninira sa govt",
@@ -687,7 +914,15 @@
         "follower_count": "",
         "name": "",
         "notes": ",",
-        "profile": "",
+        "profile": {
+            "Follower_count": null,
+            "Following_count": null,
+            "Friend_count": null,
+            "Name": "Jerson Recorte",
+            "cover_photo": "https://scontent-sjc3-1.xx.fbcdn.net/v/t1.6435-9/36755276_102128440709898_2811115189687025664_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=107&ccb=1-7&_nc_sid=ed5ff1&_nc_ohc=HhEhU5mGEKEAX97Pv5n&_nc_ht=scontent-sjc3-1.xx&oh=00_AfB_SuvbvBDVs3aMO1jcxQEg0wvVAf4qb7R6TBhPvWkhTg&oe=64F248AE",
+            "id": "100027382263379",
+            "profile_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t1.6435-1/40161694_150327592556649_8775047648097861632_n.jpg?stp=cp0_dst-jpg_e15_p120x120_q65&_nc_cat=107&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=KTcksoQ5EagAX84Ds8l&_nc_ht=scontent-sjc3-1.xx&oh=00_AfC5KINyJ1UpedfQS09M3jm-tJtcam_P2lnnNafhJtqFTw&oe=64F230E3"
+        },
         "texts": [
             "Manga manok nang dilawan talolahatyan lampasonaminyan",
             "Sinoba matotowa sa into Hindi na towa",
@@ -697,5 +932,45 @@
         ],
         "texts_count": 5,
         "user": "100027382263379"
+    },
+    {
+        "account_created": "",
+        "follower_count": "",
+        "name": "",
+        "notes": ",",
+        "profile": "",
+        "texts": [
+            "Acurate kayo dyan sa fake news.",
+            "Dahil nagpapagamit na gnayon ang media.",
+            "Ilabas nyo amg listahan ng mga corrupt na media",
+            "Magkano ba sahod mga sahod nyo kayong 5 pwede malaman?",
+            "May listahan ba kayo"
+        ],
+        "texts_count": 5,
+        "user": "100001164523047"
+    },
+    {
+        "account_created": "",
+        "follower_count": "",
+        "name": "",
+        "notes": ",",
+        "profile": {
+            "Follower_count": null,
+            "Following_count": null,
+            "Friend_count": null,
+            "Name": "Maria Estelle M. Yap",
+            "cover_photo": "https://scontent-sjc3-1.xx.fbcdn.net/v/t1.6435-9/81849319_732682123894582_4256105620156973056_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=105&ccb=1-7&_nc_sid=ed5ff1&_nc_ohc=FJMdUA_NEgcAX-hK8ZV&_nc_ht=scontent-sjc3-1.xx&oh=00_AfCSo-08CTrP0eOOsoP8_Ff8KcW4i2dq2FXxuonMYtY88Q&oe=64F2425B",
+            "id": "100014584022272",
+            "profile_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t1.6435-1/87956414_774156156413845_4787076965079187456_n.jpg?stp=cp0_dst-jpg_e15_p120x120_q65&_nc_cat=104&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=n9PMeEx5Y6MAX8Wv7DI&_nc_ht=scontent-sjc3-1.xx&oh=00_AfDmueTgaMUmFE5h22JTNzaPZkcppQuK-mg3YnP_AGBmhA&oe=64F2436A"
+        },
+        "texts": [
+            "Yes, the president is the # 1 source of fake news",
+            "No to fake news! No to Mocha!",
+            "We support Rappler!",
+            "#OustDuterte",
+            "Dds are idiots!"
+        ],
+        "texts_count": 5,
+        "user": "100014584022272"
     }
 ]

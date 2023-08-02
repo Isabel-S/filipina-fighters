@@ -4,7 +4,15 @@
         "follower_count": "",
         "name": "",
         "notes": ",",
-        "profile": "",
+        "profile": {
+            "Follower_count": null,
+            "Following_count": null,
+            "Friend_count": null,
+            "Name": "Jesus Camaya",
+            "cover_photo": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/279120688_2708144002663362_75769010071371264_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=108&ccb=1-7&_nc_sid=ed5ff1&_nc_ohc=M32IVW0adrQAX-38kRY&_nc_ht=scontent-sjc3-1.xx&oh=00_AfCQZsFG0lv2lYXeR-CV9XYY55WNJRk524KvpB9FsRdzaA&oe=64CF0373",
+            "id": "100004033652416",
+            "profile_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/279050772_2707822156028880_3713797912435792731_n.jpg?stp=cp0_dst-jpg_e15_p120x120_q65&_nc_cat=110&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=1JP2_7Wp4ZoAX-pSHS5&_nc_ht=scontent-sjc3-1.xx&oh=00_AfA0PNn7w6HBpxO7-K5JwCCMrsmWmEDJp8k9z3pD9dS_Ew&oe=64CF0352"
+        },
         "texts": [
             "Jesus Camaya",
             "Jesus Camaya",
@@ -50,7 +58,22 @@
         "follower_count": "",
         "name": "",
         "notes": ",",
-        "profile": "",
+        "profile": {
+            "Follower_count": null,
+            "Following_count": null,
+            "Friend_count": null,
+            "Name": "Norby Victorio",
+            "Places lived": [
+                {
+                    "link": "/profile.php?id=106322966073780&refid=17",
+                    "text": "Manila, Philippines",
+                    "type": "Current city"
+                }
+            ],
+            "cover_photo": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/292470015_1269334036804318_79221167706741835_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=107&ccb=1-7&_nc_sid=ed5ff1&_nc_ohc=FNwr62sZ0UIAX8uYjUg&_nc_ht=scontent-sjc3-1.xx&oh=00_AfDT0PAdYtwcMnS1AiOVE57x79xr20T2hrA8g4uuI3Dtvg&oe=64D01B7D",
+            "id": "100011832007715",
+            "profile_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/292764319_1269333796804342_3513588280038499678_n.jpg?stp=c0.0.120.120a_cp0_dst-jpg_e15_p120x120_q65&_nc_cat=101&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=6FY5j8rPa7YAX_N7BLK&_nc_ht=scontent-sjc3-1.xx&oh=00_AfBy4miCBAWyKBpKUGwhM2nBUFgf5bBxRPu0u7rzJ4ar3Q&oe=64D001E8"
+        },
         "texts": [
             "Norby Victorio",
             "Norby Victorio",
@@ -92,7 +115,15 @@
         "follower_count": "",
         "name": "",
         "notes": ",",
-        "profile": "",
+        "profile": {
+            "Follower_count": null,
+            "Following_count": null,
+            "Friend_count": null,
+            "Name": "Rappler",
+            "cover_photo": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/326081055_716443466764568_8379035218887315876_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=107&ccb=1-7&_nc_sid=ed5ff1&_nc_ohc=oc1eSJQu1E8AX9G3afR&_nc_ht=scontent-sjc3-1.xx&oh=00_AfA798abgs_fyK0_aV3vj1RzunEfRyjxbEASPGDAdBWV-A&oe=64CEE85B",
+            "id": "100064562324642",
+            "profile_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/312485121_544389621056444_1709176195648106042_n.jpg?stp=c214.214.652.652a_cp0_dst-jpg_e15_q65_s120x120&_nc_cat=1&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=FbzVgtYYCAEAX8AVkNk&_nc_ht=scontent-sjc3-1.xx&oh=00_AfB4FmP5FQohJn9qXQZP1Jt16_0oOpPOCy7IB-EHyWbWsQ&oe=64CECE80"
+        },
         "texts": [
             "Pia Ranada talks about the ban against coverage, the string of threats, and the lonely business of reporting on the President. READ: Reporter Pia Ranada: 'If I can be targeted, so can any one else who is critical' ",
             "Reporters Pia Ranada, Mara Cepeda, Camille Elemia, Ralf Rivas and correspondents Bobby Lagsa and Raymon Dullana file a petition at the Supreme Court to lift the ban on Rappler\u2019s coverage of President Rodrigo Duterte on April 11, 2019. Photos by LeAnne Jazul/Rappler ",
@@ -319,7 +350,27 @@
         "follower_count": "",
         "name": "",
         "notes": ",",
-        "profile": "",
+        "profile": {
+            "About": "work in saudi arabia dumez national guard 1982' 1986 sultan hassanal bolkia palace brunei darussalam 1989 1992 dubai intercontinental hotel UAE UNITED ARAB EMIRATES 1992 1994 1994 TO 2015 new world",
+            "Follower_count": null,
+            "Following_count": null,
+            "Friend_count": null,
+            "Name": "Racso Dacalam",
+            "Places lived": [
+                {
+                    "link": "/profile.php?id=106322966073780&refid=17",
+                    "text": "Manila, Philippines",
+                    "type": "Current city"
+                },
+                {
+                    "link": "/profile.php?id=106322966073780&refid=17",
+                    "text": "Manila, Philippines",
+                    "type": "Hometown"
+                }
+            ],
+            "id": "100054409345321",
+            "profile_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/320221225_834293461228056_5104794590480691804_n.jpg?stp=cp0_dst-jpg_e15_p120x120_q65&_nc_cat=102&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=tJnDhlXU1WUAX8Mhb4Y&_nc_oc=AQkRDS01oMFILIMZURdtw52jCv-e8bOHKje7S6gSoYf43WzyogM2YxkIFKZ-vlo1kmw&_nc_ht=scontent-sjc3-1.xx&oh=00_AfARYcPhsg70JXhu0mCaZxUlegkP6ZmLoJ27TVAR70-Svg&oe=64CF8B97"
+        },
         "texts": [
             "Racso Dacalam",
             "Racso Dacalam",
@@ -340,7 +391,22 @@
         "follower_count": "",
         "name": "",
         "notes": ",",
-        "profile": "",
+        "profile": {
+            "Follower_count": null,
+            "Following_count": null,
+            "Friend_count": null,
+            "Name": "Jake Manabat",
+            "Places lived": [
+                {
+                    "link": "/profile.php?id=106050279435951&refid=17",
+                    "text": "Quezon City, Philippines",
+                    "type": "Current city"
+                }
+            ],
+            "cover_photo": "https://scontent-sjc3-1.xx.fbcdn.net/v/t1.6435-9/105011704_256265009004511_7674122705973027498_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=106&ccb=1-7&_nc_sid=ed5ff1&_nc_ohc=gN45xbvelmYAX-UVK_9&_nc_ht=scontent-sjc3-1.xx&oh=00_AfDKTrAhDHN2vOZuZFFa7Sbri5qEYlVKQjNRpj73jKnPhw&oe=64F24680",
+            "id": "100038630413806",
+            "profile_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/307874857_763808794916794_4742701117279778526_n.jpg?stp=cp0_dst-jpg_e15_p120x120_q65&_nc_cat=104&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=WddCNkbUOw4AX-yot8P&_nc_ht=scontent-sjc3-1.xx&oh=00_AfAy7rODSCHlrWBgC0o5g5LIfDRoeLDXK2TcdoruZqMBTg&oe=64CEECEF"
+        },
         "texts": [
             "Jake Manabat",
             "Jake Manabat",
@@ -361,7 +427,27 @@
         "follower_count": "",
         "name": "",
         "notes": ",",
-        "profile": "",
+        "profile": {
+            "Education": {
+                "College": "Notre Dame of Tacurong College",
+                "High school": "St. John Early Learning Center Inc."
+            },
+            "Follower_count": null,
+            "Following_count": null,
+            "Friend_count": null,
+            "Name": "Minatulhamida Al Fitra Kadayunan",
+            "Places lived": [
+                {
+                    "link": "/profile.php?id=104144619621027&refid=17",
+                    "text": "Datu Paglas, Maguindanao",
+                    "type": "Hometown"
+                }
+            ],
+            "Work": "Facebook",
+            "cover_photo": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/309433972_597582615400072_1711454500364864733_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=110&ccb=1-7&_nc_sid=ed5ff1&_nc_ohc=YjZN9jJIULAAX9ztGhn&_nc_ht=scontent-sjc3-1.xx&oh=00_AfANU92vvx7b-21erHsxi0WzStI6EyzY8dWa6hKEtdSUNw&oe=64D02E32",
+            "id": "100054450166223",
+            "profile_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/347781769_6285896951467911_5905420705951275493_n.jpg?stp=c36.0.120.120a_cp0_dst-jpg_e15_p120x120_q65&_nc_cat=103&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=x9A1X9ItNMsAX9k5QyJ&_nc_ht=scontent-sjc3-1.xx&oh=00_AfDMUUDNoLlo4ijpqSD4YJ6XWxtzolMUrAPYyJ6uaa0gKw&oe=64CF235E"
+        },
         "texts": [
             "Minatulhamida Al Fitra Kadayunan",
             "Minatulhamida Al Fitra Kadayunan",
@@ -382,7 +468,31 @@
         "follower_count": "",
         "name": "",
         "notes": ",",
-        "profile": "",
+        "profile": {
+            "Education": {
+                "College": "Community College of Manito",
+                "High school": "tugatog national highschool"
+            },
+            "Follower_count": null,
+            "Following_count": null,
+            "Friend_count": null,
+            "Name": "Inri Dimdam",
+            "Places lived": [
+                {
+                    "link": "/profile.php?id=105594286142211&refid=17",
+                    "text": "Manito, Albay",
+                    "type": "Current city"
+                },
+                {
+                    "link": "/profile.php?id=105594286142211&refid=17",
+                    "text": "Manito, Albay",
+                    "type": "Hometown"
+                }
+            ],
+            "cover_photo": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/347238505_3470898476459878_3064346226285474893_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=103&ccb=1-7&_nc_sid=ed5ff1&_nc_ohc=NaJ5o-apGWkAX-xLYUb&_nc_ht=scontent-sjc3-1.xx&oh=00_AfCwKZyJ-3MYH9_q-6j5HCPV04ApHC0iRjkhf1f7CnEhUQ&oe=64CEB7B4",
+            "id": "100006192781798",
+            "profile_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/363318784_3495091330707259_7049980122724291915_n.jpg?stp=cp0_dst-jpg_e15_p120x120_q65&_nc_cat=104&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=YW8VP24YTcAAX-gnX-K&_nc_ht=scontent-sjc3-1.xx&oh=00_AfBt-tx2HZtKSYU2mffiSIoC6Dx7oCrBZQTbwoeg4Vty0g&oe=64CFF36C"
+        },
         "texts": [
             "Nkakahiya sa part mo mkhang ikaw pa magiging headline sa balita# pia ranada nagmukhang batang paslit.",
             "Hoy oh rappler buti nmn dika si doris",
@@ -402,7 +512,21 @@
         "follower_count": "",
         "name": "",
         "notes": ",",
-        "profile": "",
+        "profile": {
+            "Education": {
+                "College": "Axiom College - Milton RTO #40489",
+                "High school": "Saint Louis Ann Academy",
+                "bachelor of arts in foreign service major in diplomacy": "Lyceum of the Philippines"
+            },
+            "Follower_count": null,
+            "Following_count": null,
+            "Friend_count": null,
+            "Name": "Stela Lennon",
+            "Work": "Bayside fish and chips shop\nCook\nMarch 14, 2011 - Present\nAsset Maintenance Manager\nOwner-Operator\nEmporium Hotels\nRoom Attendant",
+            "cover_photo": "https://scontent-sjc3-1.xx.fbcdn.net/v/t1.6435-9/119146649_10159261896253395_5799529284600014519_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=109&ccb=1-7&_nc_sid=ed5ff1&_nc_ohc=qTXCp6FkCyIAX8c_ypi&_nc_ht=scontent-sjc3-1.xx&oh=00_AfAu2udwvltfh1PNSoUzkRxq9lcC6ybYzc9J2HNhaLKxJQ&oe=64F2315E",
+            "id": "520068394",
+            "profile_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/346829830_263467279397112_9145867615453292547_n.jpg?stp=cp0_dst-jpg_e15_p120x120_q65&_nc_cat=102&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=XX344LZ9y-QAX8HJrOo&_nc_ht=scontent-sjc3-1.xx&oh=00_AfB0LtkKeJGkGG3FIOb4sQdA9ahJ5MOYzXgJDeqNXbB9Tw&oe=64D09E8A"
+        },
         "texts": [
             "Alam ninyo ba dapat lang na hindi papasukin ang ipis na yan dahil sa kanya lang mapopokus kaysa pagusapan talaga ang mga imporatnteng isssues.",
             "Yep you deserve it!!",
@@ -442,7 +566,15 @@
         "follower_count": "",
         "name": "",
         "notes": ",",
-        "profile": "",
+        "profile": {
+            "Follower_count": null,
+            "Following_count": null,
+            "Friend_count": null,
+            "Name": "MOCHA USON BLOG",
+            "cover_photo": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/357689374_810400437116623_4737708987594261310_n.jpg?stp=cp1_dst-jpg_e15_fr_q65&_nc_cat=101&ccb=1-7&_nc_sid=ed5ff1&_nc_ohc=yie-Lxud9yAAX_aJsiQ&_nc_ht=scontent-sjc3-1.xx&oh=00_AfDhVZPtN2gjrWsmRGtz3NSBPg3uEDnWly2pzJqX2s3Daw&oe=64D09F89",
+            "id": "100044400220642",
+            "profile_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/358680162_815674326589234_6336786665476322123_n.jpg?stp=cp0_dst-jpg_e15_p120x120_q65&_nc_cat=1&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=s5QWr3pn-qUAX-eh1Pt&_nc_ht=scontent-sjc3-1.xx&oh=00_AfBqwME2ks1hhbV33VHpkpD5Wf6nRvh8BFjrTWdKH6P56A&oe=64D07BF4"
+        },
         "texts": [
             "Kaw naman ",
             "Ms. Pia Ranada para sa kaalaman mo po dahil hindi mo ugaling mag research naka announce yan sa dyaryo. Hindi porket hindi kayo ang nauna ay tinago na po sa inyo. Ganyan naman po kayo ng mga barkada mo gusto niyo lagi kayo nauuna. Tila may karapatan lagi kayo ang mauna. Pasensya ka nalang kung hindi ka na inform ng kakampi mo sa PCOO. ",
@@ -461,7 +593,23 @@
         "follower_count": "",
         "name": "",
         "notes": ",",
-        "profile": "",
+        "profile": {
+            "About": "elder of jcmi",
+            "Follower_count": null,
+            "Following_count": null,
+            "Friend_count": null,
+            "Name": "Papsi Paloma",
+            "Places lived": [
+                {
+                    "link": "/profile.php?id=107292322636364&refid=17",
+                    "text": "Panipuan San Fernando, Pampanga, Philippines",
+                    "type": "Hometown"
+                }
+            ],
+            "cover_photo": "https://scontent-sjc3-1.xx.fbcdn.net/v/t1.6435-9/152843954_3875598459169087_8086458334187786726_n.jpg?stp=cp0_dst-jpg_e15_q65_s320x320&_nc_cat=103&ccb=1-7&_nc_sid=ed5ff1&_nc_ohc=8uFLJMgFKDAAX__ZVri&_nc_ht=scontent-sjc3-1.xx&oh=00_AfBbhw1fpw-uwjOfXZaLaIJFvVCI7ONEolAv5u9nP7gCVw&oe=64F244FC",
+            "id": "100001569148634",
+            "profile_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t1.6435-1/153181792_3875588622503404_5409262752853923559_n.jpg?stp=cp0_dst-jpg_e15_p120x120_q65&_nc_cat=103&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=2tmkh0uWBSMAX9_HDWQ&_nc_ht=scontent-sjc3-1.xx&oh=00_AfA7DY7EQZdAOOakwcdwtBNLKN1-6IVn4i7l4g_Se4Suhg&oe=64F23F42"
+        },
         "texts": [
             "Hindi naman siya pumupunta doon para mag cover ng news kundi mang insulto at magulo at gumawa ng mga fake news,at akala mo kung sino siyang umasta at mag demand ,ang bait talaga ni k digong kung Kay Marcos mo ginawa iyan he he he pero Duda akong gagawin mo iyan Kay marcos.",
             "Iyang gawain ng tao na iyan na naninira ng kapwa at darating ang panahon ng karma niya ,di natutulog ang Diyos at parurusahan niya ang mg@ ganiyan na tao ng ayun sa kanilang gawa at alam ng masa kung sino ka willie at kung sino iyang tao na iyan !",
@@ -480,7 +628,32 @@
         "follower_count": "",
         "name": "",
         "notes": ",",
-        "profile": "",
+        "profile": {
+            "Education": {
+                "College": "UC Santa Barbara",
+                "High school": "San Marcos Senior High"
+            },
+            "Follower_count": null,
+            "Following_count": null,
+            "Friend_count": null,
+            "Name": "RuffaGee L. Gumatay",
+            "Places lived": [
+                {
+                    "link": "/profile.php?id=103726806332333&refid=17",
+                    "text": "Santa Barbara, California",
+                    "type": "Current city"
+                },
+                {
+                    "link": "/profile.php?id=103726806332333&refid=17",
+                    "text": "Santa Barbara, California",
+                    "type": "Hometown"
+                }
+            ],
+            "Work": "Marketing Moves\nMay 16, 2022 - Present\nCNA\nDecember 3, 2021 - Present\nCalifornia Farm Workers & Families",
+            "cover_photo": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/357732778_658311729525900_4163313763025797554_n.jpg?stp=cp1_dst-jpg_e15_fr_q65&_nc_cat=104&ccb=1-7&_nc_sid=ed5ff1&_nc_ohc=sPfjsuleVi0AX-3hGov&_nc_ht=scontent-sjc3-1.xx&oh=00_AfCGEGAOzyhKjRU4XOzbFczLH1M7zJkcziJecqs2AHU0_g&oe=64CF18F5",
+            "id": "100060412364563",
+            "profile_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/357394643_658311262859280_7506039462381666927_n.jpg?stp=cp0_dst-jpg_e15_p120x120_q65&_nc_cat=106&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=jScbxKMsrlAAX9Ohk2k&_nc_ht=scontent-sjc3-1.xx&oh=00_AfB6xE9TyeWZKSey5Rz7tRsccSmXbWEu7EhWQXlrsfU5LA&oe=64CF2883"
+        },
         "texts": [
             "For pia your to much Dalaal why? President is BBM good \ud83d\udc4d And Sarah",
             "RuffaGee L. Gumatay",
@@ -499,7 +672,21 @@
         "follower_count": "",
         "name": "",
         "notes": ",",
-        "profile": "",
+        "profile": {
+            "Follower_count": null,
+            "Following_count": null,
+            "Friend_count": null,
+            "Name": "Marilou Garcia",
+            "Places lived": [
+                {
+                    "link": "/profile.php?id=183777584977020&refid=17",
+                    "text": "Toledo, Cebu",
+                    "type": "Current city"
+                }
+            ],
+            "id": "100070698187212",
+            "profile_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/231309973_118462227187050_4708383048172401398_n.jpg?stp=cp0_dst-jpg_e15_p120x120_q65&_nc_cat=102&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=XuBbQhzym0YAX-FCBjb&_nc_ht=scontent-sjc3-1.xx&oh=00_AfC0PLV0TtUpAr-ks92x1uNJURaipumhCpnKZLdLQmSIMA&oe=64D01709"
+        },
         "texts": [
             "Nainis kami sa pangalan na Pia Ranada grabe ka demonyo",
             "Ano bayan c pia ranada nakisawsaw na naman kakahiya na yan pakialamera sobra Ka OA baka gusto ni Pia cya ang bigyan sobra ka demonyo",
@@ -518,7 +705,16 @@
         "follower_count": "",
         "name": "",
         "notes": ",",
-        "profile": "",
+        "profile": {
+            "About": "This group are for people who are open to ideas whether they agree with it or not. You must have a sense of humor that is sarcastic and ironic. I have disabled \"postings\" so members do not get overwhelmed with postings they do not care about.\n\nIF you want to post a comment please do so in my blog. Cheers and HAPPY THINKING :)",
+            "Follower_count": null,
+            "Following_count": null,
+            "Friend_count": null,
+            "Name": "Thinking Minds",
+            "cover_photo": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/352564881_276629168268675_583029726741695964_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=104&ccb=1-7&_nc_sid=ed5ff1&_nc_ohc=IyktLlVaVqwAX_0zgHe&_nc_ht=scontent-sjc3-1.xx&oh=00_AfA0HU4CW6OPjOblJnAFJvaF9qldU-vMBTpzOJz0-tOtqg&oe=64CEDB35",
+            "id": "100053576871839",
+            "profile_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/352509470_189704810359451_1426147949452029623_n.jpg?stp=c119.0.120.120a_cp0_dst-jpg_e15_p120x120_q65&_nc_cat=107&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=eqjIRMlVoVYAX_ZgI15&_nc_ht=scontent-sjc3-1.xx&oh=00_AfCnm7zpoxU3xCKklBhz7TXfQEYfGUTZjtZLs0SlXLAzvQ&oe=64CED7D2"
+        },
         "texts": [
             "Is TP really a DDS? There are many issues that the President needs defending or a where the 'good news' of the President's accomplishments can be spread, instead, TP focuses on attacking, attacking, attacking at the pretext of giving constructive criticism. If TP was sincere about giving constructive criticism to the PCOO, the office of Andanar is open for HIM to come and discuss the problems. Instead, he destroys! TP gives selective CONSTRUCTIVE CRITICISM. Banat ng banat kay\u2026 Why is it that we Filipinos have this propensity to magnify mistakes and ignore notable achievements? Take for example the recent booboo of the Philippine Commu\u2026 ",
             "Why are you a son of a bitch? hahahaha \ud83d\udd25\ud83d\udd25",
@@ -536,7 +732,22 @@
         "follower_count": "",
         "name": "",
         "notes": ",",
-        "profile": "",
+        "profile": {
+            "About": "A Thinking Pinoy's common sense take on Philippine Politics.\nTambay na marunong mag-Google. Tumatanggap ng labada pag Linggo.",
+            "Education": {
+                "2000 - 2005": "Mathematics",
+                "BS in Mathematics": "University of the Philippines"
+            },
+            "Favorite quotes": "\"Life\u2019s hard; it\u2019s harder if you\u2019re stupid.\" (John Wayne)",
+            "Follower_count": null,
+            "Following_count": null,
+            "Friend_count": null,
+            "Name": "Thinking Pinoy",
+            "Work": "MANILA BULLETIN\nColumnist\n2018 - Present\nManila, Philippines\nDZAR 1026\nBroadcaster\n2019 - January 2022\nMakati\nSMNI News\nBroadcaster\n2019 - January 2022\nMakati\n#TPonSMNI airs weekdays from 9:30pm to 11:00pm",
+            "cover_photo": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/278324927_569744041219866_6808439926424723921_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=111&ccb=1-7&_nc_sid=ed5ff1&_nc_ohc=wbH6a6z00wUAX-ezDaY&_nc_ht=scontent-sjc3-1.xx&oh=00_AfD2elSzqtxCyF9XMQNYS4JGGy9uCmo4HD7SIARm8nvw7Q&oe=64CF7AAA",
+            "id": "100045528247644",
+            "profile_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/271908056_510596337134637_8088027636992497570_n.jpg?stp=c16.10.117.117a_cp0_dst-jpg_e15_p148x148_q65&_nc_cat=106&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=C5QMaiNlaz0AX_OyF0J&_nc_ht=scontent-sjc3-1.xx&oh=00_AfCtO8jZiW6RW8QDmno-xKD8y0rUhxubt38Lyu9_oI1vBg&oe=64CFF1F5"
+        },
         "texts": [
             "",
             "FIGHT OF THE CENTURY: SPOX VERSUS SPO4 Hoy, Senator Bakit? Dahil narito na ang pinakaaabangang labanan ng taon!\u2026 ",
@@ -572,7 +783,15 @@
         "follower_count": "",
         "name": "",
         "notes": ",",
-        "profile": "",
+        "profile": {
+            "Follower_count": null,
+            "Following_count": null,
+            "Friend_count": null,
+            "Name": "Delfa Tacuban",
+            "cover_photo": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/268390003_125365589969499_7001747699150363529_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=106&ccb=1-7&_nc_sid=ed5ff1&_nc_ohc=1GMivWX-omYAX9ZRaxX&_nc_ht=scontent-sjc3-1.xx&oh=00_AfBLwk-1Ziwv_sXVYpvHQNSmtkyJFrLWwx5yPsabWm4dZg&oe=64CF9F4C",
+            "id": "100074881761057",
+            "profile_picture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/269920269_125365339969524_2503529306915301548_n.jpg?stp=cp0_dst-jpg_e15_p120x120_q65&_nc_cat=105&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=zIcLo66NnJAAX8qmwWo&_nc_ht=scontent-sjc3-1.xx&oh=00_AfAqphYJDvFnUZIeW307zC1Q1MggDyI5H2CM7yM0Wnej1Q&oe=64D02377"
+        },
         "texts": [
             "Unless ...........di ka ba nakaintindi?r? sabagay ipaglaban mo talaga malaki ang bayad",
             "Fake news ang dahilan",
