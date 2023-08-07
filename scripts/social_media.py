@@ -18,6 +18,8 @@ import facebook_scraper as fs
 # make a count dictionary of commenter_id for comments and user for posts
 # try for all of the ones that just had abuse comments
 
+set_cookies("www.facebook.com_cookies.txt")
+
 def create_dictionary():
     abuse_terms = {}
     with open('nlp/abuse-terms-all.txt') as abuse_terms_file:
@@ -132,11 +134,19 @@ def get_profiles(reporter, sublabel):
     # open old file 
     with open('social_media/'+reporter+'_users_'+sublabel+'.json', 'r') as file:
         users = json.load(file)
-        for idx, user in enumerate(users):
-            try:
-                users[idx]["profile"] = get_profile(user["user"])
-            except:
-                print("can't find user:", user["user"])
+        for idx, user in enumerate(users):   
+            # try: 
+            profile_string = ""
+            profile = get_profile(user["user"], timeout = 60)
+            for detail in profile:
+                profile_string += detail + ": " + str(profile[detail]) + ",\n"
+            users[idx]["profile"] = profile
+            users[idx]["name"]= profile["Name"]
+            users[idx]["follower_count"]= profile["Follower_count"]
+            # except:
+            #     print("error for", reporter, user)
+            time.sleep(3)
+            print(user["user"])
     
     # Write the modified data back to the JSON file
     with open('social_media/'+reporter+'_users_'+sublabel+'.json', 'w') as file:
@@ -146,6 +156,9 @@ def get_profiles(reporter, sublabel):
 # print("..........")
 # count_users('tordesillas', True)
 
+# get_profiles('ranada', 'all')
+# print("..........")
+# get_profiles('tordesillas', 'all')
 get_profiles('ranada', 'abuse')
-print("..........")
-get_profiles('tordesillas', 'abuse')
+#print("..........")
+#get_profiles('tordesillas', 'abuse')
