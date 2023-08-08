@@ -135,16 +135,16 @@ def get_profiles(reporter, sublabel):
     with open('social_media/'+reporter+'_users_'+sublabel+'.json', 'r') as file:
         users = json.load(file)
         for idx, user in enumerate(users):   
-            # try: 
-            profile_string = ""
-            profile = get_profile(user["user"], timeout = 60)
-            for detail in profile:
-                profile_string += detail + ": " + str(profile[detail]) + ",\n"
-            users[idx]["profile"] = profile
-            users[idx]["name"]= profile["Name"]
-            users[idx]["follower_count"]= profile["Follower_count"]
-            # except:
-            #     print("error for", reporter, user)
+            try: 
+                profile_string = ""
+                profile = get_profile(user["user"], timeout = 60)
+                for detail in profile:
+                    profile_string += detail + ": " + str(profile[detail]) + ",\n"
+                users[idx]["profile"] = profile
+                users[idx]["name"]= profile["Name"]
+                users[idx]["follower_count"]= profile["Follower_count"]
+            except:
+                print("error for", reporter, user["user"])
             time.sleep(3)
             print(user["user"])
     
