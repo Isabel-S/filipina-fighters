@@ -1,0 +1,175 @@
+body {
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; */
+    height: 100vh;
+    margin-top: 100px;
+    background-color: black; /* Set the background color to black */
+    color:white;
+    min-height: 1280px;
+    font-family: 'Domine', serif;
+}
+
+.top-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.title-container {
+    margin-left: 50px;
+    margin-right: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.title-text-container {
+    flex: 1;
+}
+
+.title-text-overlapping {
+    position: relative;
+    flex-shrink: 2;
+    font-size: 3em;
+    font-family: 'Domine', serif;
+}
+
+.title-text-main-hidden {
+    visibility: hidden;
+}
+
+.title-text-static {
+    flex-grow: 1;
+    font-size: 1.2em;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.title-text-author-date {
+    font-size: 1.5em;
+}
+
+.title-text-main {
+    position: absolute; /* Adjust the left position as needed to overlap the image */
+    top: 0px;
+    left: 0px;
+}
+
+.title-image-container {
+    flex: 3;
+    overflow: hidden; /* Hide any content that overflows the div */
+}
+
+.title-image {
+    left: -100px;
+    width: 100%; /* Set the image width to 100% of the div's width */
+    height: 100%; /* Set the image height to 100% of the div's height */
+    object-fit: cover; /* Maintain aspect ratio while covering the div */
+}
+
+/* important quote */
+.quote-container {
+    margin-top: 100px;
+    margin: 65px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote {
+    font-size: 2em;
+}
+
+.quotename {
+    margin-top: -5px;
+    font-size: 1.2em;
+}
+
+/* ressa intro styles */
+
+.ressa-image {
+    width: 100%; /* Set the image width to 100% of the div's width */
+    object-fit: cover; /* Maintain aspect ratio while covering the div */
+}
+
+/* Start of scrolling */
+
+#scrolly {
+    margin: 40px;
+    position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    padding: 1rem;
+}
+
+#scrolly>* {
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+}
+
+#scrolly article {
+    flex-shrink: 2;
+    position: relative;
+    padding: 0 1rem;
+    max-width: 35rem;
+    margin-right: 1em;
+}
+
+#scrolly figure {
+    flex-grow: 1;
+    position: -webkit-sticky;
+    position: sticky;
+    width: 100%;
+    margin: 0;
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+    background-color: #8a8a8a;
+    z-index: 0;
+}
+
+/* can delete */
+figure p {
+    text-align: center;
+    padding: 1rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -moz-transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    font-size: 8rem;
+    font-weight: 900;
+    color: #fff;
+}
+
+.step {
+    margin: 0 auto 2rem auto;
+    background-color: #3b3b3b;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.step:last-child {
+    margin-bottom: 0;
+}
+
+.step.is-active {
+    background-color: lightgrey;
+    color: #3b3b3b;
+    box-shadow: 0 4px 8px 0 darkgray, 0 6px 20px 0 darkgray ;
+}
+
+.step p {
+    text-align: center;
+    justify-content: center;
+    padding: 1rem;
+    line-height: 1.5em;
+    font-size: 1.1rem;
+}
