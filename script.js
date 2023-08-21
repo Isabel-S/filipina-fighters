@@ -20,6 +20,15 @@ var step2 = article2.selectAll(".step");
 // initialize the scrollama
 var scroller2 = scrollama();
 
+// using d3 for convenience
+var scrolly3 = d3.select("#scrolly");
+var article3 = scrolly3.select("article");
+var step3 = article3.selectAll(".step");
+
+// initialize the scrollama
+var scroller3 = scrollama();
+
+
 // generic window resize listener event
 function handleResize(step, figure, scroller) {
     // 1. update height of step elements
@@ -30,14 +39,21 @@ function handleResize(step, figure, scroller) {
         .style("margin-bottom", stepMargin + "px")
         .style("margin-top", stepMargin + "px");
 
-    var figureHeight = window.innerHeight / 2;
-    var figureMarginTop = (window.innerHeight - figureHeight) / 2;
+    var figureHeight = window.innerHeight * 0.75;
+    var figureMarginTop = (window.innerHeight - figureHeight)/2;
 
     figure
         .style("height", figureHeight + "px")
         .style("top", figureMarginTop + "px");
 
     // 3. tell scrollama to update new element dimensions
+    scroller.resize();
+}
+
+function resize(step, scroller) {
+    var min = window.innerHeight * 0.5;
+    var h = min + Math.random() * window.innerHeight * 0.25;
+    step.style("height", Math.floor(h) + "px");
     scroller.resize();
 }
 
@@ -69,6 +85,16 @@ function handleStepEnter2(response) {
     // figure.select("p").text(response.index + 1);
 }
 
+function handleStepProgress3(response) {
+    console.log(response);
+    var el = d3.select(response.element);
+
+    var val = el.attr("data-step");
+    var rgba = "rgba(" + val + ", " + response.progress + ")";
+    el.style("background-color", rgba);
+    el.select(".progress").text(d3.format(".0.5%")(response.progress));
+}
+
 function init() {
 
     // 1. force a resize on load to ensure proper dimensions are sent to scrollama
@@ -95,6 +121,19 @@ function init() {
             debug: false
         })
         .onStepEnter(handleStepEnter2);
+    
+    // 1. setup the scroller with the bare-bones settings
+    // this will also initialize trigger observations
+    // 3. bind scrollama event handlers (this can be chained like below)
+    resize(step3, scroller3)
+
+    scroller3
+    .setup({
+        step: "#scrolly3 article .step",
+        progress: true,
+        debug: false
+    })
+    .onStepProgress(handleStepProgress3);
 }
 
 // kick things off
