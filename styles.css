@@ -73,8 +73,7 @@ img {
 }
 /* important quote */
 .quote-container {
-    margin-top: 100px;
-    margin: 65px;
+    margin-top: 40%;
     margin-left: 5%;
     margin-right: 5%;
     display: flex;
@@ -83,6 +82,7 @@ img {
     align-items: center;
     background-color: black;
     border-radius: 2%;
+    margin-bottom: 40%;
 }
 
 .quote {
@@ -210,6 +210,7 @@ figure p {
     margin: 0 auto 2rem auto;
     background-color: rgba(0, 0, 0, 0.8);
     color: white;
+    margin-top: 30%;
     margin-bottom: 30%;
     border-radius: 1%;
 }
@@ -225,7 +226,7 @@ figure p {
 }
 
 .step p {
-    text-align: center;
+    text-align: left;
     padding: 1rem;
     line-height: 1.5em;
     font-size: 1.1rem;
@@ -234,4 +235,25 @@ figure p {
 
 .scrolly-gap {
     padding-top: 140px;
+}
+
+.facebook {
+    display: flex;
+    flex-direction: column;
+}
+
+.facebook-first {
+    display: flex;
+}
+
+.facebook-second p {
+    margin: 0;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+
+.why-facebook {
+    text-decoration: underline;
+    text-align: left;
 }

@@ -92,7 +92,7 @@ function handleStepProgress3(response) {
     var val = el.attr("data-step");
     var rgba = "rgba(" + val + ", " + response.progress + ")";
     el.style("background-color", rgba);
-    el.select(".progress").text(d3.format(".0.5%")(response.progress));
+    el.select(".progress").text(d3.format(".05%")(response.progress));
 }
 
 function init() {
