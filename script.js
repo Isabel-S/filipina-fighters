@@ -17,6 +17,54 @@ window.addEventListener('click', function(event) {
     }
 });
 
+
+// side scrolly stuff
+// using d3 for convenience
+var main = d3.select("main");
+var sidescrolly1 = main.select("#side-scrolly1");
+var sidefigure1 = sidescrolly1.select("figure");
+var sidearticle1 = sidescrolly1.select("article");
+var sidestep1 = sidearticle1.selectAll(".side-step");
+
+// initialize the scrollama
+var sidescroller1 = scrollama();
+
+// generic window resize listener event
+function sideHandleResize(step, figure, scroller) {
+    // 1. update height of step elements
+    var stepH = Math.floor(step.innerHeight * 0.5);
+    var stepMargin = (window.innerHeight * 0.4);
+    step
+        .style("height", stepH + "px")
+        .style("margin-bottom", stepMargin + "px")
+        .style("margin-top", stepMargin + "px");
+
+    var figureHeight = window.innerHeight / 2;
+    var figureMarginTop = (window.innerHeight - figureHeight) / 2;
+
+    figure
+        .style("height", figureHeight + "px")
+        .style("top", figureMarginTop + "px");
+
+    // 3. tell scrollama to update new element dimensions
+    scroller.resize();
+}
+
+// scrollama event handlers
+function sideHandleStepEnter(response) {
+    console.log(response);
+    // response = { element, direction, index }
+
+    // add color to current step only
+    step.classed("is-active", function (d, i) {
+        return i === response.index;
+    });
+
+    // update graphic based on step
+    figure.select("p").text(response.index + 1);
+}
+
+
 // Scrolling stuff
 // using d3 for convenience
 var main1 = d3.select("main");
@@ -142,18 +190,32 @@ function init() {
         })
         .onStepEnter(handleStepEnter2);
     
-    // 1. setup the scroller with the bare-bones settings
-    // this will also initialize trigger observations
-    // 3. bind scrollama event handlers (this can be chained like below)
-    resize(step3, scroller3)
+    // // 1. setup the scroller with the bare-bones settings
+    // // this will also initialize trigger observations
+    // // 3. bind scrollama event handlers (this can be chained like below)
+    // resize(step3, scroller3)
 
-    scroller3
-    .setup({
-        step: "#scrolly3 article .step",
-        progress: true,
-        debug: false
-    })
-    .onStepProgress(handleStepProgress3);
+    // scroller3
+    // .setup({
+    //     step: "#scrolly3 article .step",
+    //     progress: true,
+    //     debug: false
+    // })
+    // .onStepProgress(handleStepProgress3);
+
+    // 1. force a resize on load to ensure proper dimensions are sent to scrollama
+    sideHandleResize(sidestep1, sidefigure1, sidescroller1);
+
+    // 2. setup the scroller passing options
+    // 		this will also initialize trigger observations
+    // 3. bind scrollama event handlers (this can be chained like below)
+    sidescroller1
+        .setup({
+            step: "#side-scrolly1 article .side-step",
+            offset: 0.33,
+            debug: false
+        })
+        .onStepEnter(sideHandleStepEnter);
 }
 
 // kick things off
