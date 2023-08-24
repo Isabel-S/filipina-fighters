@@ -139,10 +139,34 @@ img {
     object-fit: cover; /* Maintain aspect ratio while covering the div */
 }
 
+/* normal text */
+.normal {
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 1.5em;
+    font-size: 1.2em;
+    line-height: 1.3em;
+    color: lightgray;
+}
+
+/* pop out box */
+.box {
+    border: 1px solid white;
+    padding-top: 0.2em;
+    padding-right: 1em;
+    padding-left: 1em;
+    padding-bottom: 0.2em;
+}
+
+.box-title {
+    text-decoration: underline;
+}
+
 /* Start of scrolling */
 
 .scrolly {
     margin: 40px;
+    margin-bottom: 0px;
     position: relative;
     /* display: -webkit-box;
     display: -ms-flexbox;
@@ -163,7 +187,6 @@ img {
     padding: 0 1rem;
     max-width: 35rem;
     margin-left: 40%;
-
 }
 
 #scrolly1 article {
@@ -234,7 +257,7 @@ figure p {
 }
 
 .scrolly-gap {
-    padding-top: 140px;
+    padding-top: 100px;
 }
 
 .facebook {
