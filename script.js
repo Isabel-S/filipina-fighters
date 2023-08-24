@@ -1,3 +1,23 @@
+// Dropdown stuff
+// Get the dropdown button and dropdown content
+const dropdownButton = document.getElementById('dropdown-button');
+const dropdownContent = document.getElementById('dropdown-content');
+
+// Toggle the dropdown content when the button is clicked
+dropdownButton.addEventListener('click', function() {
+    dropdownContent.classList.toggle('show');
+});
+
+// Close the dropdown if the user clicks outside of it
+window.addEventListener('click', function(event) {
+    if (!event.target.matches('#dropdown-button')) {
+        if (dropdownContent.classList.contains('show')) {
+            dropdownContent.classList.remove('show');
+        }
+    }
+});
+
+// Scrolling stuff
 // using d3 for convenience
 var main1 = d3.select("main");
 var scrolly1 = main1.select("#scrolly1");

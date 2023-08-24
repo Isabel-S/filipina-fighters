@@ -11,6 +11,45 @@ body {
     font-family: 'Domine', serif;
 }
 
+iframe {
+    width: 100vh;
+    height: 100vh;
+    display: block;
+    border: 0px;
+    margin: auto;
+}
+
+/* dropdown toggle for the timeline */
+
+/* Style the dropdown button */
+.dropdown {
+    text-align: center;
+}
+
+.dropbtn {
+    background-color: #333;
+    color: lightgray;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5%;
+    font-family: 'Domine', serif;
+}
+
+/* Style the dropdown content (hidden by default) */
+.dropdown-content {
+    display: none;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+/* Show the dropdown content when the dropdown button is clicked */
+.show {
+    display: block;
+}
+
+
 img {
     border-radius: 1%;
     width: 100%; /* Set the image width to 100% of the div's width */
@@ -180,6 +219,7 @@ img {
 .wide {
     margin-left: 10%;
     margin-right: 10%;
+    text-align: center;
 }
 
 /* image with text on the side */
