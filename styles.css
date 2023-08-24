@@ -13,6 +13,21 @@ body {
 
 img {
     border-radius: 1%;
+    width: 100%; /* Set the image width to 100% of the div's width */
+    height: 100%; /* Set the image height to 100% of the div's height */
+    object-fit: cover; /* Maintain aspect ratio while covering the div */
+}
+
+.wrap {
+    float: left; 
+    margin: 5px;
+}
+
+.face-img {
+    width: 25%;
+    height: 25%;
+    margin-right: 15px;
+    border-radius: 5%;
 }
 
 .top-container {
@@ -96,7 +111,6 @@ img {
 }
 
 /* ressa intro styles */
-
 .ressa-image {
     width: 100%; /* Set the image width to 100% of the div's width */
     object-fit: cover; /* Maintain aspect ratio while covering the div */
@@ -144,9 +158,33 @@ img {
     margin-left: 25%;
     margin-right: 25%;
     margin-bottom: 1.5em;
-    font-size: 1.2em;
+    font-size: 20px;
     line-height: 1.3em;
     color: lightgray;
+}
+
+.heading-1 {
+    margin-top: 2em;
+    line-height: 1.3em;
+    font-weight: 300;
+    color: white;
+    text-align: center;
+}
+
+.heading-2 {
+    text-align: center;
+    font-size: 1.8em;
+}
+
+/* wide for images and other things */
+.wide {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+/* image with text on the side */
+.image-text-row {
+    display: flex;
 }
 
 /* pop out box */
@@ -156,6 +194,7 @@ img {
     padding-right: 1em;
     padding-left: 1em;
     padding-bottom: 0.2em;
+    border-radius: 5%;
 }
 
 .box-title {
@@ -232,7 +271,7 @@ figure p {
 .step {
     margin: 0 auto 2rem auto;
     background-color: rgba(0, 0, 0, 0.8);
-    color: white;
+    color: lightgray;
     margin-top: 30%;
     margin-bottom: 30%;
     border-radius: 1%;
@@ -244,7 +283,7 @@ figure p {
 
 .step.is-active {
     background-color: rgba(0, 0, 0, 0.8);
-    color: white;
+    color: lightgray;
     box-shadow: 0 4px 8px 0 black, 0 6px 20px 0 black ;
 }
 
