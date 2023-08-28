@@ -89,12 +89,24 @@ var step2 = article2.selectAll(".step");
 var scroller2 = scrollama();
 
 // using d3 for convenience
-var scrolly3 = d3.select("#scrolly");
+var scrolly3 = d3.select("#scrolly3");
+var figure3 = scrolly3.select("figure");
 var article3 = scrolly3.select("article");
 var step3 = article3.selectAll(".step");
 
 // initialize the scrollama
 var scroller3 = scrollama();
+
+// // using d3 for convenience
+// var main4 = d3.select("main");
+// var scrolly4 = main4.select("#scrolly3");
+// var figure4 = scrolly4.select("figure");
+// var article4 = scrolly4.select("article");
+// var step4 = article4.selectAll(".step");
+
+
+// // initialize the scrollama
+// var scroller2 = scrollama();
 
 
 // generic window resize listener event
@@ -153,15 +165,42 @@ function handleStepEnter2(response) {
     // figure.select("p").text(response.index + 1);
 }
 
-function handleStepProgress3(response) {
-    console.log(response);
-    var el = d3.select(response.element);
+// generic window resize listener event
+function handleResize3(step, figure, scroller) {
+    // 1. update height of step elements
+    var stepH = Math.floor(step.innerHeight * 0.5);
+    var stepMargin = (window.innerHeight * 0.4);
+    step
+        .style("height", stepH + "px")
+        .style("margin-bottom", stepMargin + "px")
+        .style("margin-top", stepMargin + "px");
 
-    var val = el.attr("data-step");
-    var rgba = "rgba(" + val + ", " + response.progress + ")";
-    el.style("background-color", rgba);
-    el.select(".progress").text(d3.format(".05%")(response.progress));
+    var figureHeight = window.innerHeight * 0.75;
+    var figureMarginTop = (window.innerHeight - figureHeight)/2;
+
+    figure
+        .style("top", figureMarginTop + "px");
+
+    // 3. tell scrollama to update new element dimensions
+    scroller.resize();
 }
+
+
+function handleStepEnter3(response) {
+    // response = { element, direction, index }
+
+    // add color to current step only
+    step2.classed("is-active", function (d, i) {
+        return i === response.index;
+    });
+
+
+    //console.log(figure3.src);
+    // // update graphic based on step
+    document.getElementById("hashtag-image").src = "img/"+(response.index + 1) +".png"
+}
+
+
 
 function init() {
 
@@ -198,10 +237,11 @@ function init() {
     // scroller3
     // .setup({
     //     step: "#scrolly3 article .step",
-    //     progress: true,
+    //     offset: 0.7,
     //     debug: false
     // })
     // .onStepProgress(handleStepProgress3);
+
 
     // 1. force a resize on load to ensure proper dimensions are sent to scrollama
     sideHandleResize(sidestep1, sidefigure1, sidescroller1);
@@ -216,6 +256,19 @@ function init() {
             debug: false
         })
         .onStepEnter(sideHandleStepEnter);
+
+    // 1. force a resize on load to ensure proper dimensions are sent to scrollama
+    handleResize3(step3, figure3, scroller3);
+
+    scroller3
+        .setup({
+            step: "#scrolly3 article .step",
+            offset: 0.7,
+            debug: false
+        })
+        .onStepEnter(handleStepEnter3);
+    
+
 }
 
 // kick things off

@@ -383,6 +383,11 @@ figure p {
     object-fit: cover; /* Maintain aspect ratio while covering the div */
 }
 
+.hashtag-image {
+    width: 100%; /* Set the image width to 100% of the div's width */
+    object-fit: cover; /* Maintain aspect ratio while covering the div */
+}
+
 .side-step {
     margin: 0 auto 2rem auto;
     background-color: rgba(0, 0, 0, 0.8);
