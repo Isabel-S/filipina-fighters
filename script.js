@@ -1,3 +1,4 @@
+// Cluster Graphs
 const graph1Btn = document.getElementById('graph1Btn');
 const graph2Btn = document.getElementById('graph2Btn');
 const graph1 = document.getElementById('graph1');
@@ -15,6 +16,41 @@ graph2Btn.addEventListener('click', () => {
     graph1.classList.remove('active');
     graph2Btn.classList.add('active');
     graph1Btn.classList.remove('active');
+});
+
+// Tables
+const table1Btn = document.getElementById('table1Btn');
+const table2Btn = document.getElementById('table2Btn');
+const table3Btn = document.getElementById('table3Btn');
+const table1 = document.getElementById('table1');
+const table2 = document.getElementById('table2');
+const table3 = document.getElementById('table3');
+
+table1Btn.addEventListener('click', () => {
+    table1.classList.add('active');
+    table2.classList.remove('active');
+    table3.classList.remove('active');
+    table1Btn.classList.add('active');
+    table2Btn.classList.remove('active');
+    table3Btn.classList.remove('active');
+});
+
+table2Btn.addEventListener('click', () => {
+    table2.classList.add('active');
+    table1.classList.remove('active');
+    table3.classList.remove('active');
+    table2Btn.classList.add('active');
+    table1Btn.classList.remove('active');
+    table3Btn.classList.remove('active');
+});
+
+table3Btn.addEventListener('click', () => {
+    table3.classList.add('active');
+    table1.classList.remove('active');
+    table2.classList.remove('active');
+    table3Btn.classList.add('active');
+    table1Btn.classList.remove('active');
+    table2Btn.classList.remove('active');
 });
 
 // Dropdown stuff

@@ -493,12 +493,10 @@ button {
     margin-left: 15%;
     margin-right: 15%;
     display: none;
-    background-color: #f0f0f0; /* Default background color for not selected graphs */
 }
 
 .active {
     display: block;
-    background-color: #fff; /* White background for selected graph */
 }
 
 .scrolly-img-container {
@@ -508,4 +506,9 @@ button {
 .scrolly-img {
     width: 80%;
     margin-bottom: 5%;
+}
+
+.wide-chart-container {
+    margin-left: 15%;
+    margin-right: 15%;
 }
