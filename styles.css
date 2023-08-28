@@ -225,6 +225,11 @@ img {
     font-size: 1.8em;
 }
 
+.heading-3 {
+    text-align: center;
+    font-size: 1.5em;
+}
+
 /* wide for images and other things */
 .wide {
     margin-left: 10%;
@@ -494,4 +499,13 @@ button {
 .active {
     display: block;
     background-color: #fff; /* White background for selected graph */
+}
+
+.scrolly-img-container {
+    text-align: center;
+}
+
+.scrolly-img {
+    width: 80%;
+    margin-bottom: 5%;
 }

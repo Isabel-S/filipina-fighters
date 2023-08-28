@@ -116,6 +116,16 @@ var step3 = article3.selectAll(".step");
 // initialize the scrollama
 var scroller3 = scrollama();
 
+// initialize the scrollama
+var scroller4 = scrollama();
+
+// using d3 for convenience
+var scrolly4 = d3.select("#scrolly4");
+var figure4 = scrolly4.select("figure");
+var article4 = scrolly4.select("article");
+var step4 = article4.selectAll(".step");
+
+
 // // using d3 for convenience
 // var main4 = d3.select("main");
 // var scrolly4 = main4.select("#scrolly3");
@@ -219,6 +229,20 @@ function handleStepEnter3(response) {
     document.getElementById("hashtag-image").src = "img/"+(response.index + 1) +".png"
 }
 
+// scrollama event handlers
+function handleStepEnter4(response) {
+    console.log(response);
+    // response = { element, direction, index }
+
+    // add color to current step only
+    step4.classed("is-active", function (d, i) {
+        return i === response.index;
+    });
+
+    // update graphic based on step
+    // figure.select("p").text(response.index + 1);
+}
+
 
 
 function init() {
@@ -287,6 +311,16 @@ function init() {
         })
         .onStepEnter(handleStepEnter3);
     
+        // 1. force a resize on load to ensure proper dimensions are sent to scrollama
+    handleResize(step4, figure4, scroller4);
+
+    scroller4
+        .setup({
+            step: "#scrolly4 article .step",
+            offset: 0.7,
+            debug: false
+        })
+        .onStepEnter(handleStepEnter4);
 
 }
 
