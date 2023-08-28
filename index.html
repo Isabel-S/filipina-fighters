@@ -240,13 +240,32 @@
             <embed class="" type="text/html" src="html/ranada_pie_abuse_counts.html">
         </div>
 
-        <!-- <h2 class="wide heading-2">FINDING CLUSTERS</h2>
+        <h2 class="wide heading-2">FINDING CLUSTERS</h2>
         <p class="normal">This initial survey can only tell us so much - so I decided to map out all the texts of the posts and comments collected. 
         </p>
         <p class="normal">Using Natural Language Processing (NLP) topic clustering, I grouped together similar comments and posts based on the themes they discuss. This involves analyzing the words and phrases in the text to identify patterns. On a technical level, this means turning each text into a numerical representation, and finding texts with similar numerical representations. By using data analysis methods, I’m able to organize and understand large volumes of text (54,078 Facebook posts, comments, and video titles and descriptions) without manually sifting through every single post and comment.
         </p>
         <p class="normal">Out of the 54,078 texts, the analysis found strong relationships between 7,604 (6,420 for Ranada-Robles, and 1184 for Tordesillas) of them creating 95 topic clusters (78 for Ranada-Robles and 17 for Tordesillas). I then went through the clusters and put them into bigger common topics. 
-        </p> -->
+        </p>
+        <div class="toggle-buttons">
+            <button class="toggle-button" id="graph1Btn">Pia Ranada-Robles</button>
+            <button class="toggle-button" id="graph2Btn">Ellen Tordesillas</button>
+        </div>
+        <div class="active graph-container" id="graph1">
+            <embed class="wide-chart" type="text/html" src="html/ranada_topic_clusters.html">
+        </div>
+        <div class="graph-container" id="graph2">
+            <embed class="wide-chart" type="text/html" src="html/tordesillas_topic_clusters.html">
+        </div>
+        <p class="normal">Each point is a text from a Facebook post, comment, video title or description. Points closer together form a cluster, meaning they share common themes or language. The real map of these points is in many dimensions, but I’ve compressed it into a flat graph which is why some clusters seem on top of each other. 
+        </p>
+        <p class="normal">These clusters give us a deeper understanding of the narratives, more  employed.
+        </p>
+
+        <!-- <embed class="wide-chart" type="text/html" src="html/tordesillas_topic_clusters.html">
+        <embed class="wide-chart" type="text/html" src="html/ranada_topic_clusters.html"> -->
+
+
         <!-- <div class="quote-container">
             <p class="quote">Her story is one of many Filipina journalists who fear for their safety.</p>
         </div>

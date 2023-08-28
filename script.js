@@ -1,3 +1,22 @@
+const graph1Btn = document.getElementById('graph1Btn');
+const graph2Btn = document.getElementById('graph2Btn');
+const graph1 = document.getElementById('graph1');
+const graph2 = document.getElementById('graph2');
+
+graph1Btn.addEventListener('click', () => {
+    graph1.classList.add('active');
+    graph2.classList.remove('active');
+    graph1Btn.classList.add('active');
+    graph2Btn.classList.remove('active');
+});
+
+graph2Btn.addEventListener('click', () => {
+    graph2.classList.add('active');
+    graph1.classList.remove('active');
+    graph2Btn.classList.add('active');
+    graph1Btn.classList.remove('active');
+});
+
 // Dropdown stuff
 // Get the dropdown button and dropdown content
 const dropdownButton = document.getElementById('dropdown-button');

@@ -232,6 +232,12 @@ img {
     text-align: center;
 }
 
+/* wide for images and other things */
+.wide-chart {
+    width: 100%;
+    text-align: center;
+}
+
 /* image with text on the side */
 .image-text-row {
     display: flex;
@@ -439,4 +445,53 @@ figure p {
 .why-facebook {
     text-decoration: underline;
     text-align: left;
+}
+
+button {
+    font-family: 'Domine', serif;
+}
+
+.toggle-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+    margin-bottom: 10px;
+}
+
+.toggle-button {
+    background-color: lightgray; /* Default background color for non-selected buttons */
+    border: none;
+    color: #333;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.toggle-button.active {
+    background-color: #fff; /* White background for selected button */
+    color: #333;
+    font-weight: 400;
+}
+
+.toggle-button.active p{
+    font-weight: bold;
+}
+
+.toggle-button:hover {
+    background-color: #eee; /* Light gray background on hover for non-selected buttons */
+}
+
+.graph-container {
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    display: none;
+    background-color: #f0f0f0; /* Default background color for not selected graphs */
+}
+
+.active {
+    display: block;
+    background-color: #fff; /* White background for selected graph */
 }
