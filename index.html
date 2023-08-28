@@ -211,8 +211,42 @@
 			</article>
 		</section>
 
-        <!-- <h2 class="wide heading-2">WORDS OF ABUSE</h2> -->
-        
+        <h2 class="wide heading-2">WORDS OF ABUSE</h2>
+        <p class="normal">I detected instances of online violence by detecting abuse terms – the abuse terms consisted of a list of over 516 terms in English and Filipino (in Tagalog, Ilocano, and Cebuano dialect). ~13% (12% for Ranada-Robles and 16% for Tordesillas) of all texts were labeled to have some sort of abuse. </p>
+        <p class="normal">It’s important to note that this number is likely an underestimate of the percentage of abuse. Because of lack of research on detecting Filipino words, and detecting sentiments in Filipino language, a lot of text goes unnoticed. For instance, the text from before:        </p>
+        <div class="normal box">
+            <p class="box-text">dapat jan ky pia isakay sa bangka dalhin salaot tpos hubaran at ipakain sa pating para hnd n makapagsinungaling. kawaka pia buhay kapa pero ang kaluluwa mo nasurok na sa impierno aguy nalang.</p>
+        </div>
+        <p class="normal">has no detected abuse terms from our list.</p>
+        <p class="normal">Shown here are the most frequent abusive terms in the Facebook posts and comments for each journalist. Most of these are in the FIlipino language. </p>
+        <div class="two-graphs">
+            <embed class="" type="text/html" src="html/tordesillas_bar_terms.html">
+            <embed class="" type="text/html" src="html/ranada_bar_terms.html">
+        </div>
+        <p class="normal">The types of attacks can be categorized as “attacks on credibility”, “political” or labeled as “dilawan”, “sexist”, or “other”.        </p>
+        <ul class="normal">
+            <li><b>Attacks on credibility:</b> These attacks undermine the journalists professional reputation and trust in the media. This includes pushing a disinformation narrative (their journalism is ‘fake news’), accusing them of corruption (‘presstitute)’, and using terms generally attacking the journalists intellectual ability (‘bobo’, meaning ‘stupid’)
+            </li>
+            <li><b>Political / Dillawan:</b> These are politically themed attacks. ‘Dilaw’ translates to yellow, which is used to describe members of the opposition, so ‘dilawan’ or variations (‘yellowtard’, ‘traitor’) are used to accuse journalists of being pro-opposition. Attacks also involve claiming the journalists have ‘bias’ towards certain groups.
+            </li>
+            <li><b>Sexist / Explilcit:</b> These attacks include sexist and explicit language, and threats of violence. 
+            </li>
+            <li><b>Other:</b> This includes any broadly demeaning comments (‘demonyo’ meaning ‘demon’)
+            </li>
+        </ul>
+        <p class="normal">There is a fair amount of sexist abusive comments, a level of explicit attack that only women journalists receive.        </p>
+        <div class="two-graphs">
+            <embed class="" type="text/html" src="html/tordesillas_pie_abuse_counts.html">
+            <embed class="" type="text/html" src="html/ranada_pie_abuse_counts.html">
+        </div>
+
+        <!-- <h2 class="wide heading-2">FINDING CLUSTERS</h2>
+        <p class="normal">This initial survey can only tell us so much - so I decided to map out all the texts of the posts and comments collected. 
+        </p>
+        <p class="normal">Using Natural Language Processing (NLP) topic clustering, I grouped together similar comments and posts based on the themes they discuss. This involves analyzing the words and phrases in the text to identify patterns. On a technical level, this means turning each text into a numerical representation, and finding texts with similar numerical representations. By using data analysis methods, I’m able to organize and understand large volumes of text (54,078 Facebook posts, comments, and video titles and descriptions) without manually sifting through every single post and comment.
+        </p>
+        <p class="normal">Out of the 54,078 texts, the analysis found strong relationships between 7,604 (6,420 for Ranada-Robles, and 1184 for Tordesillas) of them creating 95 topic clusters (78 for Ranada-Robles and 17 for Tordesillas). I then went through the clusters and put them into bigger common topics. 
+        </p> -->
         <!-- <div class="quote-container">
             <p class="quote">Her story is one of many Filipina journalists who fear for their safety.</p>
         </div>
