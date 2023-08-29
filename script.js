@@ -161,6 +161,14 @@ var figure4 = scrolly4.select("figure");
 var article4 = scrolly4.select("article");
 var step4 = article4.selectAll(".step");
 
+// initialize the scrollama
+var scroller5 = scrollama();
+
+// using d3 for convenience
+var scrolly5 = d3.select("#scrolly5");
+var figure5 = scrolly5.select("figure");
+var article5 = scrolly5.select("article");
+var step5 = article5.selectAll(".step");
 
 // // using d3 for convenience
 // var main4 = d3.select("main");
@@ -279,6 +287,20 @@ function handleStepEnter4(response) {
     // figure.select("p").text(response.index + 1);
 }
 
+// scrollama event handlers
+function handleStepEnter5(response) {
+    console.log(response);
+    // response = { element, direction, index }
+
+    // add color to current step only
+    step5.classed("is-active", function (d, i) {
+        return i === response.index;
+    });
+
+    // update graphic based on step
+    // figure.select("p").text(response.index + 1);
+}
+
 
 
 function init() {
@@ -357,7 +379,17 @@ function init() {
             debug: false
         })
         .onStepEnter(handleStepEnter4);
+    
+            // 1. force a resize on load to ensure proper dimensions are sent to scrollama
+    handleResize(step5, figure5, scroller5);
 
+    scroller5
+        .setup({
+            step: "#scrolly5 article .step",
+            offset: 0.7,
+            debug: false
+        })
+        .onStepEnter(handleStepEnter5);
 }
 
 // kick things off
