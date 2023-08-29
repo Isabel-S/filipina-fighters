@@ -53,6 +53,43 @@ table3Btn.addEventListener('click', () => {
     table2Btn.classList.remove('active');
 });
 
+// Tables
+const gtable1Btn = document.getElementById('gendertable1Btn');
+const gtable2Btn = document.getElementById('gendertable2Btn');
+const gtable3Btn = document.getElementById('gendertable3Btn');
+const gtable1 = document.getElementById('gendertable1');
+const gtable2 = document.getElementById('gendertable2');
+const gtable3 = document.getElementById('gendertable3');
+
+gtable1Btn.addEventListener('click', () => {
+    gtable1.classList.add('active');
+    gtable2.classList.remove('active');
+    gtable3.classList.remove('active');
+    gtable1Btn.classList.add('active');
+    gtable2Btn.classList.remove('active');
+    gtable3Btn.classList.remove('active');
+});
+
+gtable2Btn.addEventListener('click', () => {
+    gtable2.classList.add('active');
+    gtable1.classList.remove('active');
+    gtable3.classList.remove('active');
+    gtable2Btn.classList.add('active');
+    gtable1Btn.classList.remove('active');
+    gtable3Btn.classList.remove('active');
+});
+
+gtable3Btn.addEventListener('click', () => {
+    gtable3.classList.add('active');
+    gtable1.classList.remove('active');
+    gtable2.classList.remove('active');
+    gtable3Btn.classList.add('active');
+    gtable1Btn.classList.remove('active');
+    gtable2Btn.classList.remove('active');
+});
+
+
+
 // Dropdown stuff
 // Get the dropdown button and dropdown content
 const dropdownButton = document.getElementById('dropdown-button');
@@ -169,6 +206,24 @@ var scrolly5 = d3.select("#scrolly5");
 var figure5 = scrolly5.select("figure");
 var article5 = scrolly5.select("article");
 var step5 = article5.selectAll(".step");
+
+// initialize the scrollama
+var scroller6 = scrollama();
+
+// using d3 for convenience
+var scrolly6 = d3.select("#scrolly6");
+var figure6 = scrolly6.select("figure");
+var article6 = scrolly6.select("article");
+var step6 = article6.selectAll(".step");
+
+// initialize the scrollama
+var scroller7 = scrollama();
+
+// using d3 for convenience
+var scrolly7 = d3.select("#scrolly7");
+var figure7 = scrolly7.select("figure");
+var article7 = scrolly7.select("article");
+var step7 = article7.selectAll(".step");
 
 // // using d3 for convenience
 // var main4 = d3.select("main");
@@ -296,11 +351,32 @@ function handleStepEnter5(response) {
     step5.classed("is-active", function (d, i) {
         return i === response.index;
     });
-
-    // update graphic based on step
-    // figure.select("p").text(response.index + 1);
 }
 
+function handleStepEnter6(response) {
+    // response = { element, direction, index }
+
+    // add color to current step only
+    step6.classed("is-active", function (d, i) {
+        return i === response.index;
+    });
+
+
+    //console.log(figure3.src);
+    // // update graphic based on step
+    document.getElementById("gender-image").src = "img/gender"+(response.index + 1) +".png"
+}
+
+// scrollama event handlers
+function handleStepEnter7(response) {
+    console.log(response);
+    // response = { element, direction, index }
+
+    // add color to current step only
+    step7.classed("is-active", function (d, i) {
+        return i === response.index;
+    });
+}
 
 
 function init() {
@@ -390,6 +466,28 @@ function init() {
             debug: false
         })
         .onStepEnter(handleStepEnter5);
+
+    // 1. force a resize on load to ensure proper dimensions are sent to scrollama
+    handleResize(step6, figure6, scroller6);
+
+    scroller6
+        .setup({
+            step: "#scrolly6 article .step",
+            offset: 0.7,
+            debug: false
+        })
+        .onStepEnter(handleStepEnter6);
+    
+    // 1. force a resize on load to ensure proper dimensions are sent to scrollama
+    handleResize(step7, figure7, scroller7);
+
+    scroller7
+        .setup({
+            step: "#scrolly7 article .step",
+            offset: 0.7,
+            debug: false
+        })
+        .onStepEnter(handleStepEnter7);
 }
 
 // kick things off
