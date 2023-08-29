@@ -490,5 +490,74 @@ function init() {
         .onStepEnter(handleStepEnter7);
 }
 
+// code for the menu
+// Get references to the menu elements
+const menuToggle = document.getElementById('menu-toggle');
+const sideMenu = document.getElementById('side-menu');
+
+// Update the toggleMenu function to handle the open/close state
+function toggleMenu() {
+    const isOpen = sideMenu.style.left === '0px' || sideMenu.style.left === '';
+    
+    if (isOpen) {
+        sideMenu.style.left = '-250px'; // Slide the menu off-screen to the left
+        menuToggle.classList.remove('open'); // Remove the "open" class
+    } else {
+        sideMenu.style.left = '0px'; // Slide the menu onto the screen
+        menuToggle.classList.add('open'); // Add the "open" class
+    }
+}
+
+
+// Function to dynamically generate menu items with indentation based on headings' classes
+function generateMenuItems() {
+    const menuList = document.createElement('ul');
+    let currentUl = menuList; // Initialize the current unordered list
+
+    const contentHeadings = document.querySelectorAll('[class^="wide heading-"]'); // Select all elements with class starting with "heading-"
+
+    console.log(contentHeadings)
+    contentHeadings.forEach((heading, index) => {
+        const headingLevel = parseInt(heading.className.replace('wide heading-', '')); // Get the heading level (e.g., 1, 2, 3, 4)
+        console.log(headingLevel)
+        const menuItem = document.createElement('li');
+        const menuLink = document.createElement('a');
+        menuLink.href = `#`+heading.textContent;
+        menuLink.textContent = heading.textContent;
+        menuItem.classList.add('level-'+headingLevel)
+        menuItem.appendChild(menuLink);
+
+        // // Create a new unordered list if the heading level increases
+
+        // if (index > 0 && depth < headingLevel) {
+        //     const newUl = document.createElement('ul');
+
+        //     currentUl.lastElementChild.appendChild(newUl);
+        //     currentUl = newUl;
+        //     depth = headingLevel
+        // }
+
+        // // Create a new list item and append it to the current unordered list
+        currentUl.appendChild(menuItem);
+
+        // // Update the current unordered list to the parent level
+        // if (currentUl.children.length > headingLevel) {
+        //     while (currentUl.children.length > headingLevel) {
+        //         currentUl = currentUl.parentElement.parentElement; // Move up two levels (li -> ul -> li)
+        //     }
+        // }
+    });
+
+    // Append the menu list to the side menu
+    sideMenu.appendChild(menuList);
+    console.log(sideMenu)
+}
+
+// Generate menu items when the DOM is fully loaded
+document.addEventListener('DOMContentLoaded', generateMenuItems);
+
+// Add a click event listener to the menu toggle button
+menuToggle.addEventListener('click', toggleMenu);
+
 // kick things off
 init();
