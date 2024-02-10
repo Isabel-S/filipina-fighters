@@ -10,7 +10,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Domine&family=Merriweather+Sans:ital,wght@1,600&family=Merriweather:ital,wght@0,400;1,700&family=PT+Sans:wght@700&family=Roboto:wght@500&display=swap" rel="stylesheet">    <script src="script.js" defer></script> <!-- Link to your external JavaScript file with 'defer' attribute -->
 </head>
 <body>
-    <header>	
+    <header data-component="Header">	
         <script src="https://unpkg.com/d3@5.9.1/dist/d3.min.js"></script>
         <script src="../scrollama.min.js"></script>
         <script src="script.js" defer></script>
@@ -31,19 +31,11 @@
                 <img class="title-image" src="img/sq (1).jpg" alt="Six Fililipina Journalists">
             </div>
         </div>
-        <!-- <nav>
-            <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="#">Services</a></li>
-                <li><a href="#">Contact</a></li>
-            </ul>
-        </nav> -->
     </header>
     
-    <main>
+    <main data-component="MainContent">
         <!-- Side Menu Toggle Button -->
-        <button id="menu-toggle">
+        <button id="menu-toggle" data-component="MenuToggle" public:id="menu-toggle">
             <div class="menu-icon">
                 <div class="bar"></div>
                 <div class="bar"></div>
@@ -51,19 +43,19 @@
             </div>
         </button>
         <!-- Side Menu -->
-        <div id="side-menu" class="side-menu">
+        <div id="side-menu" class="side-menu" data-component="SideMenu" public:className="side-menu">
             <!-- Menu Content -->
         </div>
         <div class="scrolly-gap"></div>
 
-        <div class="quote-container">
+        <div class="quote-container" data-component="QuoteContainer">
             <p class="quote">“First I’m attacked for being a journalist, second I’m attacked for being a woman”</p>
             <p class="quotename">- Maria Ressa</p>
         </div>
 
         <div class="scrolly-gap"></div>
 
-        <section class="scrolly" id="scrolly1">
+        <section class="scrolly" id="scrolly1" data-component="ScrollySection" public:className="scrolly" public:id="scrolly1">
             <figure>
                 <img class="ressa-image" src="img/GettyImages-1124822859-e1633722697760 copy.jpg" alt="Maria Ressa">
 				<!-- <p>0</p> -->
@@ -88,7 +80,7 @@
 
         <div class="scrolly-gap"></div>
 
-        <section class="scrolly" id="scrolly2">
+        <section class="scrolly" id="scrolly2" data-component="ScrollySection" public:className="scrolly" public:id="scrolly2">
             <figure>
                 <img class="ressa-image" src="img/maria-ressa-arrest-naia-march-29-2019-003.jpg" alt="Maria Ressa Arrested">
 				<!-- <p>0</p> -->
@@ -110,16 +102,8 @@
         <p class="normal">This online phenomenon of online misogynistic attacks and vilification of journalists has its roots in the Philippine’s sociopolitical development in terms of the history between media and politics, gender roles, machismo culture, and the rise of populism, which intersect together in ways that endanger female journalists. Ressa's data collection exposes a story of misogynistic online harassment against her.</p>
         <p class="normal"><b><i>How can data uncover more stories of online violence for other Filipina journalists? What do these narratives tell us about the Philippine’s sociopolitical context that enables online violence towards women journalists?</i></b></p>
         <p class="normal">To explore these questions, I took a deep dive into two Filipina journalists: Pia Ranada-Robles and Ellen Tordesillas. I collected and analyzed 54,078 total Facebook texts (42,810 for Ranada-Robles, 11,268 for Tordesillas) including posts, comments, video titles and descriptions, between ~2016 to 2023. These were gathered from a Facebook search for each journalist: “pia ranada” for Ranada-Robles and “ellen tordesillas” for Tordesillas. I visualized the language and timeline of the Facebook posts, then traced these to real-life events in each of the journalist's careers and the sociopolitical contexts in which they occurred. </p>
-
-        <!-- <div class="wide image-text-row">
-            <img class="" src="img/Screenshot 2023-08-21 at 12.25.42 AM.png">
-            <div class="box">
-                <p class="box-title">Why Facebook?</p>
-                <p class="box-text">The Philippines’ spends more time on Facebook than any other country; to Filipinos it is the same as the internet. It is also the main platform where Ressa received online violence.</p>
-            </div>
-        </div> -->
         
-        <div class="normal box">
+        <div class="normal box" data-component="NormalBox">
             <p class="box-title">Why Facebook?</p>
             <p class="box-text">The Philippines’ spends more time on Facebook than any other country; to Filipinos it is the same as the internet. It is also the main platform where Ressa received online violence.</p>
         </div>
@@ -157,7 +141,7 @@
             <img class="" src="img/translation-1.png">
         </div>
 
-        <section class="side-scrolly" id="side-scrolly1">
+        <section class="side-scrolly" id="side-scrolly1" data-component="SideScrolly" public:id="side-scrolly1">
             <figure class="side-figure">
                 <img class="willie-image" src="img/willie.png" alt="Willie and Netizens Attacking Pia">
 			</figure>
@@ -183,7 +167,7 @@
         <h2 class="wide heading-2">The Rise of Social Media and the Fall of Traditional Media        </h2>
         <p class="normal">Social media also lends itself well for populism; the mass networking online of platforms like Facebook makes it suitable for mass politics and pro-people aspects of populism. Unlike traditional media that comes from large organizations, social media enables “populist citizen journalism” where any user online can essentially act as a digital journalist. Social media adopts simple and emotional rhetoric from Populsm through the catchy texts, slogan, memes and dramatized videos that spread rapidly online. By having online communities – “echo chambers” – social media also fosters the “us vs. them dynamic” in populism.Social media’s speed and lack of fact-checking can accelerate the spread of misinformation and populist narratives. Duterte was arguably the first Filipino politician to use social media in combination with his populist message to such an advantage. This cluster shows the dedication his supporters had for Duterte, and more importantly their intense and unified online presence. The online presence of the Duterte administration and his army of supporters, labeled Diehard Duterte Supporter (DDS), allowed them to successfully push narratives solely by dominating the online space through posts and comments. Duterte, in nationalist fashion, would often attack any dissidents, from opposing politicians to investigative reporters, using vulgar language that his supporters would replicate and take online. Critics of Duterte, such as journalists, are left with comments ranging from “fake news” to “dilaw” to sexist language like “bitch”. This was how “the people”, DDS, to act in unity against any critics, and embody the “us-versus-them” attitude of populist politics. </p>
         <p class="normal">The rise of social media in politics comes alongside the fall of traditional media, which is partially due to the continuous tension between the media and the government.</p>
-        <div class="normal box">
+        <div class="normal box" data-component="NormalBox">
             <p class="box-title">The Longstanding History Between Media and the Government</p>
             <p class="box-text">A notable start was during the leadership of dictator Ferdinand Marcos. In September 21, 1972, in an attempt to control the media and suppress political opposition and criticism of Marcos’ administration, the military shut down all privately owned print and media groups.
                 In many ways, Marcos normalized a context in which the media was seen as opposition to the government. While larger media were either shut down or became government-run, the early 1980s saw the rise of alternative press such as Ang Pahayagang Malaya (The Free Newspaper) or Mr. & Ms. and outspoken columnists on mainstream press – of which nearly all of them were women – both which  played a major role in eroding the legitimacy of the Marcos regime. Radio and television stations had major roles in the lead-up to the “People Power” revolution in February 1986 which eventually rid Marcos’ dictatorship. This started a new presidency under a new female president, Corazon Aquino, widow to Benigno Aquino who ran against Marcos in 1986 in a rigged election and was later murdered.
@@ -199,7 +183,7 @@
         <h1 class="wide heading-1" id="Narratives of Filipina Jouranlists">Narratives of Filipina Jouranlists</h1>
         <p class="normal">To see how the rise of populism, along with the Philippines’ history of gender roles and conflict between media and government, manifests itself in the online space today for women journalists we can look  at the language used on Facebook.         </p>
         <h2 class="wide heading-2" id="Top Hashtags">Top Hashtags</h2>
-        <section class="scrolly" id="scrolly3">
+        <section class="scrolly" id="scrolly3" data-component="ScrollySection" public:className="scrolly" public:id="scrolly3">
             <figure>
                 <img id="hashtag-image" src="img/1.png" alt="Frequent Hashtags 1">
 			</figure>
@@ -226,7 +210,7 @@
         <h2 class="wide heading-2" id="Words of Abuse">Words of Abuse</h2>
         <p class="normal">I detected instances of online violence by detecting abuse terms – the abuse terms consisted of a list of over 516 terms in English and Filipino (in Tagalog, Ilocano, and Cebuano dialect). ~13% (12% for Ranada-Robles and 16% for Tordesillas) of all texts were labeled to have some sort of abuse. </p>
         <p class="normal">It’s important to note that this number is likely an underestimate of the percentage of abuse. Because of lack of research on detecting Filipino words, and detecting sentiments in Filipino language, a lot of text goes unnoticed. For instance, the text from before:        </p>
-        <div class="normal box">
+        <div class="normal box" data-component="NormalBox">
             <p class="box-text">dapat jan ky pia isakay sa bangka dalhin salaot tpos hubaran at ipakain sa pating para hnd n makapagsinungaling. kawaka pia buhay kapa pero ang kaluluwa mo nasurok na sa impierno aguy nalang.</p>
         </div>
         <p class="normal">has no detected abuse terms from our list.</p>
@@ -275,7 +259,7 @@
         </p>
         <h2 class="wide heading-2" id="Understanding the Clusters">Understanding the Clusters</h2>
         <h3 class="wide heading-3" id="Duterte’s Online Army of Supporters">Duterte’s Online Army of Supporters</h3>
-        <section class="scrolly" id="scrolly4">
+        <section class="scrolly" id="scrolly4" data-component="ScrollySection" public:className="scrolly" public:id="scrolly4">
             <figure>
                 <embed class="wide-chart" type="text/html" src="html/ranada_topic_clusters.html">
 			</figure>
@@ -333,7 +317,7 @@
 
         <h3 class="wide heading-3" id="Blogger Support">Blogger Support</h3>
         <p class="normal">While attacking traditional reporters and media organizations, Filipinos turn to alternative media – “populist citizen journalism” – that often employed the form of Filipino “bloggers” who were seen as “authentic” journalists.        </p>
-        <section class="scrolly" id="scrolly5">
+        <section class="scrolly" id="scrolly5" data-component="ScrollySection" public:className="scrolly" public:id="scrolly5">
             <figure>
                 <embed class="wide-chart" type="text/html" src="html/ranada_topic_clusters.html">
 			</figure>
@@ -376,7 +360,7 @@
         <p class=" normal box-title">The Longstanding History of Gender Roles</p>
         <p class="normal">(as it relates to hyper masculine discourse today)</p>
         <p class="normal"> Despite Duterte’s seemingly never-seen-before acts of masculinity, this masculinity might be a continuation rather than a break from past Philippine stereotypes. </p>
-        <section class="scrolly" id="scrolly6">
+        <section class="scrolly" id="scrolly6" data-component="ScrollySection" public:className="scrolly" public:id="scrolly6">
             <figure>
                 <img id="gender-image" src="img/gender1.png" alt="Gender">
 			</figure>
@@ -401,7 +385,7 @@
 			</article>
 		</section>
 
-        <section class="scrolly" id="scrolly7">
+        <section class="scrolly" id="scrolly7" data-component="ScrollySection" public:className="scrolly" public:id="scrolly7">
             <figure>
                 <img src="img/dutertegender.png" alt="Duterte and his Gendered Attacks">
 			</figure>
@@ -495,75 +479,9 @@
                 <li><a href="https://doi.org/10.1080/17512786.2021.1981774">Tandoc, Edson C., Karryl Kim A. Sagun, and Katrina Paola B. Alvarez. “The Digitization of Harassment: Women Journalists’ Experiences with Online Harassment in the Philippines.” Journalism Practice, October 4, 2021.</a></li>
             </ul>            
         </div>
-
-
-
-
-        <!-- <embed class="wide-chart" type="text/html" src="html/tordesillas_topic_clusters.html">
-        <embed class="wide-chart" type="text/html" src="html/ranada_topic_clusters.html"> -->
-
-
-        <!-- <div class="quote-container">
-            <p class="quote">Her story is one of many Filipina journalists who fear for their safety.</p>
-        </div>
-
-        <div class="scrolly-gap"></div>
-
-        <section class="text-image-container" id="scrolly3">
-            <article>
-                <div class="text-image-container step" data-step="0,0,0">
-                    <div class="text-container">
-                        <p>Ressa refused to be silenced; her story is unique in that not only did she fight back, she fought back with data.  With a team of researchers she gathered thousands of Twitter and Facebook posts and used data science techniques to uncover that the online violence against her were personal attacks, often with gendered language, and were organized, “orchestrated attacks” 5 by netizens and government officials. 
-                        </p>
-                    </div>
-                    <div class="image-container">
-                        <img class="data-ressa-image" src="img/Screenshot 2023-08-20 at 5.35.17 PM.png" alt="Maria Ressa using data">
-                    </div>
-                </div>
-                <div class="text-image-container step" data-step="0,0,0">
-					<div class="text-container">
-                        <p>This online phenomenon of misogyny and vilification of journalists has its roots in the Philippine’s sociopolitical development in terms of the history between media and politics, gender roles, and machismo culture, and the rise of populism, which intersect together in ways that endanger female journalists. – how they intersect with each other in ways that put women journalists in danger.</p>
-                    </div>
-                    <div class="image-container">
-                        <img class="intersection-image" src="img/Screenshot 2023-08-20 at 6.10.34 PM.png" alt="Intersection of many issues">
-                    </div>
-				</div>
-            </article>
-        </section>
-
-        <section class="text-image-container" id="scrolly4">
-            <article>
-                <div class="facebook text-image-container step" data-step="0,0,0">
-                    <div class="facebook-first">
-                        <div class="text-container">
-                            <p>To explore these questions, I took a deep dive into two Filipina journalists: Pia Ranada-Robles and Ellen Tordesillas. I collected and analyzed 54,078 total Facebook texts (42,810 for Ranada-Robles, 11,268 for Tordesillas) including posts, comments, video titles and descriptions, between ~2016 to 2023. These were gathered from a Facebook search for each journalist: “pia ranada” for Ranada-Robles and “ellen tordesillas” for Tordesillas. I visualized the language and timeline of the Facebook posts, then and traced theseis to real-life events in each of the journalist's careers, and the sociopolitical contexts in which they occurred. 
-                            </p>
-                        </div>
-                        <div class="image-container">
-                            <img class="intersection-image" src="img/Screenshot 2023-08-21 at 12.25.42 AM.png" alt="Intersection of many issues">
-                        </div>
-                    </div>
-                    <div class="facebook-second">
-                        <p class="why-facebook">Why Facebook?</p>
-                        <p>The Philippines’ spends more time on Facebook than any other country; to Filipinos it is the same as the internet. It is also the main platform where Ressa received online violence.</p>
-                </div>
-            </article>
-        </section> -->
-      
-        <!-- <p class="quote">other stuff</p>
-        <p class="quotename"></p>
-        <p></p>
-        <p class="statement"></p>
-        <div class="box">
-            <p class="boxtitle"></p>
-            <p></p>
-        </div>
-        <h1></h1>
-        <h2></h2>
-        <img class="faceimage"> -->
     </main>
     
-    <footer>
+    <footer data-component="Footer">
         <p>&copy; 2023 #Presstitute. All rights reserved.</p>
     </footer>
 </body>
