@@ -2,7 +2,7 @@ import React from 'react';
 
 function Footer() {
     return (
-    <footer data-component="Footer">
+    <footer>
         <p>&copy; 2023 #Presstitute. All rights reserved.</p>
     </footer>
     );

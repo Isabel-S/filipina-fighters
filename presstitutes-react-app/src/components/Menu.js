@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './Menu.css';
 
-function Menu() {
+const Menu = ({ headings }) => {
     const [isOpen, setIsOpen] = useState(false); // State to track if the menu is open
 
     const toggleMenu = () => {
@@ -17,7 +17,14 @@ function Menu() {
                 <div className="bar"></div>
             </div>
             </button>
-            <div id="side-menu" className="side-menu" >
+            <div id="side-menu" className={`side-menu ${isOpen ? 'show' : ''}`} style={{ left: isOpen ? '0px' : '-250px' }}>
+                <ul>
+                    {headings.map((heading) => (
+                        <li key={heading.id} className={`level-${heading.level}`}>
+                        <a href={`#${heading.id}`}>{heading.text}</a>
+                        </li>
+                    ))}
+                </ul>
             </div>
         </div>
         
