@@ -13,7 +13,7 @@ class MainContent extends React.Component {
         {}
         <MenuToggle></MenuToggle>
         {}
-        <SideMenu classname="side-menu"></SideMenu>
+        <SideMenu className="side-menu"></SideMenu>
         <div className="scrolly-gap" />
         <QuoteContainer></QuoteContainer>
         <div className="scrolly-gap" />

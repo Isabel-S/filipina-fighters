@@ -527,25 +527,7 @@ function generateMenuItems() {
         menuItem.classList.add('level-'+headingLevel)
         menuItem.appendChild(menuLink);
 
-        // // Create a new unordered list if the heading level increases
-
-        // if (index > 0 && depth < headingLevel) {
-        //     const newUl = document.createElement('ul');
-
-        //     currentUl.lastElementChild.appendChild(newUl);
-        //     currentUl = newUl;
-        //     depth = headingLevel
-        // }
-
-        // // Create a new list item and append it to the current unordered list
         currentUl.appendChild(menuItem);
-
-        // // Update the current unordered list to the parent level
-        // if (currentUl.children.length > headingLevel) {
-        //     while (currentUl.children.length > headingLevel) {
-        //         currentUl = currentUl.parentElement.parentElement; // Move up two levels (li -> ul -> li)
-        //     }
-        // }
     });
 
     // Append the menu list to the side menu

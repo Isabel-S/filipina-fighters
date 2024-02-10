@@ -1,0 +1,50 @@
+.title-container {
+    margin-left: 50px;
+    margin-right: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.title-text-container {
+    flex: 1;
+}
+
+.title-text-overlapping {
+    position: relative;
+    flex-shrink: 2;
+    font-size: 3em;
+    font-family: 'Domine', serif;
+}
+
+.title-text-main-hidden {
+    visibility: hidden;
+}
+
+.title-text-static {
+    flex-grow: 1;
+    font-size: 1.2em;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.title-text-author-date {
+    font-size: 1.5em;
+}
+
+.title-text-main {
+    position: absolute; /* Adjust the left position as needed to overlap the image */
+    top: 0px;
+    left: 0px;
+}
+
+.title-image-container {
+    flex: 3;
+    overflow: hidden; /* Hide any content that overflows the div */
+}
+
+.title-image {
+    left: -100px;
+    width: 100%; /* Set the image width to 100% of the div's width */
+    height: 100%; /* Set the image height to 100% of the div's height */
+    object-fit: cover; /* Maintain aspect ratio while covering the div */
+}

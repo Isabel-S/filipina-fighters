@@ -2,9 +2,9 @@ import React from "react";
 
 class ScrollySection extends React.Component {
   render() {
-    const { classname, id } = this.props;
+    const { id } = this.props;
     return (
-      <section className="scrolly" id="scrolly1" classname={classname} id={id}>
+      <section className="scrolly scrolly1" id={id}>
         <figure>
           <img
             className="ressa-image"
