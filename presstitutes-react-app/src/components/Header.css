@@ -31,6 +31,10 @@
     font-size: 1.5em;
 }
 
+.title-text-sub {
+    font-size: 1.5em;
+}
+
 .title-text-main {
     position: absolute; /* Adjust the left position as needed to overlap the image */
     top: 0px;

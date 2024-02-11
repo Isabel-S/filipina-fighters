@@ -4,6 +4,7 @@ import titleImage from '../img/sq (1).jpg';
 
 function Header() {
   return (
+    <header>
       <div className="title-container">
         <div className="title-text-container">
           <div className="title-text-overlapping">
@@ -21,6 +22,8 @@ function Header() {
           <img className="title-image" src={titleImage} alt="Six Filipina Journalists" />
         </div>
       </div>
+    </header>
+      
   );
 }
 
