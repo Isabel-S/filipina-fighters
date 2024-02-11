@@ -1,0 +1,60 @@
+/* misc embeddings */
+iframe {
+    width: 100vh;
+    height: 100vh;
+    display: block;
+    border: 0px;
+    margin: auto;
+}
+
+embed {
+    width:100vh;
+    height: 70vh;
+}
+
+button {
+    font-family: 'Domine', serif;
+}
+
+.toggle-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+    margin-bottom: 10px;
+}
+
+.toggle-button {
+    background-color: lightgray; /* Default background color for non-selected buttons */
+    border: none;
+    color: #333;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.toggle-button.active {
+    background-color: #fff; /* White background for selected button */
+    color: #333;
+    font-weight: 400;
+}
+
+.toggle-button.active p{
+    font-weight: bold;
+}
+
+.toggle-button:hover {
+    background-color: #eee; /* Light gray background on hover for non-selected buttons */
+}
+
+.visual-container {
+    width: 70%;
+    margin-left: 23%;
+    margin-right: 23%;
+    display: none;
+}
+
+.active {
+    display: block;
+}

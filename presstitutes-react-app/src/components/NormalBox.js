@@ -1,13 +1,14 @@
 import React from 'react';
 
-// Define the NormalBox component
 const NormalBox = ({ boxProps }) => {
-  const { boxTitle, boxText } = boxProps; // Destructure the boxProps object
+  const { boxTitle, boxText } = boxProps;
 
   return (
     <div className="normal box">
       <p className="box-title">{boxTitle}</p>
-      <p className="box-text">{boxText}</p>
+      {boxText.map((item, index) => (
+        <p key={index} className={item.class || ''}>{item.text}</p>
+      ))}
     </div>
   );
 };
