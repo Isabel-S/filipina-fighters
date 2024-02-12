@@ -21,7 +21,7 @@ const Menu = ({ headings }) => {
                 <ul>
                     {headings.map((heading) => (
                         <li key={heading.text} className={`level-${heading.className[7]}`}>
-                        <a href={`#${heading.id}`}>{heading.text}</a>
+                        <a href={`#${heading.text}`}>{heading.text}</a>
                         </li>
                     ))}
                 </ul>
