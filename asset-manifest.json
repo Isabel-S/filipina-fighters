@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fc6566f2.css",
+    "main.js": "/static/js/main.d1ba0289.js",
+    "static/js/592.f2f5a154.chunk.js": "/static/js/592.f2f5a154.chunk.js",
+    "static/media/gender3.png": "/static/media/gender3.f58efb16bffbe7ffaf80.png",
+    "static/media/gender1.png": "/static/media/gender1.8e3898d7c8764deb4886.png",
+    "static/media/gender2.png": "/static/media/gender2.3e0d786766a2584821f6.png",
+    "static/media/dutertegender.png": "/static/media/dutertegender.c1d337c5f70e67a301fd.png",
+    "static/media/mocha.png": "/static/media/mocha.c79e6143efbb59a24954.png",
+    "static/media/GettyImages-1124822859-e1633722697760 copy.jpg": "/static/media/GettyImages-1124822859-e1633722697760 copy.a172f12ae0a6bb8fea43.jpg",
+    "static/media/ellen-tordesillas.png": "/static/media/ellen-tordesillas.51ae005d8faf4a5dbdd9.png",
+    "static/media/3.png": "/static/media/3.23d9830c00f0e681fd5c.png",
+    "static/media/2.png": "/static/media/2.68b2fa76761aab01f200.png",
+    "static/media/4.png": "/static/media/4.19a24bf83732379c22a1.png",
+    "static/media/1.png": "/static/media/1.9de22bdf5a2894bd7a27.png",
+    "static/media/pia-ranada.png": "/static/media/pia-ranada.da326317f625fa481cde.png",
+    "static/media/willie.png": "/static/media/willie.50db56b01dc47e46ea4c.png",
+    "static/media/bloggertordesillas.png": "/static/media/bloggertordesillas.6cabd1b749ee22b016f9.png",
+    "static/media/table3.png": "/static/media/table3.3258b34e2e6c157a1dda.png",
+    "static/media/gendertable1.png": "/static/media/gendertable1.9c005ae3c5f642bc8dbf.png",
+    "static/media/table1.png": "/static/media/table1.4d5417ec86f749d45fd2.png",
+    "static/media/table2.png": "/static/media/table2.7a09f82be68bf9b746ca.png",
+    "static/media/maria-ressa-arrest-naia-march-29-2019-003.jpg": "/static/media/maria-ressa-arrest-naia-march-29-2019-003.21e622fa3a7ef0b47f8d.jpg",
+    "static/media/gendertable3.png": "/static/media/gendertable3.070eeced356fab8350ba.png",
+    "static/media/static.reuters.jpg": "/static/media/static.reuters.b9df543cdb1d33aeaf86.jpg",
+    "static/media/translation-1.png": "/static/media/translation-1.dd2e4c12eaf37b90d136.png",
+    "static/media/gendertable2.png": "/static/media/gendertable2.e6cf87bae3585f62eaa6.png",
+    "static/media/sq (1).jpg": "/static/media/sq (1).03d180051fa9e141d73f.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.fc6566f2.css.map": "/static/css/main.fc6566f2.css.map",
+    "main.d1ba0289.js.map": "/static/js/main.d1ba0289.js.map",
+    "592.f2f5a154.chunk.js.map": "/static/js/592.f2f5a154.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc6566f2.css",
+    "static/js/main.d1ba0289.js"
+  ]
+}
