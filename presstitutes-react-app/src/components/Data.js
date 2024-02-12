@@ -251,7 +251,7 @@ const twoGraphs2Props = {
 
 const paragraph11Items = [
     {text: "The types of attacks can be categorized as “attacks on credibility”, “political” or labeled as “dilawan”, “sexist”, or “other”.",
-     class: "normal"}
+     className: "normal"}
 ];
 
 const bulletProps1 = [
@@ -263,7 +263,7 @@ const bulletProps1 = [
 
 const paragraph12Items = [
     {text: "There is a fair amount of sexist abusive comments, a level of explicit attack that only women journalists receive.",
-     class: "normal"}
+    className: "normal"}
 ];
 
 const twoGraphs3Props = {

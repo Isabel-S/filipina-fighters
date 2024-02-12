@@ -3,7 +3,7 @@ import { Scrollama, Step } from 'react-scrollama';
 import './Scrolly.css';
 
 const Scrolly = ({ props }) => {
-  const [currentStepIndex, setCurrentStepIndex] = useState(null);
+  const [currentStepIndex, setCurrentStepIndex] = useState(0);
 
   const onStepEnter = ({ data }) => {
     setCurrentStepIndex(data);
