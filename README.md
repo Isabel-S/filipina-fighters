@@ -1,4 +1,9 @@
 # #Presstitute
+<p align="center">
+  <img src="website.gif" width="400" />
+  <img src="dataviz.gif" width="400" />
+</p>
+
 
 This repo holds the code for the website – [https://philippine-presstitutes.github.io/](https://philippine-presstitutes.github.io/) – and data analysis (‘data’ folder) for the research presented on the site. This website is a longform article on the “Online Violence Faced By Filipina Journalists and Fighting Back with Data”. The accompanying text for this site is in a [GoogleDoc](https://docs.google.com/document/d/1Z-6rlWvs_70CEHUZHIwPLRhYmQEHSYC3iNyV6bBMKDU/edit), and slides for this used in a final research presentation are [here](https://docs.google.com/presentation/d/10xhjGeS2pM8kFp60TTcwAT_G4g0tEveGz27zVPkQGig/edit#slide=id.g276048eb516_0_0). 
 
