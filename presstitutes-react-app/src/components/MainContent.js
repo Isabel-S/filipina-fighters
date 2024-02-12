@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React from 'react';
 import './MainContent.css'; 
 import Menu from './Menu';
 import QuoteContainer from './QuoteContainer';
