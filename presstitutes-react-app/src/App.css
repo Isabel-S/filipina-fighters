@@ -1,0 +1,57 @@
+
+.App {
+  height: 100vh;
+  padding-top: 100px;
+  background-color: #121212; /* Set the background color to black */
+  color:white;
+  min-height: 1280px;
+  font-family: 'Domine', serif;
+}
+
+img {
+  border-radius: 1%;
+  width: 100%; /* Set the image width to 100% of the div's width */
+  height: 100%; /* Set the image height to 100% of the div's height */
+  object-fit: cover; /* Maintain aspect ratio while covering the div */
+}
+
+/* Menu Toggle */
+/* Button Styles */
+#menu-toggle {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  z-index: 2; /* Set a higher z-index to ensure it appears over other content */
+  background-color: transparent;
+  border: transparent;
+}
+
+/* Hamburger Menu Icon Styles */
+.menu-icon {
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+}
+
+.bar {
+  width: 30px;
+  height: 3px;
+  background-color: white;
+  margin: 3px 0;
+  border-radius: 2px;
+  transition: 0.4s;
+}
+
+/* paragraph text */
+.normal {
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-bottom: 1.5em;
+  font-size: 20px;
+  line-height: 1.3em;
+  color: lightgray;
+}
+
+.small {
+  font-size: 15px;
+}

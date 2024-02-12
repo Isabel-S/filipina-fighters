@@ -1,0 +1,50 @@
+/* Apply animation to the bars for a menu-like effect */
+#menu-toggle.open .bar:nth-child(1) {
+    transform: rotate(-45deg) translate(-5px, 6px);
+}
+
+#menu-toggle.open .bar:nth-child(2) {
+    opacity: 0;
+}
+
+#menu-toggle.open .bar:nth-child(3) {
+    transform: rotate(45deg) translate(-5px, -6px);
+}
+
+/* Side Menu Styles */
+.side-menu {
+    position: fixed;
+    top: 0px;
+    padding-top: 25px;
+    left: -250px; /* Start with the menu hidden off-screen */
+    width: 250px;
+    height: 100%;
+    background-color: rgba(51, 51, 51, 0.8); /* Use rgba to set opacity (0.8 is semi-opaque) */
+    overflow-x: hidden;
+    transition: left 0.3s; /* Transition only the 'left' property */
+    z-index: 1; /* Set a higher z-index to ensure it appears over other content */
+}
+
+.side-menu ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.side-menu ul .level-2 {
+    padding-left: 20px; /* Add an indentation for submenus */
+}
+
+.side-menu ul .level-3 {
+    padding-left: 40px; /* Add an indentation for submenus */
+}
+
+.side-menu a {
+    display: block;
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+}
+
+.side-menu a:hover {
+    background-color: #555;
+}

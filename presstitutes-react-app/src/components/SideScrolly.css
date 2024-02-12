@@ -1,0 +1,13 @@
+.side-scrolly {
+    padding-right: 5%;
+    padding-left: 5%;
+}
+
+.side-scrolly article {
+    margin-left: 50%;
+}
+
+.side-scrolly figure {
+    width: 50%;
+    margin-right: 1em;
+}
