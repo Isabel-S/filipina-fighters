@@ -30,6 +30,11 @@
     object-fit: cover; /* Maintain aspect ratio while covering the div */
 }
 
+.scrolly figure embed {
+    height: 70vh; /* Set the image height to 100% of the div's height */
+    object-fit: cover; /* Maintain aspect ratio while covering the div */
+}
+
 .step {
     margin: 0 auto 2rem auto;
     background-color: rgba(0, 0, 0, 0.8);

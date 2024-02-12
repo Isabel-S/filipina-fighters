@@ -12,12 +12,14 @@ const VisualToggle = ({ visuals, defaultActiveIndex = null }) => {
 
   const renderVisualContent = (visual) => {
     switch (visual.type) {
-      case 'iframe':
-        return <iframe src={visual.src} title={visual.label} />;
-      case 'embed':
-      default:
-        return <embed className="wide-visual" type="text/html" src={visual.src} />;
-    }
+        case 'iframe':
+          return <iframe className="wide-visual" src={visual.src} title={visual.label} />;
+        case 'img':
+          return <img className="wide-visual" src={visual.src} alt={visual.label} />;
+        case 'embed':
+        default:
+          return <embed className="wide-visual" type="text/html" src={visual.src} />;
+      }
   };
 
   return (

@@ -20,7 +20,7 @@ const Menu = ({ headings }) => {
             <div id="side-menu" className={`side-menu ${isOpen ? 'show' : ''}`} style={{ left: isOpen ? '0px' : '-250px' }}>
                 <ul>
                     {headings.map((heading) => (
-                        <li key={heading.id} className={`level-${heading.level}`}>
+                        <li key={heading.text} className={`level-${heading.className[7]}`}>
                         <a href={`#${heading.id}`}>{heading.text}</a>
                         </li>
                     ))}

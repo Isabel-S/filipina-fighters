@@ -15,7 +15,7 @@ const Scrolly = ({ props }) => {
   // Determine the image to display based on the current step index
   // If 'slides' prop exists and has an image for the current step index, use it.
   // Otherwise, use the default 'image' prop.
-  const currentImage = props.slides && props.slides.length > currentStepIndex
+  const currentContent = props.slides && props.slides.length > currentStepIndex
     ? props.slides[currentStepIndex]
     : props.image;
 
@@ -23,7 +23,11 @@ const Scrolly = ({ props }) => {
     <div style={{ margin: '0 0' }}>
       <section className={sectionClassName} id="scrolly1">
         <figure style={{ position: 'sticky', top: '50vh', transform: 'translateY(-50%)' }}>
-          <img className="ressa-image" src={currentImage} alt={props.imageAlt} />
+        {props.chart ? (
+            <embed className="wide-chart" type="text/html" src={currentContent} />
+          ) : (
+            <img className="ressa-image" src={currentContent} alt={props.imageAlt} />
+          )}
         </figure>
         <article>
           <Scrollama offset={0.7} onStepEnter={onStepEnter}>

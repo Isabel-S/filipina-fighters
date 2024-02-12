@@ -1,8 +1,15 @@
 import React from 'react';
-import './Image.css';
 
-const Image = ({ image, imageAlt, className }) => {
-  return <div className={className}><img src={image} alt={imageAlt} className='img' /></div>;
+const Image = ({ image, imageAlt, className, embed }) => {
+    return (
+        <div className={className}>
+          {embed ? (
+            <embed className="wide-chart" type="text/html" src={image} />
+          ) : (
+            <img src={image} alt={imageAlt} className="img" />
+          )}
+        </div>
+      );
 };
 
 export default Image;
